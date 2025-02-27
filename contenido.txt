@@ -1,0 +1,4904 @@
+Selección de Equipos de Perforación - Introducción
+
+• Un Equipo de Perforación está compuesto de muchos equipos individuales que combinados forman una unidad capaz de
+construir pozos. Sin esta unidad no se podrían perforar o revestir los pozos.
+• El procedimiento correcto para seleccionar un Equipo de Perforación es el siguiente:
+1) Diseñar el Pozo
+2) Establecer las cargas máximas esperadas durante las operaciones de perforación, completación y prueba de pozos.
+3) Conseguir los equipos disponibles en el área y verificar que cumplan con los requisitos del punto # 2.
+4) Acordar la disponibilidad con los contratistas de Equipos de Perforación.
+5) Realizar un proceso de licitación y seleccionar el Equipo de Perforación basado en costos, capacidades y disponibilidad.
+
+Selección de Equipos de Perforación
+
+Hay un número de consideraciones al momento de seleccionar un equipo de Perforación, tales como:
+– Rangos de profundidades del pozo y tamaños de los agujeros que van a perforarse
+– Cargas de las tuberías de revestimiento esperadas
+– Rango de velocidades rotatorias requeridas
+– Sartas de Perforación . Pesos y tamaños de las barrenas
+– Límites en los tamaños de los ensamblajes
+– Sistema de lodos, Tanques o Presas para Lodo y Múltiples de Fflujo
+– Servicios auxiliares y potencia requerida
+– Altura de la subestructura - Espacio libre bajo ella.
+– Equipo para prevención y control de reventones
+– Sistemas de Control
+– Misceláneos (Soporte para tubulares, herramientas, instrumentos,etc)
+
+Instalaciones de Perforación
+
+Se pueden clasificar ampliamente en 6 tipos diferentes:
+• Equipos de Perforación en Tierra
+• Equipos de Perforación costa afuera
+• Equipos de Perforación Flotantes
+• Equipos Sumergibles
+• Equipos Semi-submergibles
+• Equipos de Perforación apoyados en el fondo:
+• Plataformas Auto – Elevables
+• Plataformas Fijas en el Mar
+• Barcos/Barcazas de Perforacíón
+
+Equipos para perforar en tierra firme
+Típicamente se fabrican en configuraciones liviana, mediana y pesada.
+Se movilizan empleando camiones de carga pesada y grúas.
+
+Los equipos livianos sólo pueden perforar unos pocos miles de pies.
+Los grandes son capaces de perforar por encima de los 20,000 pies.
+
+Barcazas Sumergibles
+Ideales para perforar en aguas muy someras. Pueden navegar o ser remolcados.
+Se sumergen cuando los compartimientos del casco son inundados con agua.
+El equipo se apoya en el lecho del agua y parte del mismo queda por encima del nivel
+del agua para permitir el trabajo de la cuadrilla de perforación.
+Estos equipos son apropiados para pantanos poco profundos, ríos y aguas interiores.
+
+Construídos especialmente como sumergibles.
+Pueden operar también en áreas con frío extremo.
+Los equipos sumergibles se pueden anclar cuando se utilizan en profundidades de hasta
+175 pies o pueden descansar sobre el lecho marino cuando trabajan en profundidades
+desde 5 a 20 pies.
+Barcazas de Pantano se utilizan para perforar pozos en áreas poco profundas de hasta 20
+pies en canales tierra adentro o pantanos.
+
+Plataformas Móviles Auto-Elevables
+Poseen patas estructurales que se pueden subir y bajar a voluntad.
+Cuando las patas son levantadas el equipo flota en el agua y puede ser
+remolcado o transportado por barco a otra localización.
+Al llegar a la nueva localización se bajan las patas hasta que penetren y se afiancen
+sobre el lecho marino. La plataforma se eleva entonces sobre el nivel del agua.
+
+Las plataformas Auto – Elevables pueden perforar en aguas hasta de 400 pies
+
+Plataformas Fijas Autosuficientes y Plataformas Fijas con barcos de apoyo
+
+Permanecen inmóviles una vez construidas
+Pueden perforar varios pozos desde una misma localización
+Pueden ser autosuficientes o asistidos por barcazas (chalanas) de servicio.
+Tres tipos de Plataformas Fijas son:
+Soportada sobre pilotes de Acero, Montada sobre tubo conductor hincado, y
+Montada sobre pedestal de concreto sumergido.
+
+Equipos Semi-Submergibles
+
+Tienen patas y apoyos huecos. Como los sumergibles, las patas son inundadas.
+Sin embargo, se requieren anclas y / o impulsores y posicionadores para mantener el
+equipo en posición. Cuando se emplean impulsores, se llaman de Posicionamiento
+Dinámico (controlado por computador).
+Con este sistema se mantiene el equipo estable sobre el pozo a perforar
+Utilizan instalaciones sub marinas para control del pozo fluyendo – BOPs
+
+Barcos Perforadores
+Son unidades flotantes costa afuera auto-propulsadas.
+Emplean sistema para control de reventones similares a los Semi-Sumergibles
+Una Placa-Base de acero con hueco central se posiciona en el lecho marino
+para indicar el sitio en donde se perforará el pozo.
+Los equipos Semi-Sumergibles y Barcos Perforadores se posicionan sobre la
+placa para comenzar la perforación del pozo a través de ellas
+
+Las características principales de los Equipos para perforar en off shore: Helitransportable, autotransportable,
+convencional, plataformas (barcaza, fija, jack up, semisumergible)
+
+Perforación en el Mar
+• Esquema de equipo flotante
+
+Resumen de las Instalaciones de Perforación
+
+Offshore Drilling
+• Equipos de Perforación Offshore (Rigs)
+
+Perforación en el Mar
+• Proceso de Perforación en el mar
+• Primera sección: 26”/28” Broca x 42” Abridor – 36” Casing
+
+Lecho Marino
+37 ea 6 5/8" #50 DP stands
+
+X/O 1.445m
+
+36"
+
+33ea 5 1/2" DP stands
+
+Casing
+
+1ea 5 1/2" DP 6.18 m
+
+X/O 1.54 m
+
+36" LPWH DATUM
+
+DAT (above LPWH)
+0.21m
+
+2817.90 m
+
+LPWH top
+
+2ea Bullseye
+36" CART
+
+4ea 4" Ball Valves
+
+mud line
+
+2820.70 m
+
+92.53 m
+Total Casing Length
+
+2.80 m
+Stick up above
+mud line
+
+89.53m
+Casing Length
+Effective
+
+2910.4 m
+
+Perforación en el Mar
+
+RKB
+6 5/8" DP FASTR
+
+Lecho Marino
+
+• Proceso de Perforación en el mar
+• Segunda sección: 26” – 22” Casing
+
+6 5/8" DP 50#
+
+36"
+
+X/O 1.12m
+
+18-3/4" W/hd Datum
+
+Casing
+16"' Liner Hgr
+
+1.39 m 36" W/hd Datum
+
+Tope de Sal
+18"' Liner Hgr
+22" Casing
+
+MUD LINE
+
+36" shoe Depth
+
+16" Hanger Profile
+
+22" casing shoe
+TD 26" hole
+
+Perforación en el Mar
+• Proceso de Perforación en el mar
+• Jetting Casing 36” + Perforación 26” para Casing 22”
+• El suelo debe ser competente.
+• Se utiliza una BHA con motor de fondo.
+• El Casing de 36” se vincula a la BHA con una herramienta
+tipo DAT (Drill Ahead Tool)
+• El trepano tiene que estar posicionado dentro o fuera del casing,
+según política de la compañía.
+• El casing se “entierra” a medida que se circula con retorno
+dentro de Casing 36”, evitando retorno por fuera del casing 36” (broaching)
+• Se controla el peso que se apoya a medida que progresa la operación.
+• Una vez alcanzada la profundidad, se libera la BHA
+y se perfora la siguiente sección.
+• Cuando se termina la sección de 26” se recupera el DAT y se desconecta del cabezal.
+
+1ea Bullseye
+36" DAT
+
+1ea Bullseye
+
+mud mat
+mud line
+
+Perforación en el Mar
+
+• Proceso de Perforación en el mar
+• BOP + Columna del Riser
+• Permite retorno a superficie.
+• Permite comunicación hidráulica con la
+BOP.
+• La BOP es un conjunto de válvulas de
+seguridad que se encuentra por encima del
+cabezal.
+• Permite flexión debido a movimientos del
+rig.
+
+Perforación en el Mar
+• Proceso de Perforación en el mar
+• BOP + Columna del Riser
+
+Perforación en el Mar
+• Proceso de Perforación en el mar
+• BOP + Columna del Riser
+• Juntas tienen módulos de flotación de
+espuma sintactica o bien, sin modulo
+(juntas slick).
+• Densidad esta identificada por colores
+• Una vez en el mar, pueden llegar a
+pesar 4% de su peso.
+• Su distribución depende del área de
+trabajo. Se especifica en el ‘Riser
+Analysis’.
+• Material del tubo: 80 ksi.
+• Longitud 75-90pies (23-27m).
+
+Perforación en el Mar
+• Proceso de Perforación en el mar
+• BOP + Columna del Riser
+• Conector al cabezal de pozo
+• Tiene un circuito de cierre y 2 de apertura
+• La redundancia del circuito de apertura es para mitigar
+problemas en caso de existir hidratos.
+• Provee continuidad e integridad entre el cabezal de pozo y la
+columna de riser.
+• Continuidad: conector vincula al cabezal en el perfil sobre el
+cuerpo del cabezal de alta presión.
+• Integridad hidráulica: mediante arandela (sello metal-metal)
+– único uso.
+
+Perforación en el Mar
+• BOP + Riser string
+• Wellhead Connector
+• Stack up diagram
+
+Perforación en el Mar
+Lecho Marino
+
+• Proceso de Perforación en el mar
+• Tercera sección: 18-1/8” x 21” – 16” Liner
+
+36"
+
+Casing
+
+28" Casing
+
+• Se perfora y ensancha al mismo tiempo.
+• Se desplaza el sistema de lodo una vez confirmada integridad del riser.
+• Contingencia 18” Liner: se ensancha el hoyo hasta la profundidad del
+liner de 18” en caso de que se utilice. Entonces, se perforará luego 161/2” x 18” hasta la profundidad del liner de 16”.
+• Las conexiones de las camisas son integrales (tipo flush).
+• Se utiliza un protector en el cabezal antes de perforar. Herramienta
+puede estar incorporada en la BHA (broca de 18-1/8” es de mayor
+diámetro).
+• Cementación por debajo del zapato anterior.
+
+Tope de Sal
+
+22" Casing
+
+16" Liner
+
+Perforación en el Mar
+Lecho Marino
+
+• Proceso de Perforación en el mar
+• Cuarta sección: 14-3/4” x 16-1/2” – 14” Casing
+• Se perfora y ensancha al mismo tiempo.
+• Se densifica el sistema de acuerdo a los requerimientos del pozo.
+• En el caso de perforar sal, es crítico la salida de la misma. De
+perforar demasiado, pueden inducirse perdidas.
+• Casing de 14” se arma en tiros offline. El torque se chequea cuando
+va a bajarse. Puede ser la más pesada del pozo (siendo la base del
+diseño de sarta).
+• El equipo de flotación es de tipo autollenado y la sarta de descenso
+puede tener dispositivos para evitar sobrepresión (surge).
+• Se utiliza el mismo protector en el cabezal que la sección anterior.
+• Cementación por debajo del zapato anterior.
+
+36"
+
+Casing
+
+28" Casing
+
+Tope de Sal
+
+22" Casing
+
+16" Liner
+
+Base de Sal
+
+14" Casing
+
+Perforación en el Mar
+Lecho Marino
+
+• Proceso de Perforación en el mar
+• Quinta sección: 12-1/4”– 9-5/8” Liner
+
+36"
+
+Casing
+
+28" Casing
+
+• Se aligera el sistema de acuerdo a los requerimientos del pozo.
+• Liner de 9-5/8” se arma en tiros offline. El torque se chequea cuando
+va a bajarse.
+• Se utiliza un protector más robusto en el cabezal que asienta sobre el
+colgador de 14”.
+• Cementación hasta el colgador.
+• Puede hacerse un tieback hasta el cabezal.
+
+Tope de Sal
+
+22" Casing
+
+16" Liner
+
+Base de Sal
+
+14" Casing
+
+9-5/8" Liner
+
+Introducción
+Conocimiento del equipo usado en perforación y su función.
+Las operaciones en el taladro tienen como fin principal el lograr alcanzar las formaciones que
+contienen hidrocarburos de una manera económica, efectiva y que permita el recobro de estos
+en superficie.
+Estas operaciones conllevan riesgos relacionados con el equipo usado y las formaciones
+atravesadas.
+
+Se darán a conocer las operaciones de mayor impacto en la perforación y los problemas
+relacionados con las actividades de campo, así como la participación de empresa prestadoras
+de servicio.
+
+Las características principales de los Equipos para perforar en tierra firme son su portabilidad y la profundidad máxima de
+operación.
+
+Móviles Ensamblables
+Los equipos componentes de estos Perforadores van montados en “tráiler ”, de tal forma, que el Equipo puede
+transportase en unidades que pueden ser acopladas fácilmente.
+El mástil se transporta en un tráiler, a la nueva locación , y luego se levanta como una unidad integral usando el sistema
+de levantamiento del equipo (malacate).
+
+Tráiler del Mástil
+
+Tráiler Sub Estructura
+
+Ensamblando Mástil y Sub estructura
+
+Equipo Perforador Montado para Levantar el Mástil
+
+Autopropulsados
+
+Son Equipos adecuados para pozos de profundidades moderadas.
+Normalmente van montados sobre camiones o trailers.
+El mástil telescópico portátil se levanta por medio de los gatos
+hidráulicos de la unidad.
+Característica principal:
+Los cambios de locación son muy rápidos; para pozos poco
+profundos.
+
+Sobre Orugas
+Característica principal:
+Permiten desplazarse por cualquier tipo de terreno
+
+Equipos Automáticos Hidráulico
+
+Equipo Flex Rig
+
+Criterios de selección
+
+- Ambiente geográfico
+- Ubicación de la localización
+- Tipos de pozos
+- Fases involucradas
+
+El Área donde se encuentre la localización a perforar define, en primera instancia, que tipo de Equipo de Perforación es
+necesario.
+• En tierra (si es accesible): Equipos Perforadores autoportables o ensamblables.
+• En localizaciones inaccesibles: Equipos Helitransportables , Ensamblados livianos.
+• En localizaciones pobladas: Se perforan pozos dirigidos , desde una misma localización fuera de la zona poblada.
+Tipos de Pozo
+El requerimiento de un Equipo de Perforación dependerá, principalmente, del tipo de pozo a perforar (somero, mediano,
+vertical, direccional, reentrada).
+
+La selección del equipo de Perforación es función del número de Etapas requeridas en el proceso de perforación, ya
+que implica un conjunto de requisitos del Equipo (capacidad del mástil, potencia del cuadro de maniobra , potencia de
+la bomba, capacidad de almacenamiento, presión de trabajo del múltiple de estranguladores), para completar las
+diferentes fases de la perforación de un pozo.
+
+Fases involucradas
+
+Las cargas a manejar por el Equipo Perforador permiten determinar cuál es la capacidad de carga del mástil que se requiere ,
+potencia mínima requerida por el cuadro de maniobra , capacidad de carga de bloques de corona y viajero, y de la mesa
+rotatoria.
+Las presiones inherentes a los yacimientos a perforar definen el diseño de los equipos de seguridad (BOP y múltiple de
+estranguladores), en lo referente a presiones de trabajo requeridas.
+Equipos Requeridos
+Los equipos adicionales (tanques de lodo, bombas de lodo, separadores de sólidos, top-drive), también influyen en la
+selección del Equipó de Perforación adecuado para perforar en áreas determinadas.
+
+Componentes del Taladro
+
+Componentes del Taladro
+Corona
+Cable de Perforación
+Monkeyboard
+Bloque Viajero
+Top Drive
+Mastil
+Tubería de Perforación
+Casa del Perro
+Preventoras
+Generadores
+Bombas de Lodo
+Tanques de Lodo
+Piscina de Reserva
+Zarandas
+Choke Manifold
+Rampa de Tubería
+
+Sistema para Levantamiento o Izado de Cargas
+Proporciona tanto el equipo necesario como las áreas de trabajo
+• La Estructura Soportante
+• El equipo para el Izaje o Levantamiento de cargas
+
+La Estructura Soportante
+
+• La Sub-Estructura
+• El Piso del Equipo de Perforación
+• La Torre de Perforación
+
+Componentes del Taladro
+
+Torre ó Mástil (Mast)
+
+Es una estructura de acero con capacidad para soportar seguramente todas las
+“cargas” verticales y el empuje máximo de la velocidad del viento.
+La plataforma de trabajo tiene que estar a una altura apropiada para sacar la tubería
+de perforación en dos o tres trozos de barras.
+En general, se componen de varias secciones que pueden ser desarmadas y
+transportadas de a 2 o 3 secciones .
+
+1. El mástil debe soportar las cargas al gancho, la tubería de perforación
+almacenada y las cargas debido a los vientos.
+2. El mástil debe tener la suficiente altura y resistencia para introducir y sacar las
+cargas dentro y fuera del pozo.
+3. El mástil debe ser lo suficientemente resistente para soportar la carga al gancho,
+a la línea rápida y la línea muerta.
+• El mástil se asienta sobre la subestructura sobre la cual está montado los equipos de perforación. La subestructura debe tener
+la capacidad de soportar la sarta de perforación en el mástil más la carga del revestidor más pesado.
+• La altura de la subestructura sobre el piso depende del tamaño del Equipo de Perforación. Varía entre los 10 a 35 pies.
+
+Componentes del Taladro
+
+El Mástil
+Existen dos tipos de Mástiles:
+Mástil Estándar: es una estructura apernada (o atornillada) que debe ser ensamblada pieza por pieza; generalmente utilizada en
+equipos costa afuera.
+· Los mástiles instalados en Equipos de Perforación flotantes están diseñados para soportar cargas dinámicas mayores debido a
+movimientos de cabeceo, ladeado, sube y baja, inclinaciones, y fuerza de los vientos.
+· El espacio disponible entre el piso del Equipo de Perforación y el bloque corona debe ser mayor para poder manejar los
+movimientos verticales de la unidad.
+Mástil o Torre portátil:
+· Este tipo de mástil pivotea desde su base y es bajado a la posición horizontal utilizando el malacate después de terminar el
+pozo y el Equipo de Perforación está listo para moverse para otra locación.
+· El mástil se desarma en varias secciones unidas por pasadores que son normalmente transportadas en
+camiones.
+
+Sub Estructura
+Se recomienda que la subestructura tenga un rango de capacidad de soporte de cargas de acuerdo a:
+
+El peso máximo de tubería que pueda pararse en el mástil.
+El máximo peso de tubería que pueda colgarse en la mesa rotatoria, sin considerar la tubería parada.
+Peso de los equipos y motores.
+Espacio requerido.
+
+Sub Estructura
+
+La Sub Estructura debe tener altura suficiente
+para Instalar el Conjunto de BOPs
+
+Sistema de Izamiento
+
+Para reducir la Fuerzas requeridas cuando se realizan las maniobras de elevar y bajar las columnas de tubulares que se
+usan en los pozos se utiliza el dispositivo mecánico llamado:
+Sistema de Izaje
+Este sistema de izaje es un sistema de poleas y cable que consta de un tambor donde se enrolla la “línea rápida” y su
+extremo se hace firme en el.
+Un Aparejo (traveling block) con un juego de poleas volantes , corona con poleas fijas, un anclaje donde se afirma con
+una grampa el cable que va entrando al sistema.
+En este anclaje se instala el sensor del peso del indicador de peso en la consola del perforador
+
+La Principal Función del Aparejo es obtener una multiplicación de la Fuerza impulsora para aumentar la carga en el
+Gancho a levantar.
+
+Sistema para Levantamiento o Izado de Cargas
+Sistema de Izaje
+Los principales componentes son:
+1. Malacate
+2. Bloque de Cororna
+3. Bloque Viajero
+4. Gancho
+5. Elevador
+6. Cable ó Línea de Perforación
+
+Componentes del Taladro
+Malacate (Drawworks)
+Es el mecanismo de levantamiento en un taladro de perforación. Consiste de un
+winche de gran tamaño que enrolla y libera el cable de perforación y asi levanta o
+baja los componentes de la sarta y las herramientas.
+Es un ensamblaje que cuenta con un tambor rotatorio, provisto de ejes, cadenas y
+engranajes para cambo de velocidades o giro en reversa.
+También tiene un freno principal que para el cable de perforación. El cable de
+perforación se enrolla varias veces en el tambor y pasa a través
+de las poleas de los bloques corona y viajero.
+
+Componentes del Taladro
+CORONA (Crown)
+
+Es un conjunto de poleas ubicado en la parte superior del mástil o taladro. Estas poleas,
+junto con el bloque viajero, permiten bajar o levantar la columna de perforación y las
+cañerías de revestimiento durante el proceso de perforación. El cable de perforación
+pasa a través de estas poleas hasta el tambor de levantamiento, que es parte del
+malacate.
+
+Componentes del Taladro
+Bloque Viajero (Travelling Block)
+Es un arreglo de poleas a través del cual el cable de perforación es manejado y
+sube o baja en la torre.
+Gancho y Eslabones para Elevador
+El gancho y los eslabones cuelgan debajo del bloque viajero para facilitar la
+perforación con la unión giratoria (Swivel) y la corrida de tubería
+
+El Gancho:
+Conecta a la Kelly (flecha) ó el
+Top Drive con el bloque viajero. El
+gancho soporta toda la carga de la sarta.
+
+Unión Giratoria
+(Swivel)
+
+Componentes del Taladro
+Encuelladero (Monkeyboard)
+
+Es la plataforma de trabajo del encuellador desde
+donde organiza la tubería de perforación, su altura
+depende del número de tubos conectados que se
+manejen en el taladro, por lo general tres (90 pies)
+
+La persona encargada de abrir el elevador y
+acomodar la columna de Perforacion en los “peines”
+(“racks”), durante la sacada y de encuellar (cerrar el
+elevador sobre el tubo), para levantarla e
+introducirla al pozo, durante la bajada.
+
+Componentes del Taladro
+
+Tanque de Agua (Water Tank)
+Usado para almacenar agua que es utilizada en la mezcla del fluido de
+perforación, de cemento y para la limpieza del taladro.
+
+Componentes del Taladro
+
+CATLINE Boom & Hoist Line
+Estructura metálica erigida cerca del tope del taladro, usada para levantar
+material.
+
+Anclaje de línea muerta
+1. Sirve para fijar la última línea que viene del bloque
+corona y para permitir el suministro de cable de perforación nuevo desde el
+carrete donde se encuentra almacenada cada vez que se requiera correr y/o
+cortar el cable desgastado. El cable de perforación usado corrido hacia el
+tambor y después cortado y desechado del sistema.
+2. La práctica de deslizar y cortar ayuda a incrementar la vida útil del cable
+de perforación.
+
+Elevadores
+En combinación con los eslabones, proveen el medio para asir los elementos de la
+columna de perforación y cañería y poder introducir o sacar del pozo.
+Están fabricados con materiales ultrarresistentes y con cierre tipo cerrojo, el cual
+evita la apertura del elevador con cargas suspendidas y, al mismo tiempo, de fácil
+apertura cuando no existen cargas impuestas.
+
+Eslabones
+Son las herramientas de enlace entre el gancho y los elevadores
+
+Llaves de Poder
+Son las herramientas utilizadas para dar el torque necesario en función del tipo de tubulares acoplados.
+Son fabricadas de material ultraresistente y están compuestos por dos partes principales: el brazo de la llave
+y las “quijadas”.
+La longitud del brazo de la llave es función del rango de torque que se desee aplicar.
+
+Función del cuadro de Maniobras
+Es un sistema de elevación en el que se puede
+aumentar o disminuir la capacidad de carga a
+través de un cable enrollado en un sistema de
+aparejo.
+Considerando que todos los componentes de un
+Equipo de Perforación son adecuados, la
+capacidad del equipo se limita a la carga que el
+Cuadro pueda levantar y sostener con seguridad.
+
+CUADROS DE MANIOBRAS ACCIONADOS POR
+MOTORES ELÉCTRICOS
+RANGO DE POTENCIA:
+DE 275 HP HASTA 5. 000 HP
+
+Freno de Disco
+
+Sistema de Izamiento
+Consideraciones para el diseño:
+
+1. Determinar el hoyo más profundo a perforar.
+2. Determinar las cargas máximas perforando ó en la corrida de revestimientos.
+3. Utilizar estos valores y compararlos con la capacidad del mástil en los equipos de perforación
+disponibles.
+
+Sistema de Izamiento
+
+Elementos para el Cálculo:
+1. Carga estática del mástil
+2. Factor de Eficiencia
+3. Carga Dinámica en la Corona
+
+Sistema de Izamiento
+Calcular la tensión de la línea y la carga del mástil en condiciones estáticas:
+
+Sistema de Izamiento
+
+· En condiciones dinámicas se debe considerar la fricción entre el cable de perforación y las poleas.
+· El factor de fricción para los rodamientos de tipo normal que hay en el bloque de poleas de corona y viajero
+es 1.04.
+· Consultar la Norma API RP 9B.
+
+Sistema de Izamiento
+Eficiencia del Sistema de Izamiento:
+Factor de Eficiencia (EF) del Sistema de Izamiento
+(Según la Norma API RP9B ):
+
+Donde: n = número de líneas y s = número de poleas
+Nota: Para una configuración normal de bloque corona y viajero en un Equipo de Perforación s =
+n.
+
+Sistema de Izamiento
+Relación entre s y n en casos generales de Equipos de Perforación (Según la norma API RP 9B )
+
+Ejercicio: Factor de Eficiencia
+Calcular el Factor de Eficiencia para un sistema de izamiento que emplea un enhebrado de 8 líneas.
+K= 1.04
+
+Sistema de Izamiento
+· Carga Dinámica de la línea rápida:
+
+· La carga dinámica de la línea muerta está dada por:
+
+¿Cual es la carga total sobre el mástil en condiciones dinámicas?
+
+Donde: W = carga al gancho
+
+Sistema de Izamiento
+Requerimientos de Potencia del Malacate:
+
+· Como regla general el malacate debe tener 1 HP por cada 10 pies a perforar. Según esto un pozo de 20,000
+pies requiere de un malacate de 2,000 HP.
+· Un método mas riguroso para calcular la potencia (HP) requerida es el siguiente:
+Velocidad de la línea rápida (Vf);
+Vf = N x VL
+VL = Velocidad del bloque viajero
+
+Sistema de Izamiento
+Requerimientos de Potencia del Malacate:
+
+· Potencia en el tambor = FFL x Vf
+P = (W x VL) / EF
+· Convirtiendo a caballos de fuerza (HP), la ecuación de arriba se convierte en:
+· Potencia a la salida de Tambor (horsepower) = (W x VL) /(EF x 33,000 )
+
+Sistema de Izamiento
+Requerimientos de Potencia del Malacate:
+
+· La siguiente información se refiere a un sistema de Bloques de Corona y Viajero:
+· Número de Líneas = 10 con EF = 0.81,
+· Carga máxima esperada al gancho= 500,000 lbf,
+· Velocidad del Gancho con carga = 120 pie/min,
+· Diámetro del Tambor = 32”,
+· Eficiencia mecánica del Malacate = 0.88
+
+Ejercicio
+
+Requerimientos de Potencia del Malacate:
+Calcular:
+· La potencia en el Malacate
+· La potencia requerida del motor
+· La velocidad de la línea rápida
+· Las RPM del tambor del malacate.
+
+Potencia del Motor = Potencia en el tambor / EF
+
+En la Perforación es usual utilizar aparejos de 6,8,10 y 12 líneas
+
+Sin embargo, en condiciones Reales esta eficiencia es Menor de 1 debido al rozamiento entre el cable y las poleas y el
+roce al girar las poleas entre sus ejes.
+
+El API ha determinado valores promedios, que son los siguientes:
+
+Cálculo de la capacidad del Mástil
+
+¿Qué porcentaje de la capacidad de diseño del mástil ( dos patas) puede utilizarse si se supone que hay dos poleas viajeras
+(cuatro líneas en la polea viajera y seis líneas en la corona) con la línea muerta fija en la pata derecha del mástil ?
+Datos :
+Tensión en cada cable = W / 4 = T
+Carga total en el mástil = 6 T
+T : tensión
+W : Carga
+Carga Centrada = 4 T
+Porción de la carga centrada absorbida por cada una de las patas del mástil = 4 T / 2 = 2 T
+Carga de la línea rápida = 0,5 T
+Carga de la línea muerta anclada en la pata derecha = 1 T
+Carga total de la pata más solicitada = Carga centrada + Carga línea rápida + Carga línea muerta
+
+Factor de Eficiencia
+
+Por lo tanto, se puede usar el 85,7 % de la capacidad certificada de la Mástil.
+
+¿ Cuál será la Capacidad del mástil antes señalado si la carga a levantar ( carga suspendida en el gancho) es de 200.000 lbs
+y si se cuenta con un arreglo de poleas de cuatro líneas ?
+
+Capacidad Máxima de Carga en el gancho (W )
+
+Es la máxima carga que se puede suspender del gancho del aparejo, ya sea originada por el peso de la sarta de perforación o
+de la cañería de entubación, como por las tensiones que se producen durante un trabajo de pesca, para liberar una tubería
+aprisionada.
+
+Potencia Requerida en el Gancho
+
+Esta determinada por la siguiente Fórmula :
+
+V: Velocidad establecida para sacar tubería (m/seg)
+W: Es la carga suspendida en el Gancho (Kgs)
+
+1 HP : 76,2 kgm/seg
+
+Perdidas de Potencia en el Cuadro de Maniobras y Sistema de Elevación
+
+Se Pierde por Fricción en:
+
++ En Cadenas de Rodillo
+
+Se Pierde en Cuadro Maniobra:
+
++ En los Rodamientos
+
+Sistema de Poleas:
+
++ Rozamiento con el cable y rodamientos
+
+Consecuentemente no se tendrá una Eficiencia Mecánica total
+Potencia Necesaria a la salida del Cuadro de Maniobra
+
+Es la Potencia necesaria a la Entrada del Cuadro de Maniobras para accionar este al máximo
+régimen.
+La Eficiencia del Cuadro de Maniobras es de 0,85
+
+Ejercicio
+Calcular la Potencia en HP de un Cuadro de Maniobra que levantara un peso de 74.000 kgs a una velocidad
+mínima desde el fondo de 0,45 mt/seg.
+
+Componentes del Taladro
+Cable de Perforación (Drilling Line)
+Es un cable grueso de acero, organizado en un tambor o carrete que recorre la corona y el
+bloque viajero.
+Su propósito primario es levantar o bajar dentro del pozo la tubería de perforación ó el
+revestimiento. Es también usado para soportar las herramientas de perforación.
+Constituido generalmente por 6 madejas colocadas alrededor de un núcleo central.
+Cada madeja tiene 19 alambres: uno central rodeado por 9 alambres delgados y estos a su vez
+rodeado por 9 alambres mas gruesos (diseño 6 x 19 Seale)
+
+Cable de Perforación (Drilling Line)
+Tamaño: de 1” a 1 ¾”
+Diseño: Trenzado 6 x19
+Alma ó Núcleo: IWRC
+Independent Wire Rope Core
+Clase de Acero: EIPS
+Extra Improved Plow Steel
+Wire Rope = Cable Trenzado
+Wire = Hilo de alambre
+Core = Núcleo, alma del cable
+Strand = Torón (haz o trenza de Hilos)
+Center = Centro del torón
+
+Correr y Corte Cable
+La línea de perforación está sujeta a grandes
+esfuerzos que
+producen puntos de fatiga, por lo que hay
+necesidad de Mover periódicamente las secciones
+usadas.
+
+Servicio
+Se expresa en toneladas milla o toneladas kilómetro,
+equivalente a mover una carga de una tonelada. a una
+milla o un kilómetro de distancia. Las toneladas/milla de
+servicio se van acumulando durante las operaciones.
+
+Sistema de Izamiento
+El Cable de Perforación:
+Los cables difieren en el número de trenzas o torones y en el arreglo ó patrón de los hilos en cada uno de ellos.
+La mayoría de los Cables de Perforación se clasifican en 4 grupos, basados en el número de Torones y el
+número de hilos por Torón como se muestra en la tabla inferior extraída del manual IADC:
+
+El Trenzado y su construcción
+1. Capa sencilla – Como su nombre lo indica, tiene un solo tendido de hilos de alambre trenzados alrededor del hilo
+central. La figura inferior muestra la configuración mas común para un Torón de capa sencilla.
+Torón 1-6 de capa sencilla: 6
+hilos trenzados alrededor de
+un hilo central
+
+Sistema de Izamiento
+El Trenzado y su construcción
+2. Hilos de Rellenos – Consiste en dos capas de hilos del mismo tamaño trenzados alrededor de un hilo central.
+La capa interna tiene la mitad de los hilos de la capa externa y entre las dos capas se colocan hilos de relleno
+más delgados.
+
+El Trenzado y su construcción
+3. Sellado – Dos capas alrededor de un hilo central con el mismo número de hilos en cada una. Los hilos en
+la capa exterior son más gruesos que los de la capa interior y descansan en los valles que se forman entre
+los hilos interiores, haciendo el trenzado hermético o sellado
+
+Sistema de Izamiento
+
+El Trenzado y su construcción
+4. Warrington – Dos capas de hilos, la capa exterior tiene hilos de dos tamaños que se alternan entre grande y
+pequeño. Los hilos grandes descansan en los valles que se forman entre los hilos de la capa interna y los pequeños en
+la coronas o crestas del trenzado de la capa interior.
+
+5. Patrones Combinados
+
+Sistema de Izamiento
+El Trenzado y su construcción
+Normalmente las trenzas están preformadas para que tomen la forma helicoidal que van a tener una vez que estén
+envolviendo el cable central. Estas se denomina Trenzas Preformadas o PRF de sus siglas en inglés (Preformed
+strands)
+Patrones utilizados en los cables de perforación:
+1) Hilos de Relleno
+2) Sellado (“Seale”)
+3) Combinado
+
+El Trenzado y su construcción
+Tendido - Las Trenzas se pueden colocar girando hacia la izquierda o
+hacia la derecha y los hilos en las trenzas se pueden colocar de
+manera que se vean paralelos al eje del Cable (Trenzado Normal) o
+paralelos al eje de las Trenzas (Trenzado Lang). La figura muestra el
+caso para el cable de perforación con Tendido Derecho Normal o
+RRL por sus siglas en inglés
+(Right Regular Lay)
+
+Sistema de Izamiento
+
+El núcleo del cable de acero
+El principal propósito del núcleo dentro del cable de acero es proveer soporte a los torones o trenzas.
+Hay 3 tipos comunes de núcleos:
+1. Núcleo de Fibra ( FC – Fiber Core) – de fibras artificiales como el polipropileno.
+2. Núcleo Alambre de Acero Independiente – ( IWRC – Independent Wire Rope Core)
+3. Núcleo de Trenza – Una Trenza hecha de hilos de alambre.
+Las Trenzas proveen toda la resistencia a la tensión si el núcleo es de fibra. Pero cuando el núcleo es tipo IWRC,
+éste contribuye a la resistencia nominal. Por ejemplo, en un cable de 6 trenzas con núcleo Independiente de
+alambre de acero, el núcleo contribuye en un 7.5% de la resistencia nominal.
+El cable usado en perforación tiene núcleo de línea de Acero Independiente- IWRC.
+
+Sistema de Izamiento
+
+Grados del Cable de Perforación
+Casi todos los Cables de Perforación tienen uno de los siguientes grados:
+1. Acero Mejorado ( IPS – Improved Plow Steel )
+2. Acero Extra Mejorado ( EIP – Extra Improved Plow Steel)
+Un cable convencional EIP de 6 trenzas tiene una resistencia nominal 15% mayor a un cable IPS.
+
+Sistema de Izamiento
+Cable de Perforación
+El tamaño de la línea de Perforación varia entre 1/2” a 2”
+¿Que significa la siguiente descripción de un cable de perforación?
+1” X 5000’ 6 X 19 S PRF RRL IPS IWRC
+
+Sistema de Izamiento
+Medición del Diámetro del Cable de Perforación
+El diámetro correcto de un cable de acero es el diámetro del círculo que circunscribe todas las trenzas. Es la medición de
+sección mayor y se debe realizar con un Vernier.
+
+Cálculo de las Toneladas-Milla del Cable
+
+Cada vez que se suba o baje el bloque viajero, el
+cable de perforación ejecuta un trabajo.
+Este trabajo se mide en TONELADAS-MILLA
+Que es el peso movido en toneladas, multiplicado por
+la distancia viajada en millas
+Por lo que el cable trabaja mientras se perfora, se
+hace un viaje, se corre la Tubería Revestimiento, etc.
+
+Cálculo de las Toneladas-Milla del Cable
+• Para poder optimizar el corte es necesario poder cuantificar la cantidad de trabajo realizado por la línea de
+perforación.
+• El trabajo realizado por el cable de perforación se mide en “Toneladas por Milla, Ton-Milla” que se refiere al
+trabajo para levantar una carga de una tonelada a lo largo de una milla( ó sea, levantar 2000 lbs una distancia de
+5280 ft = 10,560,000 lbs x pie)
+• Según esto, una “Ton-Milla” = 10,560,000 ft-lbs.
+• Si se corta un cable de perforación con muy pocas Ton-Milla, el costo de operación del equipo de perforación
+serán mayores que lo necesario; pero si se corta la línea con demasiadas Ton-Milla acumuladas se corre el
+riesgo de provocar un accidente o de tener que cortar una cantidad excesiva de línea.
+
+Cálculo de las Toneladas-Milla del Cable
+Las Toneladas x Milla del cable se deben calcular en cada viaje de tubería y se debe llevar un registro exacto de ellas.
+La falla de no llevar el registro es el error más común que se comete en la aplicación del procedimiento para la corrida
+y corte del cable trabajado.
+Hay varios cálculos de Tonelaje x Milla disponibles:
+
+El cálculo más común es el de Tonelaje-Milla para un Viaje Redondo con la sarta de perforación:
+
+Programa de “Corrida y Corte” del Cable
+Puesto que el cable de perforación se considera una máquina ella necesita de mantenimiento
+El cable de perforación se desgasta con el uso y se debe reemplazar
+Este proceso se conoce como “Corrida y Corte del Cable”
+Después de acumular una cierta cantidad de trabajo (Ton-Milla) se debe correr desde el carretel de reserva hacia el tambor
+y/ó cortar una determinada longitud
+Cada equipo tiene su programa de “Corrida y Corte”
+La intención es mover los puntos de desgaste crítico
+Ellos son los puntos de levantamiento y los puntos de contacto en:
+1. El Malacate
+2. El Bloque de Corona
+3. El Bloque Viajero
+4. El Ancla de la línea muerta
+
+SIN EMBARGO, LA INSPECCIÓN VISUAL ES MÁS IMPORTANTE
+
+Programa de “Corrida y Corte” del Cable
+Longitud de Cable a cortar después de acumular las Ton-Milla de la meta.
+
+El propósito es prevenir que la línea pase de un punto crítico al otro.
+La siguiente tabla muestra las longitudes de cable a cortar en términos del diámetro del tambor del malacate
+para prevenir que ello ocurra, sin embargo, se pueden tomar otras longitudes.
+
+Programa de “Corrida y
+Corte” del Cable
+Procedimiento:
+Cuelgue el bloque viajero y asegúrelo a la torre.
+
+Deslice el cable por el anclaje de la línea muerta.
+Desenvuelva la línea almacenada en el malacate.
+Saque la punta del cable y corte la longitud apropiada.
+Vuelva a enrollar el cable remanente en el malacate.
+
+Asegure la línea muerta en el anclaje.
+Libere el Bloque viajero de su amarre en la torre.
+Ajuste el mecanismo de parada automática del tambor.
+Cuando el bolque se aproxime al piso o a la corona.
+
+Principios de las Pruebas No Destructivas – NDT
+Evaluación No-Destructiva
+Se realizan pruebas, exámenes o evaluación de un componente para detectar defectos / fallas internos o superficiales en
+materiales empleando técnicas que no dañan ni destruyen el componente que se está evaluando.
+
+Pruebas Penetrantes
+· Principio: La superficie de prueba se cubre con un líquido penetrante que busca grietas conectadas con la superficie. El
+líquido brota de las grietas y mancha otro recubrimiento de potencia que se aplica a la superficie después de remover el
+exceso de la primera película líquida de la superficie, para someter los objetos a prueba.
+· Tipos de Penetrantes
+· Que pueda lavarse con agua
+· Que pueda removerse con solvente
+· Objeto de la prueba: Localizar Grietas, hoyuelos, astillas, costuras, fracturas por enfriamiento, fugas, etc
+
+Para asegurar la visibilidad, el penetrante líquido
+contiene un tinte de color que se ve fácilmente con luz
+blanca o un tinte fluorescente que se ve con luz negra
+(ultravioleta).
+
+Partícula Magnética
+· Principio: El objeto de prueba o parte de éste se encuentra magnetizado. Se aplica polvo magnético sobre la superficie y se
+acumula en regiones donde el campo magnético hace erupción o emerge como resultado de defectos en la superficie o bajo
+ella.
+
+· La indicación depende de la dirección y de la fuerza del campo magnético, así como del polvo y vehículo
+para aplicarlo.
+· Técnicas de Magnetización
+· Inducción directa (pinchazos) – Corriente Alterna Vs. Directa
+· Inducción indirecta (juntas) – Requerimientos de corriente
+
+Cuando se fuerza el campo de fuga fuera de la pieza, las partículas de hierro son atraídas, mostrando una
+indicación de discontinuidad.
+Aún algunas discontinuidades bajo la superficie se pueden detectar si el campo de fuga es suficientemente
+fuerte como se muestra a continuación:
+
+Radiografía con Rayos X ó Gamma
+· Principio: La radiación penetrante emitida por una fuente de isótopo es impuesta sobre el objeto que se prueba. La
+radiación transmitida o atenuada por el objeto de prueba se utiliza para formar una imagen o detectar la estructura
+interna y/o los defectos en las secciones cruzadas gruesas de materiales gruesos.
+· Tipos de radiación
+· Rayos Gamma
+· Rayos X
+
+Radiografía con Rayos Gamma
+Características:
+· Para detectar grietas, porosidad, huecos e inclusiones
+· Normalmente se aplica a materiales metálicos densos o gruesos.
+· Objetos completos o estructuras con amplio rango de formas y tamaños
+· Piezas fundidas, componentes gruesos o grandes y en especial, configuraciones no accesibles a los generadores
+de rayos x
+· Peligro de Radiación
+
+Radiografía con Rayos X
+Características:
+· Para detectar grietas, porosidad, huecos e inclusiones
+· Metales, no-metales, compuestos y materiales mixtos
+· Objetos o estructuras completas con amplia variedad de formas y tamaños
+· Control de calidad de uniones y soldaduras
+· Partes sueltas o perdidas y mecanismos de rotura
+· La sensibilidad disminuye con el aumento de espesor.
+· Las grietas deben estar orientadas de forma paralela a las vigas.
+· Peligro de radiación.
+
+Pruebas de Ultrasonido
+· Aplicaciones:
+· Medición de espesor de pared
+· Medición de espesor de pared a temperatura elevada
+· Detección de defectos en las vigas en ángulo
+· Grietas, huecos, laminación, inclusiones y desconexiones
+
+Visual - Óptica
+
+· Principio: Se aplica la Inspección Visual Directa y la Inspección con Ayuda Óptica a las superficies de los
+objetos, para detectar indicaciones de defectos y anomalías de manera independiente y en combinación con otras
+técnicas de Evaluación No Destructiva, NDE.
+· Luz visible (luz ultravioleta con materiales fluorescentes)
+· Fotones reflejados o transmitidos
+· Medios: Ojos, ayuda óptica, lupas, exploradores de conductos
+· Imagen Visual
+· Medición Directa: se utiliza con otras técnicas para la interpretación directa (por ejemplo: penetrantes líquidos,
+partícula filtrada, partícula magnética)
+
+Personal del Taladro
+Rig Manager
+Jefe del Taladro (tool pusher)
+Supervisor de Turno (tour pusher)
+Perforador (driller)
+Encuellador (derrickman)
+Cuñeros (floorhands)
+Obreros de Patio (roustabouts)
+Mecánico (mechanic)
+Electricista (electrician)
+Soldador (welder)
+Operador de Grua (crane operator)
+
+Organigrama para un equipo de perforación en tierra firme
+
+Sarta de Perforación - Drillstring
+
+Sarta de Perforación:
+
+Drillstring Design
+
+Tubería (Drill Pipe)
+Tubería Pesada (Heavy Wate DP)
+Martillos (Jars)
+Collares (Drill Collars)
+Estabilizadores (Stabilizers)
+Escariadores
+Broca
+Equipo para control direccional
+
+Funciones de la Sarta de Perforación
+
+La sarta de perforación es el enlace mecánico que conecta a la barrena de perforación que está en el fondo con el
+sistema de impulsión rotario que está en la superficie.
+La sarta de perforación sirve para las siguientes funciones:
+
+1. Transmitir rotación a la barrena
+2. Transmitir y soportar cargas axiales
+3. Transmitir y soportar cargas de torsión.
+4. Colocar el peso sobre la barrena para perforar
+5. Guiar y controlar la trayectoria del pozo
+6. Permitir la circulación de fluidos para limpiar el pozo y enfriar la barrena.
+
+Collares de Perforación
+Descripción:
+Son tubulares metálicos de gran espesor de pared
+Los extremos tienen roscas maquinadas en el torno (caja y perno)
+Funciones:
+Proveer el peso para colocar sobre la barrena (WOB)
+Mantener la tubería de perforación en tensión y así
+Prevenir el combamiento o pandeo de la sarta de perforación
+Proveer el efecto de Péndulo para la perforación de agujeros rectos
+Tipos:
+•Se fabrican en variedad de tamaños de diámetro externo e interno
+Diámetros Externos OD típicos van de 4 ¾” to 9 ½”
+•Por lo general en longitudes de 30 a 31 pies
+•Pueden tener forma de barra cuadrada para perforar en zonas con alta
+Tendencia natural a la desviacíon del agujero.
+•Espiralados para perforar en zonas con tendencia al atrapamiento de la sarta
+•Pueden tener recesiones para instalar elevadores y cuñas rotarias
+
+Componentes del Taladro
+Collares de Perforación (Drill Collars)
+Son tubos pesados de paredes gruesas usados entre la broca y la
+tubería para colocar peso sobre el fondo de la sarta y ayudar en
+la perforación.
+
+Los Collares (ó Lastra barrenas) tienen las siguientes funciones en la sarta de
+perforación:
+• Protegen la Sarta de perforación de Doblamiento y la Torsión
+• Controlan la dirección y la inclinación de los pozos.
+• Para perforar pozos rectos y pozos verticales.
+• Reducen las “patas de perro”, asientos de llave y salientes.
+• Aseguran que la sarta de revestimiento sea bajada exitosamente
+• Mejoran el desempeño de la barrena.
+• Reducen la perforación irregular, tubería pegada y brincos.
+• Como herramientas de pesca, para pruebas de formación y en operaciones de
+terminación del pozo.
+
+Componentes de la Sarta de Perforación
+
+Medición de los Collares de Perforación
+
+Tubería de Perforación
+Funciones:
+• Servir como conducto o conductor del fluido de perforación.
+• Transmitir la rotación desde la superficie hasta la barrena en el fondo.
+• Colocar el peso sobre la barrena para perforar.
+• Transmitir y soportar cargas de torsión y axiales.
+
+Componentes:
+• Un tubo cilíndrico sin costura exterior y pasaje central fabricado de acero fundido o de aluminio extruído
+• Conectores de rosca acoplados en los extremos del cuerpo tubular sin costura
+Conectores de Rosca:
+• Proporcionan la conexión entre los componentes de la sarta de perforación.
+• Son piezas metálicas soldadas al cuerpo tubular sin costuras
+• Suficientemente gruesos y fuertes para cortar en ellos roscas de pin y de caja
+
+Tubería de Perforación
+
+1. Los dos tipos de lastra barrena son
+ampliamente utilizados.
+2. En áreas con posibilidad de que ocurra
+pega diferencial de la sarta se deben
+emplear (DC) y tubería de perforación
+pesada (HWDP) con superficie exterior
+espiralada para reducir el área de
+contacto con la formación.
+
+Clasificación de la Tubería de Perforación
+
+Tubería de Perforación Pesada - HWDP
+Diseño:
+• Con mayor espesor de pared y acoples más largos que la TP regular
+• Con refuerzo metálico externo en el centro del cuerpo del tubo
+• También disponible con diseño exterior espiralado
+Funciones:
+• Como elemento de transición entre los collares de perforación (DC) y la tubería de perforación (TP)
+• Esto previene el pandeo o combamiento de la TP
+• Puede trabajarse en compresión sin sufrir daño en los acoples
+• Empleada extensamente en Perforación Direccional
+• En ocasiones se utiliza en reemplazo de los DC
+• Mantiene la Tubería de Perforación rotando en tensión
+• No se debe usar para proporcionar peso sobre la barrena en condiciones normales
+
+Tubería de Perforación Pesada o de Pared Gruesa (HWDP)
+
+Tiene el mismo diámetro externo que la tubería de perforación
+normal pero el diámetro interno es mucho más reducido
+(normalmente 3”) y un refuerzo en la mitad del cuerpo del
+tubular del tamaño de los acoples para resistir el desgaste por
+abrasión contra la pared del hoyo.
+Se usa entre tubería de perforación normal y los lastra barrena
+para permitir que haya una transición suave entre los “módulos
+de sección” de los componentes de la sarta de perforación.
+
+Estabilizadores
+
+Razones para usar estabilizadores:
+
+1. Se usan como el método fundamental para controlar el comportamiento direccional de la mayoría de las herramientas de
+fondo.
+2. Ayudan a concentrar el peso de la herramienta de fondo sobre la barrena.}
+
+3. Reducen al mínimo el doblamiento y las vibraciones que causan el desgaste de los acoples y dañan los componentes de la
+herramienta de fondo tales como los MWDs.
+4. Reducen el torque de perforación al evitar que haya contacto del collar con las paredes del pozo y los mantiene
+concéntricos dentro del hoyo.
+
+5. Ayudan a evitar el que la tubería se pegue por presión diferencial y también la formación de asientos de llave.
+
+Estabilizadores
+
+Escariadores de Rodillos
+
+Diseño de la Sarta de Perforación
+REQUIERE DE DISEÑO MECÁNICO
+6. Permitir la circulación de fluidos para limpiar el pozo y
+enfriar la barrena
+REQUIERE DE DISEÑO DIRECCIONAL
+REQUIERE DE DISEÑO HIDRÁULICO
+
+Diseño Mecánico
+Describe las limitaciones de la tubería
+de perforación y de los collares a los
+esfuerzos de:
+· Tensión
+· Sobre-Tensión Permisible
+· Estallido
+· Colapso
+· Torsión
+· Pandeo
+
+Diseño Direccional
+Describe la tendencia de la sarta de
+perforación a causar la desviación del
+hoyo hacia una predeterminada dirección
+
+Diseño Hidráulico
+· Describe la influencia que tiene la
+geometría interna y externa de la sarta
+sobre las pérdidas friccionales en un
+sistema circulante de fluidos
+· Se discute en la sección sobre
+· El análisis recomienda el uso de TP de
+5 ½” o 6-5/8” para pozos ultra profundos
+y la conexión de la TP con la espiga
+hacia arriba para mejorar la hidráulica en
+la perforación de pozos someros
+
+Elementos Auxiliares / Accesorios de la Sarta
+
+Elementos Auxiliares / Accesorios de la Sarta
+
+Sarta de Perforación - Herramientas de Manejo
+
+Elevadores
+
+Componentes del Taladro
+
+Cuñas (Slips)
+
+Son piezas de metal con dientes ó elementos de agarre
+que son usados para soportar la caida de la tubería dentro
+del hueco ó para mantener la tubería en su lugar. Las cuñas
+se ajustan entre la tubería y el master bushing.
+
+Sarta de Perforación - Herramientas de Manejo
+
+Componentes del Taladro
+
+Cuñas de Poder (Power Slips)
+Existen cuñas hidráulicas o neumáticas que evitan el
+contacto directo con la herramienta, protegiendo el
+operador; en estas, el agarre es efectuado por empaques
+especiales.
+
+Sarta de Perforación - Herramientas de Manejo
+Llaves para Ajustar y Aflojar de Conexiones
+
+Aplicación del lubricante de rosca en la caja del acople
+
+Enrosque de “estocada” alineada
+
+Posición de las llaves Manuales para apretar la unión enroscada
+
+Llaves en posición para ajustar la unión con torque
+
+Colocando el torque a la unión
+
+Tensión en la línea del torque de ajuste
+
+Torque de Ajuste
+
+Torque de Ajuste
+
+Componentes del Taladro
+
+Rampa de Tuberia (Pipe Ramp)
+Rampa angular que sirve para arrastrar y subir la tuberia y
+herramientas hasta la plataforma y la mesa rotaria.
+
+Principio del Diseño de Conexiones
+
+Funcionan como un ajuste por fricción.
+La fuerza hacia abajo se convierte en componentes vertical y horizontal.
+La interferencia proporciona integridad a la presión.
+Al agregar roscas se agrega protección al desacople por tensión
+
+Tipos de Conexiones API
+1. Rosca API de Tubería de Conducción :
+Forma en V, perfil de rosca truncada en tubo y
+acople,
+2. Rosca API Redonda para Tubería de
+Revestimiento y de Producción: Perfil de Rosca
+Redonda. Tipos: Rosca Larga y Rosca Corta,
+3. Rosca “Buttress” para TR y de producción:
+Rosca ACME
+Modificada con forma trapezoidal de 29°,
+4. Rosca “Extreme Line” o Conexión Integral
+para TR y tubería de producción: Rosca ACME
+modificada con Sello de metal a metal.
+
+Propiedades Mecánicas de la Tubería de Revestimiento
+Propiedades del Acero – Punto de Cedencia
+
+Cuando un especimen de cualquier metal como el acero
+se carga lentamente por tensión o por compresión, se
+observa un incremento o decremento en su longitud. Si
+los incrementos de carga se grafican contra la elongación
+(o la contracción), se va a obtener una gráfica
+característica.
+API define el punto de cedencia como el esfuerzo detensión que
+se requiere para producir una elongación total de 0.5% de la
+longitud medida de un especimen de prueba, determinado por
+un extensómetro o multiplicando divisores.
+Para los grados P- 105 y P- 110 la elongación total de la
+longitud es de 0.6%.
+
+Propiedades del Acero : Grados del Acero
+
+Equivalentes en forma aproximada los niveles especificados en la Norma 6A PSL
+Nivel 1: Grados H-40, J-55, K-55 y N-80
+· Servicio Dulce o Cantidad Limitada de H2S
+· Presiones < 5,000 psi
+Nivel 2: Grados M65, L80, C90, C95 y T95
+· Alta Presión (>10M) con contenido de H2S limitado
+ó Baja Presión con contenido de H2S elevado.
+· Control estricto de dureza y de QA/QC.
+Nivel 3: Grado P-110
+· Bajo contenido de H2S; Alta Temperatura /Alta Presión
+· Muy poco control
+Nivel 4: Grados por encima del nivel 3 como Q125
+· Aplicaciones HP con alto contenido de H2S
+· Control muy estricto de QA/QC
+· Los tramos de tubería son totalmente rastreables por
+número de serie para todo el trabajo.
+
+Grados de Acero
+H-40: es el grado de tubería de revestimiento y de tubería
+de producción más bajo. Tiene un punto de cedencia
+máximo de 80,000 psi lo cual lo hace adecuado para H2S.
+J-55: es el grado tanto para tubería de revestimiento y
+tubería de producción. El punto de cedencia máximo es
+80,000 psi. Adecuado para H2S.
+
+M65: De alta rudeza y adecuado para H2S. Rango de
+punto de cedencia: 65-80,000 psi. Resistencia a la tensión
+mínima es de 85,000 psi. El acople puede ser L80 o K55
+dependiendo del espesor de la pared.
+El estallido y el colapso del cuerpo exceden los grados J55 y
+K55 / La resistencia del acople excede al grado J55.
+
+K-55 ; es únicamente un grado para tubería de
+revestimiento. Se clasifica como acero tipo carbón. Tiene
+una resistencia a la tensión más elevada que J-55 95,000
+psi contra 75,000 psi. Colapso y estallido de K-55 y J-55
+son iguales: únicamente la resistencia de las juntas es
+diferente ya que se basa en la resistencia a la tensión más
+que en la cedencia. Se puede usar para contenidos bajos de
+H2S a todas las temperaturas.
+
+L80- es el grado más extensamente usado en la industria,
+ya que es adecuado para H2S. La cedencia máxima es
+95,000 psi y la resistencia a la tensión mínima es de 95,000 psi.
+La dureza máxima de Rockwell C23. Tanto para tubería de
+revestimiento como para tubería de producción. El acero debe
+ser Q&T (enfriado y templado). Hecho por medio de métodos
+sin costura o con soldadura ERW.
+N80: tiene un punto de cedencia máximo de 110,000 psi y
+una resistencia a la tensión mínima de 100,000 psi. N80
+es un acero tipo aleación. Debido a su alto punto de
+cedencia no es adecuado para H2S a ninguna de las
+temperaturas.
+
+Grados de Acero
+C90: se usa principalmente en pozos de alta presión que
+contienen H2S. Este grado se desarrolló en 1983. El punto de
+cedencia máxima se restringe a 105,000 psi y la resistencia a
+la
+tensión mínima es de 100,000 psi para tuberías de
+revestimiento
+y de producción.
+Este es un acero de aleación que contiene cromo y
+molibdeno. Se fabrica por métodos sin costura. La dureza
+Rockwell máxima es C25.4
+C95: tiene un punto de cedencia máximo de 110,000 psi y
+una
+resistencia a la tensión mínima de 105,000 psi. Es un grado
+sólo
+para tubería de revestimiento y fue colocado en las
+especificaciones para reemplazar al grado C75. Se puede
+fabricar por medio de procesos sin costura o ERW y el acero
+es una aleación. C95 no tiene limitación de dureza, por lo
+tanto no es adecuado para H2S a temperaturas bajas debido a
+su alto punto de cedencia.
+
+T95: Resuelve los problemas que tiene el C95. Es tanto para
+tubería de revestimiento como para tubería de producción. La
+resistencia a la tensión mínima es de 105,000 psi y el punto
+de cedencia máximo es de 110,000 psi. Este es un acero de
+aleación hecho por métodos sin costura. La dureza Rockwell
+máxima es de C25.4
+
+P110: Empleado para tuberías de revestimiento y de
+producción. Cedencia máxima 140,000 psi. Resistencia a la
+tensión mínima de 125,000 psi. Se fabrica sin costura para
+tubing y son soldadura ERW para tubería de revestimiento.
+Inicialmente se añadió para resolver problemas de pozos
+profundos.
+Q125: Usado principalmente en pozos profundos con altas
+presiones, especialmente altas presiones de colapso. Lo
+añadió API en 1985, clasificado como grupo 4. Se fabrica por
+medio de ERW y métodos sin costura. Es el primer grado que
+requiere pruebas de impacto para confirmar la
+resistencia del acero.
+
+Diferentes Esfuerzos que Afectan a la Columna Durante la Perforación
+
+Cuando Perforamos con el método Rotativo.
+• La columna de perforación se somete a los esfuerzos de:
+TENSIÓN
+COMPRESIÓN
+TORSIÓN
+FLEXIÓN
+
+Diferentes Esfuerzos que Afectan a la Columna Durante la Perforación
+Esfuerzos de Tensión:
+• Los esfuerzos de Tensión aumentan a medida que nos acercamos a la superficie, siendo el esfuerzo mayor en la última tubería
+Esfuerzo de Compresión:
+• El Esfuerzo de Compresión se observa en la parte inferior de la columna de perforación, es decir, en las portamechas, siendo el
+mayor el esfuerzo de compresión sobre el trépano.
+Esfuerzos de Torsión:
+
+• El esfuerzo de Torsión se observa a lo largo de toda la columna de perforación y aumenta en proporción directa a la
+profundidad del pozo y en relación a la velocidad de rotación de la mesa.
+
+Diferentes Esfuerzos que Afectan a la Columna Durante la Perforación
+
+Esfuerzo de Flexión:
+• El esfuerzo de Flexión se ejerce en dos partes y se origina por distintas causas.
+• En la parte inferior se produce por la compresión y rotación.
+•En la parte superior la zona de tensión, a medida que subimos se agranda la longitud y disminuye la amplitud, hasta que en la
+parte superior desaparece, pues el esfuerzo de tensión, que es mayor, anula el esfuerzo de flexión.
+
+La zona de compresión es la parte
+inferior de la columna; ésta
+sometida a torsión y flexión siendo
+esta la zona más peligrosa en la que
+pueden ocurrir las fallas.
+
+Código IADC para Clasificación del desgaste de Barrenas
+
+Fuente: Reed Hycalog PDC & Roller Cone Product Technology Reference Information
+
+Código IADC para Clasificación del desgaste de Barrenas
+
+Fuente: Reed Hycalog PDC & Roller Cone Product Technology Reference Information
+
+Código IADC para Clasificación del desgaste de Barrenas
+
+Código IADC para Clasificación del desgaste de Barrenas
+
+Parámetros de Perforación Vs Desempeño de la Barrena
+Formación de Recortes
+· La carga del diente supera la resistencia a la compresión de la roca y genera un cráter.
+· El raspado ayuda a quitar los recortes de los cráteres.
+
+Remoción de los Recortes
+· Se requiere retirar los recortes para permitir que se formen nuevos recortes
+
+Respuesta al Peso sobre la Barrena (WOB)
+
+Respuesta a las RPM
+
+Estructura de Corte
+Efectos de la Excentricidad
+
+Estructura de Corte
+
+Estructura de Corte
+
+Rate of Penetration o Tasa de Penetración
+
+indica la velocidad a la que una broca avanza perforando el subsuelo,
+normalmente expresada en unidades de profundidad por unidad de tiempo, como
+pies por hora (ft/hr) o metros por hora (m/hr).
+
+Espectro para la Aplicación de las Barrenas
+
+Cuerpo de Matriz o Carburo de Tungsteno
+
+El Proceso de Selección de Barrenas
+
+Proceso de Selección de Barrenas
+
+Selección de Barrenas
+Barrena de compactos de diamante policristalino (PDC)
+
+Ventajas
+• Alta Velocidad de Perforación
+• Potencial de Larga Vida
+
+Consideraciones
+• Daño por Impacto
+• Abrasividad
+• Estabilidad
+
+Selección de Barrenas
+Barrena de Dientes
+
+Ventajas
+• Alta Velocidad de Perforación
+• Buena Estabilidad
+• Económica
+Consideraciones
+• Velocidad de Desgaste de Dientes
+• Vida del Cojinete
+
+Selección de Barrenas
+Barrenas de Insertos
+
+Ventajas
+•Durabilidad de la Estructura de Corte
+• Rango de Formaciones
+• Tolerancia entre Capas
+• Se puede dirigir y es estable
+Consideraciones
+• Velocidad de Perforación más Lenta
+• Vida de los Cojinetes
+
+Selección de Barrenas
+Barrenas de Diamante Natural e Impregnado
+
+Ventajas
+• Muy Durable
+• Capacidad para Roca Dura
+• Riesgo de sufrir daño en contacto
+con residuos metálicos en el pozo
+
+Consideraciones
+• Velocidad de Perforación más lenta
+• Sensibilidad a las RPM
+• Aplicaciones de costo elevado
+
+¿Qué es lo que se Analiza?
+
+Principales unidades estratigráficas de la Cuenca Oriente. (Baby, et al., 2014)
+
+Registros Eléctricos , Registros
+Geológicos de lodo, Reportes Diarios
+de Perforación y Reportes de la
+Herramienta de Fondo
+
+Datos de Pozos vecinos – Registros de Barrenas
+
+Reconocimiento de las
+Limitaciones
+
+• Restricciones de operación (Especificaciones del equipo de
+perforación, etc.)
+• Restricciones Contractuales
+• Restricciones Económicas
+• Cambios de mentalidad
+
+Otros Factores (Lodo)
+
+· Propiedades del Lodo (fluido base, densidad, aditivos, etc.)
+· Hidráulica de la barrena (especialmente crítica en WBM)
+
+· Tasas de circulación (Gasto) máximo / mínimo
+· Lubricidad del lodo (efectos en la vibración y en las barrenas
+impregnadas)
+
+Hidráulica
+
+Hidráulica
+
+Hidráulica
+
+Hidráulica: Selección de Boquillas
+Pérdida de presión en las boquillas
+
+Pérdida de presión de la boquilla , psi (Pb):
+
+Área de boquilla
+
+Hidráulica: Selección de Boquillas
+Pérdidas totales de presión salvo la pérdida de presión por la boquilla de la mecha, psi (Pc):
+
+Determinar la inclinación de la línea M:
+
+Pérdidas óptimas de presión (Popt)
+a) Por fuerza de impacto:
+
+b) Por caballos de fuerza hidráulica:
+
+Hidráulica: Selección de Boquillas
+Caudal óptimo (Qopt):
+
+a) Por fuerza de impacto:
+
+Para determinar la presión en la mecha (Pb):
+
+Para determinar el área de la boquilla, pulgadas cuadradas:
+
+Para determinar boquillas, 1/32 pulg., para tres boquillas:
+
+b) Por caballos de fuerza hidráulica:
+
+Hidráulica: Selección de Boquillas
+Para determinar boquillas, 1/32 pulg., para dos boquillas:
+
+Ejercicio
+Optimizar la hidráulica de la broca en un pozo con las siguientes características:
+Seleccionar los tamaños de chorro apropiados por fuerza de impacto y caballos de fuerza hidráulica para dos y tres boquillas:
+
+Hidráulica:
+
+Ejercicio
+
+Velocidad Anular Crítica y Caudal Crítico
+
+Ejercicio
+
+Velocidad de Deslizamiento de Ripios
+
+Ejercicio
+
+Utilizar los siguientes datos para determinar la velocidad anular, pie/min; la velocidad de deslizamiento de
+ripios, pie/min; y la velocidad de subida neta de los ripios.
+
+Modelo Plástico de Bingham
+Se han desarrollado varios modelos matemáticos para simular la reología de los fluidos de perforación. El que se usa más
+ampliamente en el campo es el Modelo Plástico de Bingham.
+
+Este modelo supone un comportamiento lineal de la relación entre el esfuerzo cortante y la velocidad de cizallamiento, pero la
+línea no cruza el origen como sucede con los fluidos Newtonianos.
+
+La ecuación del modelo plástico de Bingham está dada por:
+
+Modelo Plástico de Bingham
+
+Viscosidad Plástica, PV:
+Los lodos de perforación normalmente están compuestos por una fase líquida continua en la cual están dispersos los
+materiales sólidos. La Viscosidad Plástica es la resistencia al flujo relacionada con la fricción
+mecánica que es causada por:
+•La concentración de sólidos.
+•El tamaño y forma de los sólidos.
+•La viscosidad de la fase líquida.
+En el campo la PV se considera como una guía para el control de sólidos.
+Se incrementa conforme el porcentaje volumétrico de sólidos se incrementa o si el porcentaje volumétrico permanece
+constante pero el tamaño de partículas disminuye.
+Por lo tanto, la PV se puede reducir al reducir la concentración de sólidos o disminuyendo el área superficial.
+
+Modelo Plástico de Bingham
+Punto de Cedencia, YP
+El punto de cedencia es la resistencia inicial al flujo debido a las fuerzas electroquímicas entre las partículas. Estas fuerzas
+son causadas por las cargas localizadas en la superficie de las partículas dispersas en la fase fluida. El punto de cedencia
+depende de:
+•Las propiedades superficiales de los sólidos en el lodo.
+•La concentración volumétrica de los sólidos.
+•El ambiente iónico del líquido que rodea a los sólidos.
+El YP se puede controlar por medio de un tratamiento químico adecuado.
+•Las cargas positivas en las partículas se pueden neutralizar por la adsorción de grandes iones negativos. Estos pueden ser
+aportados por productos químicos como: taninos, lignitos, lignosulfonatos, etc.
+•En caso de contaminación de iones como calcio o magnesio, estos se pueden remover como precipitados insolubles.
+•La dilución con agua también puede reducir el YP. Sin embargo, si la concentración de sólidos es demasiado elevada no va
+a ser efectiva.
+
+Modelo Plástico de Bingham
+PV =Pendiente, YP = Intersección
+
+Ejercicio
+
+Modelo de la Ley de Potencia – Se utiliza para simular el comportamiento de fluidos de perforación basados en polímeros
+que no tienen un esfuerzo de cedencia. (por ejemplo, las salmueras transparentes viscosificadas).
+La ecuación general para este modelo es:
+
+K es el índice de consistencia, “n” es el índice de comportamiento de flujo. 0 < n < 1.0 Tanto K como n son particulares para
+cada fluido.
+
+𝗗𝗿𝗶𝗹𝗹𝗶𝗻𝗴 𝗿𝗮𝘁𝗲 (𝗥𝗢𝗣): ¿Qué es la ROP y por qué es importante?
+
+La ROP mide la rapidez con la que la broca penetra la roca del subsuelo. Es un indicador clave de rendimiento (KPI) para las
+operaciones de perforación porque:
+Una ROP más alta reduce el tiempo necesario para alcanzar las profundidades objetivo, lo que minimiza los costos.
+Una ROP óptima equilibra la velocidad con la seguridad y la longevidad del equipo, lo que evita daños en la formación o el
+desgaste de las herramientas.
+El monitoreo en tiempo real de la ROP proporciona datos valiosos para ajustar los parámetros de perforación y evaluar las
+características de la formación.
+
+Factores que influyen en la ROP:
+Propiedades de la formación:
+Tipo de roca: Las formaciones blandas como la arenisca o la pizarra permiten una perforación más rápida en comparación
+con las formaciones duras como la piedra caliza o el granito.
+Presión de formación: Las zonas con sobrepresión pueden permitir una perforación más rápida, mientras que las zonas con
+baja presión pueden requerir ajustes para evitar la inestabilidad del pozo.
+Parámetros de perforación:
+Peso sobre la broca (WOB): Aumentar el WOB generalmente mejora la velocidad de penetración (ROP), pero puede
+provocar desgaste de la broca o daños en el equipo si es excesivo.
+Velocidad de rotación (RPM): Unas RPM más altas pueden mejorar la ROP, pero deben equilibrarse con el diseño de la
+broca y las características de la formación para evitar vibraciones o fallas de la broca.
+Tasa de flujo de lodo: La remoción eficiente de recortes con la tasa de flujo correcta ayuda a mantener una ROP óptima.
+
+Selección de la broca:
+Tipo de broca: Las brocas de diamante policristalino compacto (PDC) suelen lograr una ROP más alta en formaciones blandas,
+mientras que las brocas de cono de rodillo son adecuadas para formaciones duras.
+Diseño de la broca: El tamaño, la forma y la disposición de los cortadores afectan la ROP.
+Propiedades del fluido de perforación:
+La densidad del lodo, la viscosidad y los aditivos influyen en la ROP al afectar el enfriamiento de la broca, la remoción de
+recortes y la presión en el fondo del pozo.
+Las propiedades inadecuadas del fluido pueden provocar el apelmazamiento de la broca, lo que reduce la ROP.
+Condiciones del fondo del pozo:
+Eficiencia de la limpieza del pozo: la eliminación deficiente de los recortes puede ralentizar la perforación.
+Estabilidad del pozo: las formaciones que colapsan o se expanden pueden impedir la velocidad de penetración.
+
+Tecnología y herramientas:
+Las herramientas de medición durante la perforación (MWD) y registro durante la perforación (LWD) brindan datos en
+tiempo real para optimizar la velocidad de penetración.
+Los sistemas rotativos direccionales (RSS) mantienen el control direccional sin comprometer la velocidad de penetración.
+Estrategias para optimizar la velocidad de penetración:
+Planificación previa a la perforación: Analice los datos de pozos secundarios para comprender las propiedades de la formación
+y las tendencias históricas de la velocidad de penetración.
+Seleccione los tipos de brocas y fluidos de perforación adecuados para las litologías esperadas.
+Monitoreo y ajustes en tiempo real: Monitoree continuamente la velocidad de penetración y otros parámetros de perforación
+para identificar ineficiencias o cambios en las propiedades de la formación.
+Ajuste el WOB, las RPM y los caudales de lodo en respuesta a las condiciones en tiempo real.
+Optimización de la broca: Utilice diseños de broca avanzados adaptados a la formación específica.Implemente análisis de la
+ejecución de la broca para evaluar el rendimiento y mejorar la selección de brocas futuras.
+
+Gestión de fluidos: Mantenga las propiedades óptimas del lodo para mejorar el transporte de los recortes y minimizar el
+desgaste de la broca.
+Use lubricantes o aditivos para reducir la fricción en formaciones desafiantes.
+
+𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐲 𝐁𝐢𝐭 𝐅𝐚𝐢𝐥𝐮𝐫𝐞 𝐃𝐫𝐢𝐥𝐥𝐢𝐧𝐠:
+Identificar fallas en las brocas durante la perforación de pozos petroleros es vital para evitar tiempos de inactividad costosos y
+garantizar la seguridad operativa. El uso de múltiples métodos puede mejorar su capacidad para identificar problemas
+potenciales:
+𝐑𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐝𝐫𝐢𝐥𝐥𝐢𝐧𝐠 𝐝𝐚𝐭𝐚:
+𝐑𝐚𝐭𝐞 𝐨𝐟 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 (𝐑𝐎𝐏): Una disminución repentina en la tasa de penetración (ROP), en particular cuando se compara
+con la tasa planificada, puede indicar desgaste o falla de la broca.
+Sistema de Transmisión de Señales (𝐒𝐢𝐬𝐭𝐫𝐚𝐬): transmite datos en tiempo real para monitorear condiciones del fondo del pozo,
+optimizar la perforación y reducir costos. Un aumento inesperado en el WOB requerido para mantener una ROP constante
+puede sugerir que la broca se está desafilando o que se está encontrando una formación más dura.
+
+𝐓𝐨𝐫𝐪𝐮𝐞: Un torque excesivo o errático puede indicar un desequilibrio de la broca, problemas de cojinetes o cambios de
+formación. Además, si se aplica más WOB pero no hay cambios en el torque de perforación, puede indicar una pérdida de
+cortadores en las brocas PDC.
+𝐒𝐭𝐚𝐧𝐝𝐩𝐢𝐩𝐞 𝐏𝐫𝐞𝐬𝐬𝐮𝐫𝐞: Las fluctuaciones en la presión de la tubería vertical pueden indicar que la broca está tapada,
+bloqueada o que la formación es inestable.
+
+𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐲 𝐁𝐢𝐭 𝐅𝐚𝐢𝐥𝐮𝐫𝐞 𝐃𝐫𝐢𝐥𝐥𝐢𝐧𝐠:
+𝐃𝐨𝐰𝐧𝐡𝐨𝐥𝐞 𝐬𝐞𝐧𝐬𝐨𝐫𝐬:
+𝐌𝐮𝐝 𝐥𝐨𝐠𝐠𝐞𝐫𝐬: Estos monitorean las propiedades del fluido de perforación, como la densidad del lodo, la viscosidad y el
+contenido de gas, que pueden cambiar si la broca no funciona de manera óptima.
+𝐓𝐨𝐨𝐥𝐬 𝐌𝐞𝐚𝐬𝐮rement: Detecta vibraciones anormales en la sarta de perforación, causadas por desequilibrio de la broca,
+desgaste de los cojinetes o cambios en la formación.
+𝐓𝐨𝐨𝐥𝐬 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐦𝐞𝐧𝐭𝐞𝐝: Las herramientas de medición y registro durante la perforación brindan datos en tiempo real sobre
+la inclinación del pozo, el acimut, la resistividad de la formación y otros parámetros para identificar problemas de rendimiento
+de la broca.
+𝐒𝐮𝐫𝐟𝐚𝐜𝐞 𝐨𝐛𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧𝐬:
+𝐃𝐫𝐢𝐥𝐥𝐢𝐧𝐠 𝐅𝐥𝐮𝐢𝐝 𝐑𝐞𝐭𝐮𝐫𝐧𝐚𝐬: Observe los cambios en el color, la consistencia y el volumen de los retornos del fluido de
+perforación, lo que indica desgaste de la broca, cambios en la formación o pérdida de circulación.
+Drilling Cuttins (Recortes de perforación) : Analice el tamaño, la forma y el color de los recortes de perforación para
+determinar el tipo de formación y el posible desgaste de la broca.
+
+Sistema de circulación
+
+Sistema Circulante
+Sirve de soporte al sistema de rotación al proveer el equipo, los materiales y las áreas de trabajo para preparar y mantener el
+fluido de perforación o “lodo”.
+
+Los 4 componentes principales de un sistema circulante son:
+1. Tanques o Presas de Succión
+2. Línea de Succión
+3. Bombas de Lodo
+4. Línea de Descarga de la Bomba
+5. Línea de Conducción a la torre
+6. Manguera Rotaria
+7. Sarta de Perforación
+8. Espacio Anular hoyo - Sarta
+9. Línea de Retorno
+10. Tanques o presas de asentamiento
+11. Área para el acondicionamiento del lodo
+
+Sistema de Circulación
+
+Sistema de Circulación
+Funciones del Lodo
+
+Propiedades del Lodo
+
+• Llevar los cortes del fondo a superficie
+• densidad
+• Sostener las paredes del pozo
+• sólidos
+• Controlar las presiones naturales en las formaciones perforadas
+• viscosidad
+• Enfriar y lubricar la broca y la sarta de perforación
+• filtración
+• ayudar a soportar la sarta de perforación (boyancia)
+• alcalinidad
+• mantener el pozo limpio de cortes
+• salinidad
+• suspender los cortes cuando se para la circulación
+• permitir obtener información de las formaciones
+• transmitir potencia hidraúlica a la broca
+• permitir la fácil remoción de los cortes en superficie
+Tres Tipos Básicos de Fluidos son:
+1. Fluidos de Perforación con Base Agua - WBM
+2. Fluidos de Perforación con Base de Aceite - OBM
+3. Fluidos de Perforación con Aire o Gas
+
+Sistema Circulante
+
+1. El corazón del sistema de circulación son las bombas de
+lodo,
+2. Existen dos tipos de bombas de lodo utilizadas en la
+industria petrolera: Duplex y Triplex,
+3. Una bomba básica consiste en un pistón que hace un
+movimiento recíproco dentro de un cilindro.
+4. Una bomba es sencilla si bombea el fluido cuando el
+pistón se mueve hacia adelante (bomba triplex) y de acción
+doble cuando bombea el fluido al moverse en ambas
+direcciones (bomba duplex).
+5. El tamaño de los pistones (y de las camisas en que se
+mueven) afectan el caudal (tasa de bombeo o gasto) y la
+presión máxima que pueda alcanzar la bomba
+
+Retirar los recortes del fondo del agujero, transportarlos y liberarlos en la
+superficie.
+
+· La velocidad de flujo en el espacio anular es el parámetro clave para vencer el efecto de la gravedad,
+· Es frecuente utilizar velocidades entre 100 y 200 pies/min en el espacio anular,
+· La densidad y la viscosidad también contribuyen a mejorar la capacidad transportadora de un fluido,
+· Los recortes y los sólidos deben retirarse en la superficie para obtener un fluido limpio que se pueda bombear
+de nuevo hacia el agujero a través de la sarta.
+· La arena es muy abrasiva y si no se remueve dañará las bombas de lodo, las líneas , los tubulares y el equipo
+de subsuelo.
+· Si no se remueven los recortes se fragmentarán y llenarán el lodo con coloides que deteriorarán sus
+propiedades reológicas.
+
+Enfrar y lubricar la barrena y la sarta de perforación:
+
+· Conforme la barrena y la sarta de perforación giran contra la formación, se genera una gran cantidad de
+calor,
+· El fluido de perforación absorbe el calor generado y lo lleva a la superficie, donde se libera a la atmósfera,
+· El fluido de perforación debe tener algunas propiedades de lubricación que ayudarán a reducir el torque y
+la fricción.
+· La lubricación ocurre entre el agujero y la superficie de la barrena o sarta de perforación, no tiene nada
+que ver con los cojinetes de la barrena.
+
+Depositar un revoque de pared impermeable :
+
+· Un buen fluido de perforación debe depositar un revoque delgado y de baja permeabilidad en la pared del
+agujero frente a las formaciones permeables para consolidarlas y para retardar el paso del fluido desde el
+agujero del pozo hacia la formación permeable.
+· La presión diferencial resultará en invasión del fluido, la cual en ausencia de un revoque empujaría al lodo o
+a su filtrado hacia la formación,
+· La pérdida de lodo o de filtrado causará daños a la formación.
+
+Controlar las presiones del subsuelo:
+· La presión hidrostática del lodo debe ser suficiente para prevenir un brote imprevisto del pozo,
+· La densidad del lodo (peso del lodo) es el factor de control:
+· Una ecuación muy común para obtener la presión hidrostática ejercida por la columna de lodo es:
+Presión hidrostática (psi ) = (Profundidad Vertical pies) x (densidad
+del lodo, lb/gal) x (0.052)
+El gradiente del lodo en (psi/pie) = (densidad del lodo, lb/gal)(0.052)
+
+Sostener los recortes y el material pesado en suspensión cuando se detenga la circulación:
+· Esto se logra con buenas propiedades tixotrópicas del fluido.
+· La tixotropía es la capacidad de un fluido de desarrollar resistencia de gel con el tiempo cuando se le deja
+en reposo, pero permitiéndole regresar a su estado fluido al aplicarle agitación mecánica.
+
+Soportar parte del peso de las sartas de perforación y de revestimiento:
+
+· Conforme un pozo es perforado a mayor profundidad, el peso de las sartas de perforación y derevestimiento se
+convierte en un factor crítico.
+· El lodo ayuda a reducir el peso de las sartas conforme ellas flotan hacia arriba por una fuerza de empuje igual
+al peso del lodo desplazado.
+· Al aumentar el peso del lodo aumenta también la fuerza de flotación.
+
+Evitar daños de permeabilidad en la zona productiva:
+· El fluido utilizado para perforar la zona de producción tendrá un impacto importante en la productividad del
+pozo,
+· La pérdida de la producción resulta de:
+- Arcillas hinchadas por hidratación,
+- Poros del yacimiento bloqueados con sólidos y/o gotas de micro-emulsión.
+
+Permitir la obtención información de las formaciones penetradas
+• Las propiedades del fluido no deben interferir con el programa de registro, deben facilitar la obtención de la
+información deseada.
+• Por ejemplo, el lodo debe tener una resistividad definida para que cuando los registros se corran se pueda
+derivar la resistividad de la formación.
+
+Transmitir caballaje hidráulico a la barrena:
+· El fluido de perforación es el medio para transmitir la potencia hidráulica hasta la barrena,
+· Las propiedades de flujo del lodo ejercen una influencia considerable sobre la hidráulica. Ellas se deben
+optimizar para lograr una hidráulica óptima.
+· Una hidráulica adecuada promueve altas velocidades de penetración.
+
+Protejer la sarta de perforación contra la corrosión :
+
+· El fluido de perforación debe ser no corrosivo,
+· La corrosión aumentará conforme disminuye el PH.
+· La corrosión puede llevar a:
+- Roturas de la tubería por chorro erosivo (lavado)
+- Fallas en la bomba de lodos
+- Fugas en las líneas de superficie.
+
+Sistema de Circulación
+Registro de Lodo
+La unidad de registro, conocida como Unidad de Registro de Lodo (Mud Logging Unit) esta conectada a los
+principales componentes de la mesa rotaria para llevar registro de los parámetros continuamente.
+Este servicio es prestado por compañías especializadas y depende del operador la calidad de la información
+registrada.
+
+Problemas y Síntomas de Limpieza del Agujero
+
+Los problemas relacionados con la limpieza ineficiente del agujero incluyen:
+Aumento en la densidad del espacio anular y, a su vez, en la presión hidrostática del lodo en el anular. Este
+incremento
+de la presión hidrostática del lodo puede causar la fractura de una formación débil expuesta, lo que da por
+resultado pérdida de circulación.
+
+En la práctica, la limpieza eficiente del agujero se obtiene
+proporcionando suficiente velocidad de circulación al lodo de perforación en el anular y las propiedades
+deseables del fluido.
+
+Preparación y Tratamiento del Fluido
+
+Las cuatro rutinas principales con el sistema de fluidos son:
+1. Preparación Inicial
+2. Densificación (incremento del peso o densidad del lodo)
+3. Dilución (Reducción del peso o densidad del lodo)
+4. Tratamiento / acondicionamiento (cambios en la química del lodo)
+Un dispositivo en forma de embudo se emplea para agregar en forma rápida
+materiales sólidos al lodo utilizando el principio del vacío creado por el
+flujo estrangulado (tubo venturi / principio de Joule)
+
+Embudo de Mezcla
+con chorro de lodo
+
+Pruebas de Campo para el Fluido de Perforación
+Las dos propiedades principales que son continuamente controladas son:
+
+Peso del lodo
+medido con la Balanza de Lodos:
+Y
+Viscosidad
+Empleando un embudo de Marsh
+
+Viscosidad
+· La viscosidad se define como la resistencia de un fluido al flujo.
+· Se mide rutinariamente en el campo utilizando el embudo Marsh y se mide el tiempo en segundos que le toma
+a un cuarto de galón del fluido pasar a través del embudo.
+· Conforme aumenta la penetración, los sólidos inertes y los contaminantes entran al sistema de lodo y pueden
+hacer que la viscosidad aumente.
+
+· El embudo Marsh se puede utilizar para determinar si la viscosidad está en el rango adecuado.
+
+Densidad
+· El requerimiento primario de desempeño para un fluido de perforación es el control de presiones.
+· La densidad de cualquier lodo está directamente relacionada con la cantidad y gravedad específica promedio
+de los sólidos en el sistema.
+· El control de densidad es importante ya que la presión hidrostática ejercida por la columna de fluido se
+requiere para contener la presión de la formación y para ayudar a mantener el agujero abierto.
+· La densidad de los fluidos de perforación debe ser dictada por las presiones de la formación.
+· La presión ejercida por la columna de fluido debe ser igual a o ligeramente mayor que la presión de la
+formación.
+
+Densidad
+
+· El control de la densidad es importante.
+· La densidad necesitará ajustarse durante las operaciones en el pozo.
+
+· Se utilizará material densificante como la Barita debido a su alta gravedad específica (mínimo de 4.2 gr/cc),
+· La presión efectiva en el fondo del pozo será mayor en condiciones dinámicas de bombeo (presión por
+circulación).
+
+· La Densidad Equivalente por Circulación será:
+
+Tipos de Fluidos de Perforación
+
+Materiales de Arcilla:
+· La bentonita se utiliza en fluidos de perforación para dar viscosidad y para controlar la pérdida de fluido,
+· Diferentes grados de bentonitas:
+· Bentonita Wyoming, bentonita sodio puro
+· Bentonita API ,montmorillonita tratada con polímeros
+· Bentonita OCMA , bentonita de calcio tratada con ceniza de soda para reemplazar el calcio con sodio
+· Las arcillas comerciales están calificadas de acuerdo con su rendimiento. (Se define el rendimiento de una
+arcilla
+como el número de barriles de lodo de 15 centipoise que se pueden obtener con una tonelada de material seco )
+
+Aditivos para control de la viscosidad:
+
+· Los polímeros orgánicos como Xanthan, PAC o CMC son viscosificantes con moléculas de cadenas
+largas:
+· polímero de celulosa polianiónica,
+· polímero de carboximetil celulosa,
+· Los adelgazantes químicos (dispersantes) reducirán la viscosidad de los fluidos de perforación:
+· Se pueden utilizar fosfatos, lignitos, lignosulfonatos, taninos o adelgazantes sintéticos.
+
+Aditivos para control de fltración:
+· Las arcillas como la Bentonita favorecen la filtración al formarse el revoque frente a la formación permeable,
+· Los polímeros orgánicos como el almidón se hinchan y sellan las zonas permeables en forma efectiva,
+- La estabilidad está limitada a 250 ° F,
+· El CMC y el PAC de baja viscosidad también son buenos para la formación del revoque,
+- El PAC trabaja con salinidades max de 60,000ppm y la estabilidad por temperatura está limitada a 350 ° F
+
+Filtración
+Debe formarse un revoque de filtración delgada, dura e impermeable para:
+1.Minimizar el daño a la formación.
+2.Mejorar la estabilidad del pozo y evitar arrastres y atascos.
+3.Reducir la pérdida de fluidos.
+Relación entre la pérdida de agua y la torta de filtración:
+Cuando aumenta la pérdida de agua, la torta de filtración disminuye; sin embargo, si el revoque de filtración aumenta, la
+pérdida de agua disminuye.
+
+pH
+El pH de un fluido indica su acidez o alcalinidad relativa.
+
+¿Por qué usar lodo con pH alto?
+1.Para prevenir la corrosión: Un pH alto reduce los efectos corrosivos sobre los equipos metálicos causados por
+condiciones ácidas.
+2.Para neutralizar el gas H₂S: El pH alto ayuda a neutralizar el sulfuro de hidrógeno (H₂S), reduciendo sus efectos
+tóxicos y corrosivos.
+3.Para manejar altas temperaturas: Los lodos con pH alto son más estables a temperaturas elevadas, manteniendo sus
+propiedades en condiciones de perforación exigentes.
+
+Efectos negativos de los sólidos en el sistema de lodo:
+1.Daños en las partes de la bomba.
+2.Reducción de la tasa de penetración.
+3.Obstrucción de las boquillas del tricono.
+4.Causa tiempo de inactividad en la plataforma.
+Problemas en el fondo del pozo debido a un fluido de perforación inadecuado:
+1.Desprendimiento de lutitas (shale sloughing).
+2.Pérdida de circulación.
+3.Ingreso de fluidos y posible reventón (well kick y blowout).
+4.Alta temperatura en el fondo del pozo.
+5.Atascamiento.
+
+Componentes del Taladro
+Bombas de Lodo (Mud Pumps)
+Grandes bombas de reciprocación son usadas para circular el lodo (fluido de
+perforación) en un taladro.
+La bomba de lodos se considera EL CORAZÓN del Sistema Circulante
+
+Bomba Triplex – Componentes
+
+Múltiple de Flujo para Succión y Descarga – B. Triplex
+
+Amortiguador de
+Pulsaciones en la
+Descarga – B. Triplex
+Absorbe los golpes de presión en la descarga de la bomba debido
+al pistoneo.
+
+Permite así una entrega volumétrica suave
+A la vez que disminuye las vibraciones
+Va instalado cerca o sobre la descarga
+La cámara de amortiguación se pre-carga con Nirrógeno contenido
+en una vegiga o diafragma deneopreno
+
+Bomba de Pre-carga o de Alimentación – B. Triplex
+
+Características:
+• Suministra el fluido de perforación para la bomba de pistones en
+forma continua
+• Se instala en la línea de succión de la bomba de lodos para succionar
+directamente de la presa y alimentar la succión de la bomba de
+pistones
+• Es una bomba tipo Centrífuga.
+• Operada con motor diésel o, más comúnmente, con motor eléctrico
+
+Camisas y Pistones – Bomba Triplex
+
+Dimensiones consideradas:
+•Longitud de la Carrera y Diámetro del Pistón (igual al diámetro
+de la Camisa)
+Volumen teórico entregado por embolada:
+•Se calcula de acuerdo con las dimensiones
+Volumen Real entregado:
+V. Real = Vol. Teórico x Eficiencia Volumétrica.
+Ef. Vol. Para bombas triplex es de 97 a 98%
+
+Capacidad de las bombas de lodo
+Bombas Duplex.
+
+Bombas Triplex.
+
+Velocidad Anular Crítica y Caudal Crítico
+
+Ejercicio
+
+Velocidad de Deslizamiento de Ripios
+
+Ejercicio
+
+Utilizar los siguientes datos para determinar la velocidad anular, pie/min; la velocidad de
+deslizamiento de ripios, pie/min; y la velocidad de subida neta de los ripios.
+
+Modelo Plástico de Bingham
+Se han desarrollado varios modelos matemáticos para simular la reología de los fluidos de perforación. El que se usa más
+ampliamente en el campo es el Modelo Plástico de Bingham.
+Este modelo supone un comportamiento lineal de la relación entre el esfuerzo cortante y la velocidad de cizallamiento, pero la
+línea no cruza el origen como sucede con los fluidos Newtonianos.
+
+La ecuación del modelo plástico de Bingham está dada por:
+
+Modelo Plástico de Bingham
+
+Viscosidad Plástica, PV:
+
+Los lodos de perforación normalmente están compuestos por una fase líquida continua en la cual están dispersos los
+materiales sólidos. La Viscosidad Plástica es la resistencia al flujo relacionada con la fricción
+mecánica que es causada por:
+•La concentración de sólidos.
+•El tamaño y forma de los sólidos.
+•La viscosidad de la fase líquida.
+En el campo la PV se considera como una guía para el control de sólidos.
+Se incrementa conforme el porcentaje volumétrico de sólidos se incrementa o si el porcentaje volumétrico permanece
+constante pero el tamaño de partículas disminuye.
+Por lo tanto, la PV se puede reducir al reducir la concentración de sólidos o disminuyendo el área superficial.
+
+Modelo Plástico de Bingham
+Punto de Cedencia, YP
+El punto de cedencia es la resistencia inicial al flujo debido a las fuerzas electroquímicas entre las partículas. Estas fuerzas
+son causadas por las cargas localizadas en la superficie de las partículas dispersas en la fase fluida. El punto de cedencia
+depende de:
+•Las propiedades superficiales de los sólidos en el lodo.
+•La concentración volumétrica de los sólidos.
+•El ambiente iónico del líquido que rodea a los sólidos.
+
+El YP se puede controlar por medio de un tratamiento químico adecuado.
+•Las cargas positivas en las partículas se pueden neutralizar por la adsorción de grandes iones negativos. Estos pueden ser
+aportados por productos químicos como: taninos, lignitos, lignosulfonatos, etc.
+•En caso de contaminación de iones como calcio o magnesio, estos se pueden remover como precipitados insolubles.
+•La dilución con agua también puede reducir el YP. Sin embargo, si la concentración de sólidos es demasiado elevada no va
+a ser efectiva.
+
+Modelo Plástico de Bingham
+PV =Pendiente, YP = Intersección
+
+Ejercicio
+
+Modelo de la Ley de Potencia – Se utiliza para simular el comportamiento de fluidos de perforación basados en polímeros
+que no tienen un esfuerzo de cedencia. (por ejemplo, las salmueras transparentes viscosificadas).
+La ecuación general para este modelo es:
+
+K es el índice de consistencia, “n” es el índice de comportamiento de flujo. 0 < n < 1.0 Tanto K como n son particulares para
+cada fluido.
+
+𝗗𝗿𝗶𝗹𝗹𝗶𝗻𝗴 𝗿𝗮𝘁𝗲 (𝗥𝗢𝗣): ¿Qué es la ROP y por qué es importante?
+
+La ROP mide la rapidez con la que la broca penetra la roca del subsuelo. Es un indicador clave de rendimiento (KPI) para las
+operaciones de perforación porque:
+Una ROP más alta reduce el tiempo necesario para alcanzar las profundidades objetivo, lo que minimiza los costos.
+Una ROP óptima equilibra la velocidad con la seguridad y la longevidad del equipo, lo que evita daños en la formación o el
+desgaste de las herramientas.
+El monitoreo en tiempo real de la ROP proporciona datos valiosos para ajustar los parámetros de perforación y evaluar las
+características de la formación.
+
+Factores que influyen en la ROP:
+Propiedades de la formación:
+Tipo de roca: Las formaciones blandas como la arenisca o la pizarra permiten una perforación más rápida en comparación
+con las formaciones duras como la piedra caliza o el granito.
+Presión de formación: Las zonas con sobrepresión pueden permitir una perforación más rápida, mientras que las zonas con
+baja presión pueden requerir ajustes para evitar la inestabilidad del pozo.
+Parámetros de perforación:
+Peso sobre la broca (WOB): Aumentar el WOB generalmente mejora la velocidad de penetración (ROP), pero puede
+provocar desgaste de la broca o daños en el equipo si es excesivo.
+Velocidad de rotación (RPM): Unas RPM más altas pueden mejorar la ROP, pero deben equilibrarse con el diseño de la
+broca y las características de la formación para evitar vibraciones o fallas de la broca.
+Tasa de flujo de lodo: La remoción eficiente de recortes con la tasa de flujo correcta ayuda a mantener una ROP óptima.
+
+Selección de la broca:
+Tipo de broca: Las brocas de diamante policristalino compacto (PDC) suelen lograr una ROP más alta en formaciones blandas,
+mientras que las brocas de cono de rodillo son adecuadas para formaciones duras.
+Diseño de la broca: El tamaño, la forma y la disposición de los cortadores afectan la ROP.
+Propiedades del fluido de perforación:
+La densidad del lodo, la viscosidad y los aditivos influyen en la ROP al afectar el enfriamiento de la broca, la remoción de
+recortes y la presión en el fondo del pozo.
+Las propiedades inadecuadas del fluido pueden provocar el apelmazamiento de la broca, lo que reduce la ROP.
+Condiciones del fondo del pozo:
+Eficiencia de la limpieza del pozo: la eliminación deficiente de los recortes puede ralentizar la perforación.
+
+Estabilidad del pozo: las formaciones que colapsan o se expanden pueden impedir la velocidad de penetración.
+
+Tecnología y herramientas:
+Las herramientas de medición durante la perforación (MWD) y registro durante la perforación (LWD) brindan datos en
+tiempo real para optimizar la velocidad de penetración.
+Los sistemas rotativos direccionales (RSS) mantienen el control direccional sin comprometer la velocidad de penetración.
+Estrategias para optimizar la velocidad de penetración:
+Planificación previa a la perforación: Analice los datos de pozos secundarios para comprender las propiedades de la formación
+y las tendencias históricas de la velocidad de penetración.
+Seleccione los tipos de brocas y fluidos de perforación adecuados para las litologías esperadas.
+Monitoreo y ajustes en tiempo real: Monitoree continuamente la velocidad de penetración y otros parámetros de perforación
+para identificar ineficiencias o cambios en las propiedades de la formación.
+Ajuste el WOB, las RPM y los caudales de lodo en respuesta a las condiciones en tiempo real.
+Optimización de la broca: Utilice diseños de broca avanzados adaptados a la formación específica.Implemente análisis de la
+ejecución de la broca para evaluar el rendimiento y mejorar la selección de brocas futuras.
+
+Gestión de fluidos: Mantenga las propiedades óptimas del lodo para mejorar el transporte de los recortes y minimizar el
+desgaste de la broca.
+Use lubricantes o aditivos para reducir la fricción en formaciones desafiantes.
+
+𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐲 𝐁𝐢𝐭 𝐅𝐚𝐢𝐥𝐮𝐫𝐞 𝐃𝐫𝐢𝐥𝐥𝐢𝐧𝐠:
+Identificar fallas en las brocas durante la perforación de pozos petroleros es vital para evitar tiempos de inactividad costosos y
+garantizar la seguridad operativa. El uso de múltiples métodos puede mejorar su capacidad para identificar problemas
+potenciales:
+
+𝐑𝐞𝐚𝐥-𝐭𝐢𝐦𝐞 𝐝𝐫𝐢𝐥𝐥𝐢𝐧𝐠 𝐝𝐚𝐭𝐚:
+𝐑𝐚𝐭𝐞 𝐨𝐟 𝐏𝐞𝐧𝐞𝐭𝐫𝐚𝐭𝐢𝐨𝐧 (𝐑𝐎𝐏): Una disminución repentina en la tasa de penetración (ROP), en particular cuando se compara
+con la tasa planificada, puede indicar desgaste o falla de la broca.
+Sistema de Transmisión de Señales (𝐒𝐢𝐬𝐭𝐫𝐚𝐬): transmite datos en tiempo real para monitorear condiciones del fondo del pozo,
+optimizar la perforación y reducir costos. Un aumento inesperado en el WOB requerido para mantener una ROP constante
+puede sugerir que la broca se está desafilando o que se está encontrando una formación más dura.
+𝐓𝐨𝐫𝐪𝐮𝐞: Un torque excesivo o errático puede indicar un desequilibrio de la broca, problemas de cojinetes o cambios de
+formación. Además, si se aplica más WOB pero no hay cambios en el torque de perforación, puede indicar una pérdida de
+cortadores en las brocas PDC.
+
+𝐒𝐭𝐚𝐧𝐝𝐩𝐢𝐩𝐞 𝐏𝐫𝐞𝐬𝐬𝐮𝐫𝐞: Las fluctuaciones en la presión de la tubería vertical pueden indicar que la broca está tapada,
+bloqueada o que la formación es inestable.
+
+𝐈𝐝𝐞𝐧𝐭𝐢𝐟𝐲 𝐁𝐢𝐭 𝐅𝐚𝐢𝐥𝐮𝐫𝐞 𝐃𝐫𝐢𝐥𝐥𝐢𝐧𝐠:
+𝐃𝐨𝐰𝐧𝐡𝐨𝐥𝐞 𝐬𝐞𝐧𝐬𝐨𝐫𝐬:
+𝐌𝐮𝐝 𝐥𝐨𝐠𝐠𝐞𝐫𝐬: Estos monitorean las propiedades del fluido de perforación, como la densidad del lodo, la viscosidad y el
+contenido de gas, que pueden cambiar si la broca no funciona de manera óptima.
+
+𝐓𝐨𝐨𝐥𝐬 𝐌𝐞𝐚𝐬𝐮rement: Detecta vibraciones anormales en la sarta de perforación, causadas por desequilibrio de la broca,
+desgaste de los cojinetes o cambios en la formación.
+𝐓𝐨𝐨𝐥𝐬 𝐌𝐞𝐚𝐬𝐮𝐫𝐞𝐦𝐞𝐧𝐭𝐞𝐝: Las herramientas de medición y registro durante la perforación brindan datos en tiempo real sobre
+la inclinación del pozo, el acimut, la resistividad de la formación y otros parámetros para identificar problemas de rendimiento
+de la broca.
+𝐒𝐮𝐫𝐟𝐚𝐜𝐞 𝐨𝐛𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧𝐬:
+𝐃𝐫𝐢𝐥𝐥𝐢𝐧𝐠 𝐅𝐥𝐮𝐢𝐝 𝐑𝐞𝐭𝐮𝐫𝐧𝐚𝐬: Observe los cambios en el color, la consistencia y el volumen de los retornos del fluido de
+perforación, lo que indica desgaste de la broca, cambios en la formación o pérdida de circulación.
+Drilling Cuttins (Recortes de perforación) : Analice el tamaño, la forma y el color de los recortes de perforación para
+determinar el tipo de formación y el posible desgaste de la broca.
+
+Sistema de circulación
+
+Sistema Circulante
+Sirve de soporte al sistema de rotación al proveer el equipo, los materiales y las áreas de trabajo para preparar y mantener el
+fluido de perforación o “lodo”.
+
+Los 4 componentes principales de un sistema circulante son:
+1. Tanques o Presas de Succión
+2. Línea de Succión
+3. Bombas de Lodo
+4. Línea de Descarga de la Bomba
+5. Línea de Conducción a la torre
+6. Manguera Rotaria
+7. Sarta de Perforación
+8. Espacio Anular hoyo - Sarta
+9. Línea de Retorno
+10. Tanques o presas de asentamiento
+11. Área para el acondicionamiento del lodo
+
+Sistema de Circulación
+
+Sistema de Circulación
+Funciones del Lodo
+
+Propiedades del Lodo
+
+• Llevar los cortes del fondo a superficie
+• densidad
+• Sostener las paredes del pozo
+• sólidos
+• Controlar las presiones naturales en las formaciones perforadas
+• viscosidad
+• Enfriar y lubricar la broca y la sarta de perforación
+• filtración
+• ayudar a soportar la sarta de perforación (boyancia)
+• alcalinidad
+• mantener el pozo limpio de cortes
+• salinidad
+• suspender los cortes cuando se para la circulación
+• permitir obtener información de las formaciones
+• transmitir potencia hidraúlica a la broca
+• permitir la fácil remoción de los cortes en superficie
+Tres Tipos Básicos de Fluidos son:
+1. Fluidos de Perforación con Base Agua - WBM
+2. Fluidos de Perforación con Base de Aceite - OBM
+3. Fluidos de Perforación con Aire o Gas
+
+Sistema Circulante
+
+1. El corazón del sistema de circulación son las bombas de
+lodo,
+2. Existen dos tipos de bombas de lodo utilizadas en la
+industria petrolera: Duplex y Triplex,
+3. Una bomba básica consiste en un pistón que hace un
+movimiento recíproco dentro de un cilindro.
+4. Una bomba es sencilla si bombea el fluido cuando el
+pistón se mueve hacia adelante (bomba triplex) y de acción
+doble cuando bombea el fluido al moverse en ambas
+direcciones (bomba duplex).
+5. El tamaño de los pistones (y de las camisas en que se
+mueven) afectan el caudal (tasa de bombeo o gasto) y la
+presión máxima que pueda alcanzar la bomba
+
+Retirar los recortes del fondo del agujero, transportarlos y liberarlos en la
+superficie.
+
+· La velocidad de flujo en el espacio anular es el parámetro clave para vencer el efecto de la gravedad,
+· Es frecuente utilizar velocidades entre 100 y 200 pies/min en el espacio anular,
+· La densidad y la viscosidad también contribuyen a mejorar la capacidad transportadora de un fluido,
+· Los recortes y los sólidos deben retirarse en la superficie para obtener un fluido limpio que se pueda bombear
+de nuevo hacia el agujero a través de la sarta.
+· La arena es muy abrasiva y si no se remueve dañará las bombas de lodo, las líneas , los tubulares y el equipo
+de subsuelo.
+· Si no se remueven los recortes se fragmentarán y llenarán el lodo con coloides que deteriorarán sus
+propiedades reológicas.
+
+Enfrar y lubricar la barrena y la sarta de perforación:
+
+· Conforme la barrena y la sarta de perforación giran contra la formación, se genera una gran cantidad de
+calor,
+· El fluido de perforación absorbe el calor generado y lo lleva a la superficie, donde se libera a la atmósfera,
+· El fluido de perforación debe tener algunas propiedades de lubricación que ayudarán a reducir el torque y
+la fricción.
+· La lubricación ocurre entre el agujero y la superficie de la barrena o sarta de perforación, no tiene nada
+que ver con los cojinetes de la barrena.
+
+Depositar un revoque de pared impermeable :
+
+· Un buen fluido de perforación debe depositar un revoque delgado y de baja permeabilidad en la pared del
+agujero frente a las formaciones permeables para consolidarlas y para retardar el paso del fluido desde el
+agujero del pozo hacia la formación permeable.
+· La presión diferencial resultará en invasión del fluido, la cual en ausencia de un revoque empujaría al lodo o
+a su filtrado hacia la formación,
+· La pérdida de lodo o de filtrado causará daños a la formación.
+
+Controlar las presiones del subsuelo:
+· La presión hidrostática del lodo debe ser suficiente para prevenir un brote imprevisto del pozo,
+· La densidad del lodo (peso del lodo) es el factor de control:
+· Una ecuación muy común para obtener la presión hidrostática ejercida por la columna de lodo es:
+Presión hidrostática (psi ) = (Profundidad Vertical pies) x (densidad
+del lodo, lb/gal) x (0.052)
+El gradiente del lodo en (psi/pie) = (densidad del lodo, lb/gal)(0.052)
+
+Sostener los recortes y el material pesado en suspensión cuando se detenga la circulación:
+· Esto se logra con buenas propiedades tixotrópicas del fluido.
+· La tixotropía es la capacidad de un fluido de desarrollar resistencia de gel con el tiempo cuando se le deja
+en reposo, pero permitiéndole regresar a su estado fluido al aplicarle agitación mecánica.
+
+Soportar parte del peso de las sartas de perforación y de revestimiento:
+
+· Conforme un pozo es perforado a mayor profundidad, el peso de las sartas de perforación y derevestimiento se
+convierte en un factor crítico.
+· El lodo ayuda a reducir el peso de las sartas conforme ellas flotan hacia arriba por una fuerza de empuje igual
+al peso del lodo desplazado.
+· Al aumentar el peso del lodo aumenta también la fuerza de flotación.
+
+Evitar daños de permeabilidad en la zona productiva:
+· El fluido utilizado para perforar la zona de producción tendrá un impacto importante en la productividad del
+pozo,
+· La pérdida de la producción resulta de:
+- Arcillas hinchadas por hidratación,
+- Poros del yacimiento bloqueados con sólidos y/o gotas de micro-emulsión.
+
+Permitir la obtención información de las formaciones penetradas
+• Las propiedades del fluido no deben interferir con el programa de registro, deben facilitar la obtención de la
+información deseada.
+• Por ejemplo, el lodo debe tener una resistividad definida para que cuando los registros se corran se pueda
+derivar la resistividad de la formación.
+
+Transmitir caballaje hidráulico a la barrena:
+· El fluido de perforación es el medio para transmitir la potencia hidráulica hasta la barrena,
+· Las propiedades de flujo del lodo ejercen una influencia considerable sobre la hidráulica. Ellas se deben
+optimizar para lograr una hidráulica óptima.
+· Una hidráulica adecuada promueve altas velocidades de penetración.
+
+Protejer la sarta de perforación contra la corrosión :
+
+· El fluido de perforación debe ser no corrosivo,
+· La corrosión aumentará conforme disminuye el PH.
+· La corrosión puede llevar a:
+- Roturas de la tubería por chorro erosivo (lavado)
+- Fallas en la bomba de lodos
+- Fugas en las líneas de superficie.
+
+Sistema de Circulación
+Registro de Lodo
+La unidad de registro, conocida como Unidad de Registro de Lodo (Mud Logging Unit) esta conectada a los
+principales componentes de la mesa rotaria para llevar registro de los parámetros continuamente.
+Este servicio es prestado por compañías especializadas y depende del operador la calidad de la información
+registrada.
+
+Problemas y Síntomas de Limpieza del Agujero
+
+Los problemas relacionados con la limpieza ineficiente del agujero incluyen:
+Aumento en la densidad del espacio anular y, a su vez, en la presión hidrostática del lodo en el anular. Este
+incremento
+de la presión hidrostática del lodo puede causar la fractura de una formación débil expuesta, lo que da por
+resultado pérdida de circulación.
+
+En la práctica, la limpieza eficiente del agujero se obtiene
+proporcionando suficiente velocidad de circulación al lodo de perforación en el anular y las propiedades
+deseables del fluido.
+
+Preparación y Tratamiento del Fluido
+
+Las cuatro rutinas principales con el sistema de fluidos son:
+1. Preparación Inicial
+2. Densificación (incremento del peso o densidad del lodo)
+3. Dilución (Reducción del peso o densidad del lodo)
+4. Tratamiento / acondicionamiento (cambios en la química del lodo)
+Un dispositivo en forma de embudo se emplea para agregar en forma rápida
+materiales sólidos al lodo utilizando el principio del vacío creado por el
+flujo estrangulado (tubo venturi / principio de Joule)
+
+Embudo de Mezcla
+con chorro de lodo
+
+Pruebas de Campo para el Fluido de Perforación
+Las dos propiedades principales que son continuamente controladas son:
+
+Peso del lodo
+medido con la Balanza de Lodos:
+Y
+
+Viscosidad
+Empleando un embudo de Marsh
+
+Viscosidad
+· La viscosidad se define como la resistencia de un fluido al flujo.
+· Se mide rutinariamente en el campo utilizando el embudo Marsh y se mide el tiempo en segundos que le toma
+a un cuarto de galón del fluido pasar a través del embudo.
+· Conforme aumenta la penetración, los sólidos inertes y los contaminantes entran al sistema de lodo y pueden
+hacer que la viscosidad aumente.
+· El embudo Marsh se puede utilizar para determinar si la viscosidad está en el rango adecuado.
+
+Densidad
+· El requerimiento primario de desempeño para un fluido de perforación es el control de presiones.
+
+· La densidad de cualquier lodo está directamente relacionada con la cantidad y gravedad específica promedio
+de los sólidos en el sistema.
+· El control de densidad es importante ya que la presión hidrostática ejercida por la columna de fluido se
+requiere para contener la presión de la formación y para ayudar a mantener el agujero abierto.
+· La densidad de los fluidos de perforación debe ser dictada por las presiones de la formación.
+
+· La presión ejercida por la columna de fluido debe ser igual a o ligeramente mayor que la presión de la
+formación.
+
+Densidad
+
+· El control de la densidad es importante.
+· La densidad necesitará ajustarse durante las operaciones en el pozo.
+· Se utilizará material densificante como la Barita debido a su alta gravedad específica (mínimo de 4.2 gr/cc),
+· La presión efectiva en el fondo del pozo será mayor en condiciones dinámicas de bombeo (presión por
+circulación).
+· La Densidad Equivalente por Circulación será:
+
+Tipos de Fluidos de Perforación
+
+Materiales de Arcilla:
+· La bentonita se utiliza en fluidos de perforación para dar viscosidad y para controlar la pérdida de fluido,
+· Diferentes grados de bentonitas:
+· Bentonita Wyoming, bentonita sodio puro
+· Bentonita API ,montmorillonita tratada con polímeros
+· Bentonita OCMA , bentonita de calcio tratada con ceniza de soda para reemplazar el calcio con sodio
+· Las arcillas comerciales están calificadas de acuerdo con su rendimiento. (Se define el rendimiento de una
+arcilla
+como el número de barriles de lodo de 15 centipoise que se pueden obtener con una tonelada de material seco )
+
+Aditivos para control de la viscosidad:
+
+· Los polímeros orgánicos como Xanthan, PAC o CMC son viscosificantes con moléculas de cadenas
+largas:
+· polímero de celulosa polianiónica,
+· polímero de carboximetil celulosa,
+· Los adelgazantes químicos (dispersantes) reducirán la viscosidad de los fluidos de perforación:
+· Se pueden utilizar fosfatos, lignitos, lignosulfonatos, taninos o adelgazantes sintéticos.
+
+Aditivos para control de fltración:
+· Las arcillas como la Bentonita favorecen la filtración al formarse el revoque frente a la formación permeable,
+· Los polímeros orgánicos como el almidón se hinchan y sellan las zonas permeables en forma efectiva,
+- La estabilidad está limitada a 250 ° F,
+· El CMC y el PAC de baja viscosidad también son buenos para la formación del revoque,
+- El PAC trabaja con salinidades max de 60,000ppm y la estabilidad por temperatura está limitada a 350 ° F
+
+Filtración
+Debe formarse un revoque de filtración delgada, dura e impermeable para:
+1.Minimizar el daño a la formación.
+2.Mejorar la estabilidad del pozo y evitar arrastres y atascos.
+3.Reducir la pérdida de fluidos.
+Relación entre la pérdida de agua y la torta de filtración:
+Cuando aumenta la pérdida de agua, la torta de filtración disminuye; sin embargo, si el revoque de filtración aumenta, la
+pérdida de agua disminuye.
+
+pH
+El pH de un fluido indica su acidez o alcalinidad relativa.
+
+¿Por qué usar lodo con pH alto?
+1.Para prevenir la corrosión: Un pH alto reduce los efectos corrosivos sobre los equipos metálicos causados por
+condiciones ácidas.
+2.Para neutralizar el gas H₂S: El pH alto ayuda a neutralizar el sulfuro de hidrógeno (H₂S), reduciendo sus efectos
+tóxicos y corrosivos.
+3.Para manejar altas temperaturas: Los lodos con pH alto son más estables a temperaturas elevadas, manteniendo sus
+propiedades en condiciones de perforación exigentes.
+
+Efectos negativos de los sólidos en el sistema de lodo:
+
+1.Daños en las partes de la bomba.
+2.Reducción de la tasa de penetración.
+3.Obstrucción de las boquillas del tricono.
+4.Causa tiempo de inactividad en la plataforma.
+Problemas en el fondo del pozo debido a un fluido de perforación inadecuado:
+1.Desprendimiento de lutitas (shale sloughing).
+2.Pérdida de circulación.
+3.Ingreso de fluidos y posible reventón (well kick y blowout).
+4.Alta temperatura en el fondo del pozo.
+5.Atascamiento.
+
+Componentes del Taladro
+Bombas de Lodo (Mud Pumps)
+Grandes bombas de reciprocación son usadas para circular el lodo (fluido de
+perforación) en un taladro.
+La bomba de lodos se considera EL CORAZÓN del Sistema Circulante
+
+Bomba Triplex – Componentes
+
+Múltiple de Flujo para Succión y Descarga – B. Triplex
+
+Amortiguador de
+Pulsaciones en la
+Descarga – B. Triplex
+Absorbe los golpes de presión en la descarga de la bomba debido
+al pistoneo.
+
+Permite así una entrega volumétrica suave
+A la vez que disminuye las vibraciones
+Va instalado cerca o sobre la descarga
+
+La cámara de amortiguación se pre-carga con Nirrógeno contenido
+en una vegiga o diafragma deneopreno
+
+Bomba de Pre-carga o de Alimentación – B. Triplex
+
+Características:
+
+• Suministra el fluido de perforación para la bomba de pistones en
+forma continua
+• Se instala en la línea de succión de la bomba de lodos para succionar
+directamente de la presa y alimentar la succión de la bomba de
+pistones
+• Es una bomba tipo Centrífuga.
+• Operada con motor diésel o, más comúnmente, con motor eléctrico
+
+Camisas y Pistones – Bomba Triplex
+
+Dimensiones consideradas:
+
+•Longitud de la Carrera y Diámetro del Pistón (igual al diámetro
+de la Camisa)
+Volumen teórico entregado por embolada:
+•Se calcula de acuerdo con las dimensiones
+Volumen Real entregado:
+V. Real = Vol. Teórico x Eficiencia Volumétrica.
+Ef. Vol. Para bombas triplex es de 97 a 98%
+
+Capacidad de las bombas de lodo
+Bombas Duplex.
+
+Bombas Triplex.
+
+Camisas y Pistones – Bomba Triplex
+
+Dimensiones consideradas:
+
+•Longitud de la Carrera y Diámetro del Pistón (igual al diámetro
+de la Camisa)
+Volumen teórico entregado por embolada:
+•Se calcula de acuerdo con las dimensiones
+Volumen Real entregado:
+V. Real = Vol. Teórico x Eficiencia Volumétrica.
+Ef. Vol. Para bombas triplex es de 97 a 98%
+
+Capacidad de las bombas de lodo
+Bombas Duplex.
+
+Bombas Triplex.
+
+Componentes del Taladro
+Equipo para Control de Sólidos
+
+Zaranda (Shale Shaker)
+
+Los Shale Shakers son equipos clave en el control de sólidos durante la perforación,
+eliminando partículas grandes y permitiendo el paso de baritina y partículas pequeñas,
+con capacidad para remover sólidos de hasta 74 micrones. Su diseño avanzado mejora
+la eficiencia, prolonga la vida útil de los fluidos de perforación y reduce costos e
+impacto ambiental. El desempeño óptimo requiere seleccionar mallas adecuadas y
+realizar mantenimiento constante.
+
+Es el limpiador primario del lodo.
+Remueve los ripios de perforación de mayor tamaño transportados en el lodo
+reteniéndolas en mallas vibratorias
+
+Componentes del Taladro
+
+Los Desanders son dispositivos con uno o dos conos que separan sólidos al someter los fluidos de perforación a altas
+fuerzas centrífugas. Son útiles en la perforación de pozos superficiales, especialmente cuando altas tasas de penetración en
+pozos de gran diámetro dificultan el uso de mallas finas en los shale shakers. Son eficaces para remover partículas de
+arena fina y sólidos perforados que no pueden ser eliminados por shale shakers o trampas de arena. Operan a una presión
+de 35-45 psi y eliminan sólidos de entre 74 y 40 micrones.
+
+El Desilter funciona de manera similar al Desander, diferenciándose únicamente por el diámetro interno del cono: seis
+pulgadas o más en el Desander y menos de seis pulgadas en el Desilter. Esto genera fuerzas centrífugas más altas en los
+conos más pequeños del Desilter. Los conos del Desander eliminan sólidos más gruesos de entre 50 y 80 micrones,
+mientras que los del Desilter remueven partículas más pequeñas, de 40 a 20 micrones. Ambos operan a una presión de
+35-45 psi.
+
+Equipo para Control de Sólidos
+
+Desarenador / Desarcillador
+
+Remueve las partículas más finas
+Por fuerza centrífuga cuando se hace pasar el lodo a
+través de Hidrociclones (sistema de conos
+interconectados con entrada lateral de flujo y descarga
+de sólidos por el vértice y lodo limpio por el tope
+
+Mud Cleaner
+Un Mud Cleaner es esencialmente un Desilter montado encima de un Shale
+Shaker, equipado con pantallas finas (200 mallas o más finas).
+Elimina sólidos perforados del lodo y consta de conos de desilting y pantallas
+muy finas.
+La lectura del manómetro es de 35-45 psi.
+El Mud Cleaner elimina sólidos en el rango de 20 a 7 micrones.
+
+Centrífuga
+La centrífuga elimina sólidos en el rango de 7 a 4 micrones.
+Las centrífugas reducen los sólidos coloidales a niveles
+aceptables, mejorando la calidad del fluido de perforación sin
+necesidad de costosos tratamientos de dilución.
+Cuando se aumenta el peso del lodo, la centrífuga debe
+apagarse, ya que puede eliminar el material de ponderación.
+
+Equipo para acondicionamiento del lodo
+Remoción de Gas
+El gas que ha entrado en el lodo se debe remover porque
+1. Reduce la densidad del lodo
+2. Reduce la eficiencia volumétrica de la bomba
+3. Disminuye la presión hidrostática de la columna de fluido
+4. Aumenta el volumen del fluido de perforación
+
+Equipos utilizados para remoción del gas:
+Separador de Gas (Mud Gas Separator)
+Es un aparato usado para retirar gas del lodo proveniente del pozo cuando se
+presenta invasión de gas en el pozo.
+
+Desgasificador de Vacío
+
+El separador de gas de lodo también conocido como separador vertical, separador atmosférico o desgasificador es
+un equipo del sistema de seguridad de superficie y su función principal es remover el gas del lodo y transportarlo
+lejos de las instalaciones de perforación donde puede ser manejado y controlado sin peligro para las operaciones o
+el personal.
+
+Existen dos tipos de separadores atmosféricos que
+amplían el tamaño de las burbujas: uno mediante la
+generación de vacío en el lodo y otro que aumenta
+la superficie del lodo usando placas deflectoras en
+cascada. Cuando el contenido de gas es elevado, se
+usa un separador lodo-gas o "desgasificador de
+choque", que desvía los gases liberados hacia una
+zona de quema controlada.
+
+La eliminación del gas se lleva a cabo mediante la reducción del espesor del fluido, agitación mecánica y acción centrífuga. La
+capacidad del desgasificador depende de la geometría de la tubería de descarga, donde la presión puede impedir la liberación
+del gas, lo que representa un riesgo de explosión. Aunque a veces no se logra una separación completa entre gas y lodo, el
+sistema es funcional, sencillo y no requiere equipo ni mantenimiento específico.
+
+La presión hidrostática (PHYD) es la presión ejercida por el peso de un líquidosobre su “contenedor” y es una
+función de la densidad del fluido y la profundidad verticalverdadera (TVD), como lo muestra la siguiente ecuación.
+En un pozo, esta es la presiónejercida sobre las secciones de revestimiento y de pozo abierto del pozo y es la
+fuerzaque controla los fluidos de formación y evita el colapso del pozo.
+
+Presiones en el Sistema Circulante
+
+Pérdidas de Presión en el Sistema Circulante:
+· Pérdida de presión en el equipo de la superficie
+· De la bomba al “stand pipe”, manguera rotaria, Kelly o
+Top Drive, hasta la parte superior de la tubería de perforación
+· Pérdida de presión a través de la sarta de perforación
+· Pérdida de presión en las herramientas del fondo:
+· PDM
+· Absorbedores de impacto / Martillos de Perforación
+· MWD / LWD
+· Pérdida de presión a través de la barrena
+· Pérdidas de presión en el espacio anular
+
+Las caídas de presión en el sistema son:
+
+Todas las pérdidas de presión que están del lado derecho de la pérdida de la barrena con frecuencia se llaman las pérdidas
+«Parásitas »
+
+En general, los aspectos hidráulicos de la barrena se optimizan para mejorar la velocidad de perforación; sin embargo, hay
+muchos factores que afectan la velocidad de perforación:
+• Tamaño de la barrena
+• Tipo de la barrena
+• Características de la barrena
+• Tipo y resistencia de la formación
+• Aspectos hidráulicos de la barrena
+El objetivo de la optimización hidráulica es obtener un buen equilibrio en controlar las presiones en el pozo, el gasto o tasa
+de bombeo, la limpieza del pozo, la presión de bombeo, ECD y la caída depresión a través de la barrena.
+La presión y la velocidad de circulación máximas son restricciones limitadas ligadas a las capacidades del equipo de
+perforación.
+
+Circulación de Fluidos:
+· La circulación del fluido tiene que diseñarse para remover los recortes con eficiencia y también para enfriar la cara de la
+barrena.
+· Estos requerimientos pueden satisfacerse al aumentar el caudal o gasto de la bomba,
+
+· Sin embargo, el incremento en la velocidad de bombeo del fluido (gasto) puede causar una erosión excesiva de la cara y una
+falla prematura de la barrena.
+
+Importancia de una buena Hidráulica para perforar:
+
+· Remoción de recortes en el espacio anular
+· Presión hidrostática para balancear la presión del poro y prevenir que se colapse el agujero del pozo
+· DEC (Densidad Equivalente de Circulación)
+· Presiones de Surgencia / suaveo durante los viajes de entrada y salida de la sarta en el pozo
+· Limitación de la capacidad de bombeo
+· Optimización del proceso de perforación (Max HHP consumido en la barrena o Max Impacto del Chorro)
+· Efectos de Presión y Temperatura
+
+Presión de Poros
+La Presión de Poros se define como la presión que actúa sobre los fluidos en los espacios porosos de la roca. Se
+relaciona con la salinidad del fluido.
+• Presión de Poros Normal :
+• La presión Normal de poros es la presión hidrostática de una columna de fluido de la formación que se extiende desde la
+superficie hasta la formación en el subsuelo,
+• La magnitud de la Presión Normal varia según la concentración de sales disueltas en el fluido de formación, tipo de fluido,
+gas presente y gradiente de temperatura.
+
+Presión Anormal de Poros:
+• Se define como cualquier presión del poro que sea mayor que la presión hidrostática Normal del agua de la formación (de
+salinidnormal promedio) que ocupa el espacio poroso.
+• Las causas de la presión anormal se atribuyen a la combinación de varios eventos geológicos, geoquímicos, geotérmicos y
+mecánicos.
+
+• Presión Subnormal de Poros:
+• Se define como cualquier presión de poros que sea menor a la correspondiente presión hidrostática NORMAL (de
+una columna de fluido de salinidad Normal promedia) a una profundidad dada,
+• Ocurre con menor frecuencia que las presiones anormales.
+Pudiera tener causas naturales relacionadas con el historial estratigráfico, tectónico o geoquímico del área.
+
+Presiones de Formación
+
+Gradiente de Fractura
+
+• Se define como la presión a la cual ocurre la ruptura de una formación.
+• Una predicción exacta del gradiente de fractura es esencial para optimizar el diseño del pozo.
+• En la etapa de la planeación del pozo, puede estimarse a partir de los datos de los pozos de referencia.
+• Si no hay datos disponibles, se usan otros métodos empíricos, por ejemplo:
+• Matthews & Kelly (1967)
+• Eaton (1969)
+• Daines (1982)
+
+Determinación del Gradiente de Fractura
+
+Hay dos procedimientos comunes:
+• Prueba de Fuga (LOT)
+• Bombear fluido a una velocidad lenta y controlada para aumentar la presión contra la cara de la formación
+hasta crear una trayectoria de inyección de fluido en la roca, lo cual indica la presión de ruptura de la
+formación expresada en densidad de fluido equivalente, lbs/gal.
+• Prueba de Integridad de la Formación (FIT)
+• Presurizar la columna de fluido hasta un límite predeterminado que mostrará una presión hidrostática de
+fluido de densidad equivalente hasta la cual el fluido no tendrá fuga hacia la formación ni la quebrará.
+• Note: una FIT no dará información para calcular la máxima Presión Anular Permisible MAASP correcta o la
+Tolerancia al Influjo.
+
+Pérdidas de Presión en el Espacio Anular – Flujo Laminar:
+
+Si la tasa de bombeo (gasto) está por debajo del Número Reynolds crítico en el espacio anular el cálculo de
+pérdida de presión en psi/1000 ft. es:
+
+Pérdidas de Presión en el Espacio Anular – Flujo Turbulento:
+Si el gasto de flujo está por arriba del número Reynolds crítico, el cálculo de pérdida de presión del espacio anular
+en psi/1000 ft. será:
+
+Densidad Equivalente de Circulación (DEC):
+DEC es la suma de pérdidas de presión en el espacio anular dividida (profundidad x factor). En unidades de campo se
+expresa como:
+
+Densidad Equivalente de Circulación (E.C.D)
+• Si una mayor presión en el fondo del hoyo existiese generada por una mayor densidad del fluido, podría
+producirse un retraso considerable en la velocidad o tasa de penetración (ROP).
+• Esto significa, qué si existe una condición dinámica, existirá una mayor presión en el fondo ejercida por una
+densidad dinámica del fluido de perforación, de allí el concepto de E.C.D (Equivalent Circulation Density).
+• Se conoce como E.C.D, a la densidad existente dentro del hoyo cuando se realiza la actividad de circulación de
+un fluido y referida al fondo la densidad que se ejerce en contra de la formación que se esta atravesando.
+
+Factores que afectan la DEC:
+•
+•
+•
+•
+•
+
+Densidad del lodo.
+Pérdidas de presión en el espacio anular
+Geometría del agujero, viscosidad efectiva, temperatura, presión, gasto o tasa de bombeo,
+Velocidad de penetración y tamaños de los recortes,
+Eficiencia de la limpieza del agujero
+
+Pérdida de presión dentro de la tubería:
+
+Suponiendo flujo turbulento dentro de la sarta de perforación o el número Reynolds > 2100.
+
+Pérdida de fricción en la Barrena:
+
+1. Surge Pressure
+Estas presiones ocurren cuando se mueve la sarta de perforación hacia abajo en el pozo. Este movimiento desplaza el fluido
+de perforación, generando un incremento temporal en la presión hidráulica del pozo.
+• Efectos principales:
+• Aumento de la presión en el fondo del pozo (BHP, Bottom Hole Pressure).
+• Posible fractura de la formación si la presión excede el límite de fractura.
+• Riesgo de pérdidas de circulación si el fluido se filtra a la formación.
+• Factores que afectan la presión de oleaje:
+• Velocidad de descenso de la sarta.
+• Densidad y viscosidad del fluido de perforación.
+• Espacio anular (diferencia de diámetros entre la sarta y el pozo).
+• Longitud de la sección abierta o sin revestir del pozo.
+
+2. Presiones de Suaveo (Swab Pressure)
+Estas presiones ocurren cuando se mueve la sarta de perforación hacia arriba en el pozo. Este movimiento crea un efecto
+de succión que reduce la presión en el fondo del pozo.
+•Efectos principales:
+• Disminución de la presión en el fondo del pozo (BHP).
+• Riesgo de entrada de fluidos de formación si la presión cae por debajo de la presión de poro.
+• Posibilidad de generar un kick (flujo de fluidos no deseado hacia el pozo).
+•Factores que afectan la presión de suaveo:
+• Velocidad de ascenso de la sarta.
+• Propiedades del fluido de perforación.
+• Diámetro anular.
+• Condiciones de la formación.
+
+Ejercicio: Determinar la presión de surge pressure para tubería
+taponada
+
+Las bombas de lodo hacen circular el lodo bajo presión durante la operación de perforación. Las bombas de lodo
+son bombas de pistón y a menudo se las llama bombas de “desplazamiento positivo” o “reciprocantes”. Tienen
+dos o tres pistones (swabs) que se mueven hacia adelante y hacia atrás dentro de cilindros (liners).
+
+Un ciclo completo de avance y retroceso se llama una carrera (Estroques -stk) y es igual a la rotación del
+cigüeñal, por lo que 1 stk/min = 1 RPM.
+Las bombas de dos pistones se denominan bombas dúplex y las bombas de tres pistones son bombas triplex. Las
+bombas triplex son las más utilizadas hoy en día.
+La salida de la bomba de lodo se puede calcular o se enumera en tablas y tiene unidades de bbl/stk o gal/stk. La
+tasa de circulación real, también llamada salida de la bomba tiene unidades de bbl/min o gal/min.
+La tasa de circulación real se determina multiplicando la salida de la bomba (bbl/stk) por la velocidad de la
+bomba (stk/min) y una eficiencia volumétrica. Esta eficiencia se expresa a menudo como un porcentaje y puede
+variar entre el 85 y el 100 %.
+Las bombas de lodo modernas utilizan bombas centrífugas de carga para mantener una presión positiva en la
+succión de la bomba de lodo para lograr una mejor eficiencia.
+
+BOMBAS DE LODO TRIPLEX:
+Los pistones de una bomba de lodo triplex funcionan solo en la carrera de avance y, por lo general, tienen
+carreras cortas (en el rango de 6 a 12 pulgadas) y funcionan a velocidades en el rango de 60 a 120 emboladas
+por minuto.
+
+Si el diámetro interior del revestimiento y la longitud de la carrera están en pulgadas, entonces el caudal de la bomba
+para una bomba de lodo triplex en bbl/stk es:
+
+BOMBAS DE LODO DÚPLEX:
+Los pistones de una bomba de lodo dúplex funcionan en ambas direcciones, de modo que el cilindro trasero
+tiene la varilla de la bomba moviéndose a través de su volumen barrido y ocupando algo de volumen. La
+diferencia en los cálculos para una bomba dúplex y una triplex es que el volumen de desplazamiento de
+esta varilla de la bomba debe restarse del volumen en unode los cilindros, más la diferencia en la cantidad
+de cilindros de bombeo, 4 para una dúplex y 3 para una triplex. Las bombas dúplex generalmente tienen
+carreras más largas (en el rango de 10 a 18 pulgadas) y funcionan a una velocidad menor, en el rango de 40
+a 80 emboladas por minuto.
+
+Descarga de la bomba de perforación
+Prueba de flujo de bombas de perforación
+
+Ecuación general para calcular el caudal de bomba tríplex:
+
+Eficiencia de la bomba de perforación:
+
+Cabezales de Pozo y Árboles de Navidad
+¿Qué es un Cabezal de Pozo ?
+El cabezal de pozo es la base en la superficie sobre la cual se construye el pozo durante las operaciones de
+perforación.
+
+Cabezales de Pozos – Pozo terminado
+
+Cabezales de
+Pozos – Pozo
+Completado
+
+Los sistemas de cabezal de pozo deben diseñarse para:
+
+¿Qué hace un Cabezal de Pozo?
+
+Normas para Cabezales: API 6A
+
+· Incluye equipo de Cabezales de Pozos y árboles de navidad
+· Principalmente la manufactura y especificaciones
+· Realmente no cubre sus aplicaciones o la instalación.
+· Materiales.
+· Para condiciones Estándar y para H2S (norma NACE).
+· Especificación de Temperatura y Presión Nominales
+· Accesorios roscados Vs. bridados / esparragados /con grapa de acople
+· Requisitos de soldadura sobre los equipos cabezales de pozos
+
+¿Cuáles son los componentes principales?
+
+Tipos de Cabezales de Pozo
+
+1. Sistema convencional en carretel
+2. Sistemas de carreteles compactos
+3. Sistema de suspensión en lecho marino
+4. Cabezal Submarino del Pozo
+
+Sistema en carretel convencional
+
+Cabezal de Pozo Compacto
+
+• El conjunto de preventoras se puede
+dejar en su lugar hasta la instalación
+de los árboles de navidad.
+• Ahorra tiempo de equipo.
+• Reducción de conexiones bridadas.
+
+Cubierta del Cabezal del Revestidor
+Cubierta del Cabezal del Revestidor - Funciones
+
+• Normalmente está conectado al revestidor de
+superficie.
+• Soporta la siguiente sarta de revestimiento.
+• Conectada o adaptada al equipo de control de
+pozo.
+• Sella el agujero (de la atmósfera)
+• Controla acceso al agujero:
+• para control de presión o retornos de fluido
+durante operaciones de perforación.
+
+Cabezal del Revestidor - Conexión Inferior
+
+Conexión inferior de acople enchufado para soldar
+
+Cabezal del Revestidor – Tipo de Salidas
+
+Cabezal del Revestidor – Placa Base
+
+Cabezal del Revestidor – Placa Base
+• Puede ser :
+• fundida o forjada de manera integral con el cabezal del revestidor
+• o fabricada y unida al cabezal del revestidor con platinas verticales soldadas.
+
+Cabezal del Revestidor – Identificación
+Especificación del API 6A
+
+Cada cabezal de revestidor se
+identifica por:
+1. tamaño nominal (brida superior nominal)
+2. presión nominal (presión de trabajo)
+
+Al ordenar un Cabezal se debe especificar:
+
+A. Modelo
+
+D. Salidas Laterales
+
+B. Conexión inferior
+1. Rosca macho, rosca hembra, acople enchufado
+para soldar o acople enchufado para soldar con
+sello interno
+2. Tamaño de revestidor
+
+1. Roscadas, esparragadas, bridadas o grapa de acople
+2. Tamaño
+3. Presión de trabajo
+
+C. Conexión superior
+1. Brida o grapa de acople
+2. Tamaño de brida/grapa de acople
+3. Presión de trabajo de brida/grapa de acople
+
+E. Opciones
+1. Con o sin tornillos de seguro
+2. Con o sin placa base de refuerzo
+Disponible para cumplir con todos los requisitos aplicables de API-6A.
+
+Cabezal de Revestidor tipo Carrete
+• Sella (empaca) sarta del revestidor superficial
+• Ofrece soporte (tazón de asentamiento) para
+la siguiente sarta de revestimiento
+• Ofrece soporte para el montaje del equipo de
+control de pozo (arreglo de preventoras )
+• Sella el agujero (de la atmósfera)
+• Controla acceso al agujero:
+• para control de presión
+• o retornos de fluido durante operaciones de
+perforación.
+
+Cabezal de Revestidor tipo Carrete
+
+Cabezal de Revestidor tipo Carrete
+
+Cabezal tipo Carrete – Espec. API 6A
+
+Se identifica mediante su :
+• tamaño nominal (bridas superior e inferior nominales)
+• presión nominal (presión de trabajo superior e inferior)
+
+Al ordenar un Cabezal de Revestidor tipo Carrete:
+
+Especifique lo siguiente :
+A. Modelo
+
+B. Conexión Inferior
+1. Brida o grapa de acople
+2. Tamaño de brida/grapa de acople
+3. Presión de trabajo de brida/grapa de acople
+C. Conexión Superior
+1. Brida o grapa de acople
+2. Tamaño de brida/grapa de acople
+3. Presión de trabajo de brida/grapa de acople
+
+D. Salidas Laterales
+1. Roscadas, esparragadas, bridadas o con acople de
+grapa
+2. Tamaño
+3. Presión de trabajo
+E. Opciones
+1. Con o sin tornillos de retención
+Disponible para cumplir con todos los requisitos adecuados según el API6A.
+
+Colgador del revestidor
+
+• Suspende las sartas de revestimiento
+intermedio o de producción
+• Centra la sarta del revestidor en la Cubierta del
+Cabezal o en el Carretel.
+• Sella el espacio anular del revestidor.
+
+Dos tipos principales de colgadores
+del revestidor :
+• Colgador tipo cuña (cuñas envolventes
+alrededor del revestidor).
+• Colgador tipo mandril.
+
+Colgador tipo cuña
+Cuñas envolventes alrededor del revestidor sin capacidad de sello
+anular
+
+Cuñas envolventes alrededor del revestidor con capacidad de sello
+anular
+
+Colgador tipo cuña
+Cuñas envolventes alrededor del revestidor con
+capacidad de sello anular
+
+Cuñas envolventes alrededor del revestidor con capacidad
+de sello anular
+
+Colgador tipo cuña
+Cuñas envolventes alrededor del revestidor con capacidad de sello anular
+
+Colgador tipo mandril
+
+Instalación de colgadores del revestidor
+
+• Precaución : asegúrese de que no hay voladuras dentro del cabezal
+• Después de cementar el revestidor, lave la cavidad del cabezal
+• Levante la preventora, destrabe y coloque las cuñas siguiendo los
+procedimientos del fabricante
+• Cuelgue el revestidor siguiendo los procedimientos especificados
+• Corte el revestidor unas 20" por encima de la cara de la brida superior
+del cabezal.
+• Retire preventora o asegúrela en el
+puente bajo la estructura
+• Corte la parte sobrante a la altura adecuada y pula el bisel o chaflan
+
+Instalación de colgadores del revestidor
+
+INSTALACIÓN DEL COLGADOR DE CUÑA Y SELLO
+1. Asegúrese que no hay acoples dentro del Cabezal del Revestidor, cemente el revestidor de manera convencional. Abra las
+válvulas de salida lateral del cabezal y lave a chorro el cabezal, el tubo conductor y el conjunto de preventoras con agua.
+Cierre las válvulas de salida.
+2. Levante el arreglo de preventoras, el tubo conductor y la brida de retención. Destrabe las cuñas, colóquelas alrededor del
+revestidor y cuelgue el revestidor siguiendo el procedimiento especificado.
+3. Corte el revestidor. Localice el corte aproximadamente 20" arriba de la brida del cabezal y retire la junta del revestidor
+cortada.
+Levante y retire el arreglo de preventoras, tubo conductor y brida de retención.
+4. Corte de manera exacta el tramo de 20” dejado sobre la brida a una altura de 4.75" por arriba de la cara de bridas de la
+cubierta. Bisele el diámetro externo y retire toda rebaba del revestidor en el área sobre la cual debe pasar el sello de cruce.
+
+Al ordenar un colgador de revestidor:
+
+Especifique lo siguiente:
+A. Modelo
+B. Tipo de Cabezal
+C. Tamaño de brida o acople de grapa
+superior
+D. Tamaño del revestidor
+E. Peso del revestidor
+F. Grado del revestidor
+
+Sellos y Empaques de Aislamiento
+
+Aislamiento del Espacio Anular
+
+Sellos de Aislamiento
+
+Empaque
+
+Empaque - Ejemplos
+
+Cabezal de Tubería tipo Carrete
+• Sella (empaca) sarta de revestimiento de producción
+• Ofrece apoyo y retención para el colgador de tubería
+• Ofrece apoyo para el montaje del arreglo de preventoras
+Especificación típica de presión de trabajo: 10,000psi
+
+Cubierta del Cabezal del Revestidor - Descripción
+
+Cabezal de Tubería - Identificación según el API 6A
+
+Se Identifica por:
+• tamaño nominal (pasaje nominal de las bridas
+superior e inferior)
+• presión nominal (presión de trabajo superior e
+inferior)
+
+Al ordenar un Carrete de Tubería:
+
+Especifique lo siguiente :
+A. Modelo
+B. Conexión Inferior
+1. Brida, esparragado, o de acople de grapa
+2. Tamaño de brida/de acople de grapa
+3. Presión de trabajo de brida/ de acople de grapa
+C. Conexión Superior
+1. Brida/ de acople de grapa
+2. Tamaño de brida/ de acople de grapa
+3. Presión de trabajo de brida/de acople de grapa
+
+Especifique lo siguiente :
+D. Salidas laterales
+• Roscadas, esparragadas, bridadas o de grapa de
+acople
+• Tamaño
+• Presión de trabajo
+E. Servicio
+• Regular o H2S
+Disponible para cumplir con todos los requisitos
+pertinentes según el API-6A
+
+Colgadores de Tubería
+• Suspende la tubería de producción / inyecc.
+• Sella el espacio anular entre la tubería y el
+revestimiento
+• Ofrece un asiento para una válvula de contrapresión
+(VCP) que se puede instalar temporalmente en el
+colgador permitiendo el retiro del arreglo de
+preventoras con presión en el pozo
+• Ofrece un apoyo para el montaje del árbol de navidad
+Colgador de tubería tipo tapón con orificio
+de comunicación
+
+Ejemplo : Colgador FMC para tubería simple
+
+Ejemplo : Colgador VETCO para tubería simple
+
+Ejemplo : Colgador Dual Vetco
+
+Colgadores de Tubería
+
+Sellado de Presión en Bridas
+
+Dos tipos de bridas API
+BRIDA TIPO 6B
+
+Para nivel de presión : 2000, 3000 y 5000 psi con tamaño nominal de hasta 11"
+
+BRIDA TIPO 6BX
+
+Para nivel de presión : 2000 a 20,000 psi con tamaño nominal de 11 3/16 " a 26 3/4 "
+
+Sellado con Anillos Metálicos
+
+Sellado con Anillos Metálicos
+
+Cabezales de Pozos Compactos
+
+• El arreglo de preventoras se puede
+dejar en su lugar hasta la instalación
+del árbol de navidad
+• Se ahorra tiempo de equipo
+• reducción de conexiones bridadas
+
+Árbol de
+Navidad
+
+Tapón para prueba de preventoras
+
+Protector de desgaste
+
+PROCEDIMIENTO DE INSTALACIÓN
+• Correr y colocar el tazón sobre la
+cavidad superior del cabezal
+utilizando herramienta de
+combinación
+• Asegurar el tazón en su sitio
+apretando contra él los tornillos de
+sujeción
+• Dar rotación derecha para soltarse
+de ranuras en 'j‘, dejar el tazón
+colocado dentro del cabezal y retirar
+el tramo de DP con la herramienta de
+combinación
+
+Válvulas
+
+• La mayoría de las válvulas en los cabezales
+de pozos son del tipo compuerta
+• Las válvulas de compuerta ofrecen el
+control primario de abierto/cerrado del
+cabezal de pozo
+• Son los accesorios más notorios en los
+árboles de navidad
+
+Especificación de Válvulas de Compuerta
+Cada válvula de compuerta está fabricada de conformidad con las especificaciones API 6A y,
+cuando corresponde, con las de NACE MR-01-75
+Se requieren seis especificaciones al ordenar una válvula de compuerta:
+1. tamaño nominal de orificio central o pasaje en la compuerta
+2. presión de trabajo
+3. clase de material
+4. clase de temperatura
+5. nivel de especificación de producto
+6. requisitos especiales de prueba o de materiales
+
+Estranguladores de flujo
+¿Qué es un estrangulador de flujo?
+Un estrangulador de flujo es un dispositivo mecánico que produce una
+restricción en una línea de flujo, ocasionando ya sea una caída de
+presión o una reducción en la velocidad del flujo.
+
+¿Para qué se necesitan los estranguladores de flujo?
+• Para controlar el régimen de flujo
+• Para controlar la presión del flujo a través de un conductor
+• Para operaciones de limpieza con chorro
+• Para imponer contrapresiones durante la circulación del pozo
+• Para eliminar daños
+• Para controlar el régimen de inyección de fluidos
+
+Estrangulador de flujo positivo
+
+Estrangulador de flujo ajustable
+
+Para probar el cabezal de pozo
+Después de ajustar una sección de cabezal de pozo, se debe confirmar la competencia de la unidad para mantener
+las presiones de diseño.
+El diseño de un cabezal de pozo permite probar la unidad mediante puertos de prueba construídos en su cuerpo.
+
+Cabezal de Pozo y Control del Pozo
+El cabezal de pozo, la preventora de reventones, el árbol de navidad, son métodos secundarios para Control
+del Pozo después de la hidrostática de la columna de fluido en el pozo que constituye su control primario.
+Por tanto, el diseño, ajuste y aplicación del cabezal de pozo debe garantizar que la especificación de presión de cada
+componente puede contener las presiones máximas esperadas que se experimentarán durante la
+vida del pozo.
+
+El Sistema de Potencia
+
+El Sistema de Potencia
+Se subdivide en dos partes:
+1. Generación de Potencia
+2. Transmisión de Potencia
+• Transmisión Eléctrica
+• Transmisión Mecánica
+
+Generación de Potencia
+La forma más común es el uso de Motores de Combustión Interna.
+Estos motores son normalmente alimentados por combustible Diesel
+Su número depende del tamaño del equipo al que van a suminstrar la potencia
+Muchos equipos modernos tienen 8 Motores de Combusitón Interna ó más.
+
+El Sistema de Potencia
+Transmisión Eléctrica
+
+•La mayoría de los equipos en la actualidad utilizan esta forma de transmisión de potencia
+•Los Generadores producen la electricidad que se transmite a los Motores Eléctricos a través de cables de conducción
+eléctrica
+
+El Sistema de Potencia
+Transmisión Mecánica
+No es muy utilizada hoy día aunque todavía se emplea en algunos equipos viejos
+Consiste de una serie de correas, cadenas, poleas, piñones dentados y engranajes
+Se denomina también Sistema de Transmisión Compuesta
+
+Componentes del Taladro
+
+Generadores (Engine Generators Sets)
+La energía para el taladro es producida por motores que trabajan con diesel, gas ó
+gasolina, asi cómo con un sistema mecánico de transmisión y generadores.
+La mayoría de los taladros actuales usan generadores eléctricos que dan potencia a
+motores eléctricos en otras partes del equipo
+
+Componentes del Taladro
+
+Tanques de Combustible (Fuel Tanks)
+
+Tanques para el almacenamiento del combustible para el
+sistema de generación de poder.
+
+Componentes del Taladro
+Electric House
+En taladros eléctricos de diesel, motores diesel de alta potencia alimentan generadores
+eléctricos.
+Estos generadores producen electricidad que fluye a través de cables a paneles de
+control de donde se proveen los equipos.
+
+Componentes del Taladro
+
+Bandeja de Cableado (Electric Cable Tray)
+Soporta el peso de los cables eléctricos que alimentan el poder
+desde el panel de control a los motores del taladro y el equipo
+adicional
+
+Control de Presiones
+• Se produce por la entrada en el pozo de fluidos de formación, gases e hidrocarburos que pueden combustir al
+llegar a superficie, produciendo un reventón (kick)
+• Es uno de los problemas de mayor incidencia en la operación y puede ocasionar la pérdida de vidas y equipo, de
+no tener control adecuado
+• Su primer control es la densidad del lodo,
+
+Operaciones no Convencionales
+Control de Presiones
+• Las causas comunes de los reventones
+son:
+– Deficiencia en el llenado del pozo durante
+viajes
+– Densidad inapropiada del lodo
+
+– Pérdida de Circulación
+
+• La mayoría de los reventones ocurren
+durante los viajes
+
+Sistema para control del Pozo y Prevención de Reventones
+
+Un reventón es un flujo incontrolado de fluidos de la formación a la superficie
+Comienza con un “brote” o “cabeceo” que es un flujo imprevisto de fluidos
+de la formación adentro del pozo el cual, si no se maneja arpopiadamente
+se convierte en un Reventón
+El Sistema para control del Pozo tiene 3 funciones:
+1. Cerrar el pozo en caso de un Influjo imprevisto
+2. Colocar suficiente contra-presión sobre la formación
+3. Recuperar el Control Primario del Pozo
+
+Operaciones no Convencionales
+Control de Presiones
+
+• Con la densidad del lodo se puede evitar que fluyan los
+hidrocarburos dentro del pozo ó si sucede, su incremento
+permitirá controlar el flujo para continuar la operación.
+
+• Las válvulas preventoras permiten que el flujo sea controlado
+al llegar a superficie y no afecte ni a las personas ni al equipo.
+
+Sistema para control del Pozo y Prevención de Reventones – Componentes
+
+Sistema de control BOP
+El sistema de control BOP garantiza operaciones seguras
+enla perforación, brindando control hidráulico para
+conjuntos de válvulas de estrangulamiento y BOP para
+evitar incidentes de reventones durante la perforación y el
+mantenimiento del pozo.
+
+Componentes del Taladro
+
+Choke Manifold
+
+El arreglo de tuberías y válvulas especiales, llamadas chokes a
+través del cual se circula el fluido de perforación cuando se
+cierran las preventoras para controlar presiones encontradas en
+la formación durante un reventón.
+
+Componentes del Taladro
+
+Acumulador (Accumulator)
+Es el aparato de almacenamiento para fluido hidraúlico a presión que
+es usado en la operación de las válvulas preventoras.
+
+ACUMULADOR
+
+Proveen una manera rápida y confiable para cerrar las
+preventoras cuando ocurre un amago de reventón, utiliza
+un fluido de control de aceite hidráulico o una mezcla de
+productos químicos y agua guardados en botellas de
+acumuladores, allí se guarda suficiente fluido para usar
+bajo presión para que todos los componentes de la
+columna puedan funcionar con presión
+
+Componentes del Taladro
+
+Preventora Anular (Blowout Preventer)
+
+Es una válvula de gran tamaño, instalada sobre la cabeza del
+pozo y sobre las preventoras de ariete, que forma un sello en el
+espacio anular entre la tubería y la pared del pozo ó en caso de
+no haber tubería presente, sella el pozo.
+
+Preventor de reventones (BOP) - Blowout Preventers
+
+Garantizar la seguridad durante las operaciones de
+perforación es fundamental en la exploración de
+petróleo y gas. El preventor de reventones (BOP) es el
+componente principal del sistema de control del pozo y
+funciona como la última línea de defensa contra
+presiones anormales en el fondo del pozo y posibles
+reventones. Este dispositivo crítico no solo brinda
+protección esencial durante las perforaciones de rutina,
+sino que también reacciona rápidamente en caso de
+emergencia, sellando la boca del pozo para evitar la
+liberación incontrolada de gases a alta presión, petróleo
+u otras sustancias peligrosas, lo que protege tanto al
+personal como al equipo.
+
+PREVENTORAS, BOP’ s
+Son un juego de válvulas de gran tamaño, las BOP se utilizan para
+controlar las presiones altas, su propósito es el de cerrar el pozo, estas
+operan de manera rápida evitando así cualquier reventón del pozo que
+ocasione daños tanto a la estructura como al personal en campo. Estas
+válvulas se pueden armar con diferentes configuraciones según el
+código de la API
+
+A preventora tipo anular.
+G cabezal giratorio.
+R preventora simple, con un solo juego de arietes, ciego o de tubería.
+Rd preventora doble, con doble juego de arietes.
+Rt preventora triple, con tres juegos de ariete.
+CH conector a control remoto que conecta el cabezal o las preventoras unos con otros.
+CL conector de baja presión a control remoto.
+S carretel con conexiones de salida laterales para las líneas del estrangulador y control.
+Los componentes de la columna de BOP’s se indican leyendo de abajo hacia arriba por ejemplo RSRRA.
+
+Cada tipo tiene características estructurales y funcionales únicas y, por lo general, se utiliza en combinación dentro de un
+conjunto de preventores de reventones para garantizar un control integral del pozo.
+
+Los BOP con arietes utilizan arietes planos como
+elemento de sellado y se pueden seleccionar diferentes
+tipos de arietes según las necesidades operativas. Las
+funciones principales de los BOP con arietes incluyen
+sellar el espacio anular de la boca del pozo, sellar
+completamente la boca del pozo, cortar las
+herramientas de perforación dentro del pozo,
+suspender la sarta de perforación, estrangular la salida
+lateral, aliviar la presión y cerrar el pozo a largo plazo.
+Los BOP con arietes ofrecen una flexibilidad
+significativa para gestionar condiciones complejas en
+el fondo del pozo.
+
+Los BOP rotativos utilizan elementos de sellado rotativos
+(que generalmente incluyen cojinetes y sellos) para
+mantener el sellado del cabezal del pozo mientras la
+columna de perforación está girando. Estos BOP permiten
+la rotación y el desplazamiento presurizados, lo que
+proporciona una protección de sellado continua en
+condiciones de perforación dinámicas. Los BOP rotativos
+son particularmente importantes en operaciones de
+perforación especializadas, como la perforación
+presurizada y las operaciones de tubería flexible.
+
+Elegir el preventor de reventones adecuado es crucial
+para garantizar operaciones de perforación seguras. El
+proceso de selección debe tener en cuenta factores como
+la profundidad del pozo, la presión esperada, el tamaño
+del cabezal del pozo, las especificaciones de la
+herramienta de perforación, las condiciones ambientales y
+los requisitos reglamentarios. La profundidad y la presión
+del pozo determinan la presión nominal requerida del
+preventor de reventones, mientras que el tamaño del
+cabezal del pozo y las especificaciones de la herramienta
+de perforación influyen en la selección del tamaño del
+preventor de reventones y la configuración del ariete.
+Además, se deben tener en cuenta factores ambientales
+como el rango de temperatura y los medios
+potencialmente corrosivos al seleccionar los materiales y
+diseños adecuados.
+
+Los preventores de reventones desempeñan un papel irreemplazable en el sistema de control de pozos,
+garantizando la seguridad de las operaciones de perforación. Si comprendemos a fondo las clasificaciones,
+funciones y principios de selección de los preventores de reventones anulares y de ariete, podremos abordar
+mejor los desafíos que surgen durante la perforación. Sin embargo, seleccionar el preventor de reventones
+correcto no es suficiente; también es necesario un funcionamiento adecuado, un mantenimiento regular y una
+capacitación integral para aprovechar al máximo las capacidades del preventor de reventones. En el entorno de
+perforación cada vez más complejo, la atención continua a la tecnología de preventores de reventones y la
+optimización de su aplicación brindarán sólidas garantías para la seguridad y la eficiencia de las operaciones
+de perforación.
+
+Lave Hidráulica torque tubing
+
+Tubing Connections
+
+Corrida de Revestimiento
+• La herramienta de corrida de revestimiento es especializada y Weatherford cuenta con toda la línea de herramientas y
+soporte técnico para este servicio, así como los componentes requeridos en la sarta para una cementación exitosa.
+
+Corrida de Revestimiento
+Una vez determinada la calidad del pozo, se decide si se corre revestimiento y se cementa este
+
+• La corrida de revestimiento se hace luego de bajar broca, circular el pozo y acondicionarlo.
+• Por lo general se varian las propiedades del lodo para permitir que el revestimiento llegue a fondo sin generar presiones que
+puedan alterar
+
+Cementación
+• Una vez el revestimiento esté en fondo, se procede a circular el pozo para retirar los cortes y homogenizar el lodo para el
+trabajo de cementación.
+• Existen diferentes clases de cemento, de acuerdo con la profundidad del pozo y la temperatura; el más utilizado es Clase G
+que permite trabajar en un rango amplio de condiciones de pozo.
+• Las propiedades de la lechada a tener en cuenta para su diseño y asegurar un buen trabajo son:
+• Densidad
+• Viscosidad
+• Pérdida de Filtrado
+• Resistencia a la Compresión
+• Tiempo de Frague
+Se utilizan aditivos para obtener las propiedades requeridas:
+Aceleradores
+Anti-espumantes
+Dispersantes
+Reductores de Filtrado
+Retardadores
+Densificantes
+
+Cementación
+
+Cementación - Accesorios
+
+Cementación - Accesorios
+
+Cementación - Accesorios
+• Collar Flotador
+Para reducir la contaminación al rededor de la zapata,
+Se instala de 1 a 3 tramos arriba de la zapata.
+
+Accesorios para cementar el revestimiento
+Tapones de cementación
+
+Accesorios para cementar el revestimiento
+
+Cementación - Accesorios
+
+Para asegurar distribución uniforme del cemento al rededor del
+revestimiento.
+Para obtener completo sello entre la sarta de Revestimiento y la
+formación.
+
+Cementación - Accesorios
+
+Estos raspadores, que pueden consistir de láminas en formas de tiras largas donde van incrustadas los alambres o
+de anillos cuyos alambres sobresalen circunferencialmente, raspan la pared del hoyo con el fin de desprender el
+exceso de revoque que la cubre para facilitar que el cemento cubra directamente las formaciones.
+
+Para remover el revoque depositado sobre la pared del agujero
+
+Cementación - Accesorios
+
+LIMPIADORES
+Los limpiadores de pozo, actúan como rascadores para mejorar la ligadura del cemento a la formación removiendo la
+capa de barro filtrado.
+Generalmente son construidos a partir de un collar conteniendo vueltas de cable, como los rascadores reciprocantes,
+aunque los limpiadores derechos (de tipo rotativo) también se encuentran disponibles.
+La acción limpiadora se produce durante el entubado del pozo y el reciprocado del tubo cuando se encuentra en el
+fondo.
+
+Cementación - Accesorios
+
+Accesorios para cementar el revestimiento
+
+• Equipo de Superficie
+• Cabeza de cementación convencional
+
+Cálculo de volúmenes en la cementación
+
+Cementación – Two Plug Method
+
+Cementación – Two Plug Method
+
+Cementación – Two Plug Method
+
+Cementación – Two Plug Method
+
+Cementación – Two Plug Method
+
+Cementación – Two Plug Method
+
+Cementación – Two Plug Method
+
+Cementación – Two Plug Method
+
+Cementación
+La cementación de los pozos petroleros consiste en dos operaciones principales como lo son:
+
+La cementación primaria
+
+La cementación con fines de remediación
+
+Es el proceso de colocación de una lechada de
+cemento en el espacio anular existente entre la tubería
+
+Consiste en inyectar cementos en posiciones estratégicas de
+los pozos con fines de reparación de estos o de su abandono.
+
+de revestimiento y la formación.
+
+Cementación
+1. Antes de que el cemento llegue un tapón de goma conocido como el tapón de fondo o tapón
+naranja se suelta de la cabeza para cementación.
+
+2. Como las lechadas de cemento y los fluidos de perforación son químicamente
+incompatibles se debe mantener la separación de estos fluidos usando lavadores químicos
+(fluidos base agua).
+
+3. Al igual que fluidos espaciadores los cuales se bombean antes de la lechada de cemento,
+acondicionando así el hueco para que este tenga mejor agarre del cemento.
+
+4. Después de que el cemento ha sido bombeado este atraviesa la membrana del tapón naranja
+y se comienza a llenar el espacio anular, luego cuando el cemento va entrando en la tubería de
+revestimiento se suelta un tapón sólido conocido como tapón de tope o tapón negro.
+
+5. Finalmente se bombea un fluido de desplazamiento que permite que la mayor parte del
+cemento pase al espacio anular.
+
+Cementación
+Cálculo del volumen de cemento
+
+Cementación
+1) Cálculo del volumen total de lechada de cemento y número de sacos de cemento requeridos.
+
+Por lo general se usa cemento clase G, el cual presenta las siguientes características:
+
+
+Densidad= 15.8 #/gal
+
+
+
+Rendimiento = 1.15ft 3 /sx
+
+
+
+Agua requerida = 5 gal/sx
+
+Donde; ID= diámetro interno, OD= diámetro externo, RVTO= revestimiento, A= Rat hole, B= Vol. Anular entre hueco y
+el revestimiento de 7”, C= Vol. Anular entre el revestimiento de 9 5/8” y el de 7”.
+
+Cementación
+
+Cementación
+Para el cálculo de número de sacos de cemento (sx) requeridos y el agua total necesaria se usan las
+
+siguientes ecuaciones:
+
+2) Cálculo del volumen de desplazamiento (este va desde la superficie hasta el float collar, donde se asentará el tapón).
+
+Cementación
+3) Determinación de la salida de una bomba triplex, bbl/stk
+Donde: D. camisa= diámetro de la camisa (pulgadas), L. estroque= longitud del estroque (pulg), EF= eficiencia de la bomba.
+
+Cementación
+Clasificación API y ASTM de los cementos
+
+Casi todas las operaciones de cementación utilizan cemento portland, este consiste principalmente en compuestos de
+silicato de calcio y aluminato de calcio que se hidratan cuando se agregan al agua.
+
+El cemento Portland es el más importante e idóneo para las
+operaciones de cementación de pozos, algunos de estos son
+de fabricación especial debido a que las condiciones de los
+pozos difieren entre si al variar su profundidad, temperatura y
+presión.
+
+Cementación
+Clasificación API y ASTM de los cementos
+
+Las especificaciones de los cementos son establecidas por el American Petroleum Institute (API) y el American
+Society for Testing and Materials (ASTM), actualmente hay ocho clases de cementos Portland y son:
+
+ Clase A o tipo I: está diseñado para emplearse a 6000ft (1830 m) de profundidad como máximo, con
+temperatura de 77˚C y donde no se requieran propiedades especiales.
+
+ Clase B o tipo II: diseñado para ser usado desde la superficie hasta una profundidad de 6000ft (1830 m) de
+profundidad, con temperatura de 77˚C y donde se requiere moderada resistencia a los sulfatos.
+
+ Clase C o tipo III: diseñado para ser usado desde la superficie hasta una profundidad de 6000ft (1830 m) de
+profundidad, con temperatura de 77˚C y donde se requiere alta resistencia a la compresión temprana, se fabrica en
+moderada y alta resistencia a los sulfatos.
+
+Cementación
+Clasificación API y ASTM de los cementos
+
+ Clase D: este cemento se emplea desde los 6000ft (1830 m) hasta los 10000ft (3050 m) de profundidad, con
+temperatura de hasta 110˚C y presión moderada, se fabrica en moderada y alta resistencia a los sulfatos.
+
+ Clase E: este se usa desde los 10000ft (3050 m) hasta los 14000ft (4270 m) de profundidad, con temperatura
+de 143˚C y alta presión, se fabrica en moderada y alta resistencia a los sulfatos.
+
+ Clase F: este se usa desde los 10000ft (3050 m) hasta los 16000ft (4880 m) de profundidad, con temperatura
+
+de 160˚C y donde exista alta presión, se fabrica en moderada y alta resistencia a los sulfatos.
+
+ Clase G y H: se conocen como los cementos petroleros, son básicos para emplearse desde la superficie hasta
+los 8000ft (2440 m) tal como se fabrican, estos pueden modificarse con aceleradores y retardadores para
+usarlos en un amplio rango de condiciones de presión y temperatura.
+
+Evaluación de la calidad de la cementación
+Después de ejecutar una operación de cementación y de que el cemento ha fraguado, se efectúan unas pruebas para evaluar
+la integridad y el desempeño del cemento, confirmando así el éxito de su aplicación y su capacidad para satisfacer los
+objetivos.
+
+Las técnicas de evaluación del cemento incluyen
+
+PRUEBAS DE
+PRESIÓN
+
+1. Se realiza una prueba de presión de la tubería de revestimiento para verificar la integridad
+mecánica de la sarta.
+
+2. Se remueve el cemento residual del zapato de la tubería de revestimiento.
+
+3. Se lleva a cabo una prueba de integridad de presión mediante el incremento de la presión
+interna de la tubería de revestimiento hasta que excede la presión que será aplicada durante la
+
+fase de perforación siguiente.
+
+4. Al no detectar perdida alguna, el sello del cemento se considera exitoso.
+
+Evaluación de la calidad de la cementación
+Las técnicas de evaluación del cemento incluyen
+
+REGISTROS
+DE POZOS
+
+ Los registros de temperatura ayudan a localizar el tope de la columna de cemento en el espacio anular, la hidratación
+del cemento es un proceso exotérmico que eleva la temperatura del medio circundante.
+
+ Los registros sónicos y ultrasónicos proporcionan información de la calidad de adherencia del cemento a la tubería de
+revestimiento y a la formación.
+
+NOTA: Cuando las operaciones de adquisición de registros indican que la cementación es defectuosa, ya sea porque la adherencia del cemento
+es pobre o porque existe comunicación entre las zonas, puede implementarse una técnica de cementación con fines de remediación.
+
+Cementaciones correctivas o remediales
+La cementación correctiva se puede llevar a cabo por tapones de cementos bien sea balanceado o balanceado forzado,
+
+por circulación y por squeeze. Ubicar un tapón de cemento en un pozo es una operación que comúnmente es llevada a
+cabo en campo, esta implica usar un volumen de lechada de cemento en el pozo para llevar a cabo tareas como:
+
+Desviación o sidetrack por encima de un pescado o para iniciar perforación direccional.
+
+Aislar intervalos o zonas y abandonar algún pozo.
+
+Recañonear zonas o realizar cualquier remediación al pozo después de que este se ha
+
+terminado.
+Resolver problemas de perdida de circulación durante la perforación o reparar la tubería de
+
+revestimiento.
+
+Cementaciones correctivas o remediales
+SIDETRACK
+
+Es una desviación que se realiza después de
+realizar una pesca y que por algún motivo la
+herramienta queda pegada en fondo y no se
+puede recuperar.
+
+ABANDONO DE POZOS
+
+Consiste en colocar varios
+tapones de cemento (por lo
+general se colocan tres) a
+diferentes profundidades
+con el fin de evitar la
+comunicación entre zonas
+y la migración de fluidos
+que puedan contaminar las
+fuentes de agua dulce
+subterráneas.
+
+Cementaciones correctivas o remediales
+PERDIDA DE
+CIRCULACIÓN
+
+ABANDONO
+DE ZONAS
+Cuando las zonas productoras se agotan
+también suele colocarse un tapón de cemento
+para su abandono, evitando así la
+comunicación con otras zonas que se pueden
+poner a producir.
+
+La pérdida del fluido de perforación se puede
+detener mediante el uso de la lechada de
+cemento debidamente formulada a través de
+la zona ladrona, aunque esta mezcla pueda
+perderse en dicha zona, se endurecerá y
+permitirá la consolidación de la formación.
+
+Cementaciones correctivas o remediales
+Técnicas para corregir una cementación primaria
+TAPÓN DE CEMENTO
+BALANCEADO
+
+TAPÓN DE CEMENTO
+BALANCEADO FORZADO
+
+Este proceso consiste en forzar la
+lechada de cemento bajo presión a
+través de las zonas cañoneadas con
+el propósito de aislar o eliminar la
+producción
+de
+los
+fluidos
+indeseables o reparar los problemas
+de cementación primaria.
+
+Cementaciones correctivas o remediales
+Técnicas para corregir una cementación primaria
+CEMENTACIÓN
+POR CIRCULACIÓN
+Stinger: es una herramienta especialmente diseñada para vincular la tubería de
+trabajo con el cement retainer o retenedor de cemento, el stinger permite
+realizar inyecciones de cemento a presión por debajo del retenedor,
+asegurando la hermeticidad por medio de un sello de alto rendimiento.
+
+Cement retainer: es una herramienta de aislamiento que se coloca en la tubería de
+revestimiento y permite realizar tratamientos en un intervalo inferior y a la vez
+proporciona aislamiento respecto del espacio anular superior.
+
+Cementaciones correctivas o remediales
+Técnicas para corregir una cementación primaria
+
+CEMENTACIÓN
+FORZADA SQUEEZE
+
+Es un proceso de filtración donde la lechada de cemento es inyectada o
+forzada a través de los agujeros o túneles ocasionados por el cañoneo.
+
+El objetivo es formar un sello en el espacio anular entre los intervalos de la
+formación que se cañonearon, esto ocurre debido a que la lechada pierde parte
+del filtrado y se forma una retorta, la velocidad de formación de esta depende
+de la presión diferencial, tiempo y control de filtrado. La inyección se puede
+efectuar bajo o sobre la presión de fractura de la zona dependiendo del tipo de
+trabajo y caudal de inyección.
+
+El empaque RBP solo se baja si hay intervalos a proteger por debajo del que se va
+a cementar sino solo se baja el RFB.
+
+Pega de Tubería
+• Se denomina pega de tubería el evento
+en la operación en el cual no se puede
+rotar la tubería ó la sarta, ni mover
+hacia arriba ó hacia abajo
+• Su ocurrencia puede generar tiempo
+no productivo, costos, e inclusive la
+pérdida del pozo
+
+• Las causas comunes son:
+– Presión diferencial
+– Causas mecánicas:
+• Hueco chavetero
+• Formaciones inestables
+• Limpieza inadecuada del hueco
+• Chatarra en el hueco ó revestimiento
+colapsado
+• Cambios de Sarta
+
+Presión Diferencial
+• Se presenta pega por presión Diferencial cuando la
+presión Hidróstatica producida por el lodo es mayor que
+la presión de formación y hay formaciones Permeables
+presentes.
+
+• Su solución es la reducción de la presión, reduciendo la
+densidad del lodo y la remoción de la torta en la zona de
+contacto con aditivos especiales.
+
+(key seat)
+• Causado por cambios bruscos de dirección en formaciones
+blandas ó por cambios de ángulo.
+
+La rotación de la tubería de menor tamaño, en tensión,
+va produciendo una hendidura lateral al hueco original,
+en la zona de cambio de ángulo.
+
+Key seat
+
+• La tubería de mayor diámetro no pasará y es muy probable que
+haya necesidad de pescar.
+• Se evita viajando el pozo (short trip) con regularidad,
+
+Formaciones Inestables
+• Debido al origen de las cordilleras en el país, se presentan
+formaciones que Continúan moviendose, este movimiento es
+denominado Tectonismo.
+
+Se presentan derrumbes y pega de tubería por inestabilidad de la formación
+al ser perforada.
+• Se evita viajando el hoyo continuamente y controlando las propiedades del
+lodo.
+
+Limpieza inadecuada del pozo
+
+Durante la perforación, el lodo debe soportar los cortes perforados y,
+con la circulación, acarrearlos a superficie donde se descargan.
+
+Limpieza inadecuada del pozo
+• Si el soporte y acarreo no es adecuado, los cortes se acumulan
+
+sobre la broca y los estabilizadores, impidiendo el movimiento
+de la tubería y causando su pega.
+
+Chatarra en el hueco
+
+Se produce la pega de tubería por la caida de herrramientas ó
+el colapso del revestimiento que impiden el movimiento.
+
+Cambios de Sarta
+• Los cambios de sarta de perforación, generalmente producen
+cambios en la geometría del pozo que pueden causar la pega de
+la tubería.
+
+Cambios de Sarta
+• Al pasar de una sarta flexible a una sarta rígida, la geometría
+
+del pozo evitará que la nueva sarta pase comodamente producirá
+pega de la sarta en los puntos de mayor.
+
+Procedimiento de BACK-OFF
+Como recomendación dar ¾ (0.75) de vuelta a la izquierda por cada 1000 pies de profundidad, donde se quiera realizar el back off.
+
+Ejemplo: 9400 pies*0.75 = 7 vueltas a la izquierda
+
+Para aplicar las 7 vueltas a la izquierda se debe aplicar el peso de la sarta 15.000 lbs de tensión (hacia arriba), moviendo la tubería
+de arriba debajo de 15.000 a 20.000 lbs de tensión, para asegurarse que el torque llegue a su destino de punto de back off.
+
+Ejemplo: Peso de la sarta: 57.000 lbs + 15.000 lbs = 72.000 lbs
+
+57.000 lbs + 20.000 lbs = 77.000 lbs
+
+Mover la tubería de 72.000 a 77.000 lbs abajo–arriba y de 77.000 a 72.000 lbs de arriba-abajo, varias veces mientras se da 7
+vueltas a la izquierda.
+
+Mientras se gira las 7 vueltas a la izquierda debe existir torque, si se pierde torque es porque la sarta comenzó a desconectarse en
+algún sitio no deseable, por lo que será necesario dar vueltas a la derecha para apretar la tubería.
+
+Tipos de Pozos
+
+Tipos de Pozo -1
+• Pozo Exploratorio
+– Algunas veces se llama pozo “wild cat”, que prueba la tierra donde se sabe existen hidrocarburos para determinar si
+hay gas o aceite presente.
+• Pozo de Apreciación, de Evaluación (o de Avanzada)
+– Se perforan para determinar la extensión del campo o la cantidad de área que cubre.
+• Pozo de Desarrollo ó Productores
+– Se perforan en un campo ya existente para explotar el yacimiento (o producir hidrocarburos).
+
+Tipos de Pozo -2
+
+Pozos Multilaterales y Diseño Especial
+
+Propuesta del Pozo
+• Criterios Claves para el
+Diseño:
+– Tipo de Formación
+– Presiones de Poro de la
+Formación y Gradientes de
+
+Fractura
+– Profundidades
+– Tipo de Hidrocarburo
+– Peligros potenciales (Gas
+Superficial, H2S, CO2,
+etc.)
+
+Introducción a la Perforación Direccional
+La Perforación Direccional es definida como la práctica de controlar la dirección y la desviación del agujero
+del pozo hacia un objetivo subterráneo predeterminado.
+
+Aplicaciones de Perforación Direccional
+
+
+Pozos de Alivio
+
+Aplicaciones de Perforación Direccional
+
+
+Locaciones inaccesibles
+
+Aplicaciones de Perforacion Direccional
+
+
+Pozos múltiples desde una estructuras offshore
+
+Aplicaciones de Perforación Direccional
+
+
+
+Sidetrack
+
+Aplicaciones de Perforación Direccional
+
+
+Mejoramiento de la producción
+
+Aplicaciones de Perforación Direccional
+
+
+Linea de costa
+
+Aplicaciones de Perforación Direccional
+
+Cuando se encuentra un domo salino actuando como trampa natural de hidrocarburos acumulados debajo de la capa dura
+sobresaliente.
+Se utiliza un pozo direccional para alcanzar el reservorio atrapado y prevenir los problemas asociados con la perforación
+a través de la formación salina.
+
+Aplicaciones de Perforación Direccional
+
+
+Perforación Bajo Balance
+
+Aplicaciones de Perforación Direccional
+
+
+Pozos de alcance extendido
+
+– Reemplaza pozos submarinos y aprovecha reservas
+costa-fuera con menos plataformas (varios pozos de
+una sola plataforma).
+– Desarrollo de campos cerca de la orilla de la playa.
+
+– Reduce el impacto ambiental mediante el desarrollo
+de campos desde clusters. (Ej área de bosques).
+
+.
+
+Progreso en la Perforación Direccional
+
+1980’s
+S-Wells
+Relativamente
+Simple
+
+Actualidad
+Complejos
+Multilaterales
+Horizontales
+
+Progresos en la Perforación Direccional
+
+Finales 1970’s
+
+Finales 1980’s
+
+Actualidad
+
+Single Shot/
+Steering Tool
+LWD/MWD
+MWD
+Bent Sub
+
+Motor Recto
+
+Steerable
+Bent
+Housing
+Motor
+
+Performance Motors
+Near Bit Inc/Gamma
+Rotary Steerable
+
+Tipos de Pozos Direccionales
+
+
+Build and Hold (Slant)
+
+• “S” Type Well (Build and Drop)
+
+Tipos de Pozos Direccionales
+
+
+Deep Kick-Off and Build “J”
+
+• Horizontal Well (Single build)
+• Extended Reach Drilling (ERD)
+
+Tipos de Pozos Direccionales
+
+• Multilateral
+
+Tipos de Pozos Direccionales
+
+
+Pozos Horizontales
+ Short Radius/ Radio Corto
+
+ 2°-3°/Foot Build Rates
+ Equipo Especializado
+
+Short Radius
+
+ Flexible Collars - Tubing
+
+45'
+
+200'
+
+ Medium Radius/ Radio Medio
+
+ 10°-22°/100’ Build Rates
+ Double Bend Assemblies
+
+Medium Radius
+
+ Long Radius/ Radio Largo
+
+300'
+
+2,000'
+
+ 1.5°-6°/100’ Build Rates
+
+ Ensambles Navegables
+
+
+Long Radius
+
+Menor Radio = Menos Seccion Lateral
+1,400'
+
+4,000'
+
+Términos de Pozos Direccionales
+Punto de Inicio de Desviación (KOP)
+Es la ubicación a una profundidad específica bajo la superficie donde el pozo se desvía en una dirección determinada.
+Inclinación del Pozo
+Es el ángulo por el cual el pozo se desvía de la vertical.
+Fin de la Curva de Construcción (EOB)
+Es la ubicación donde el pozo ha terminado de aumentar su inclinación.
+
+Términos de Pozos Direccionales
+
+Ángulo de Mantenimiento
+Ocurre donde la inclinación del pozo se mantiene constante.
+
+Sección Tangente (Sección de Mantenimiento)
+Ocurre después de una curva de construcción, donde la inclinación del pozo se
+mantiene constante durante una cierta distancia. Puede haber una curva
+adicional de construcción o descenso antes de alcanzar el objetivo.
+
+Inicio de Descenso
+Es la ubicación donde el pozo comienza a reducir su inclinación.
+
+Términos de Pozos Direccionales
+
+•Fin de la Caída: Es el lugar donde el pozo deja de bajar su inclinación.
+•Desplazamiento del Objetivo: Es la distancia lateral desde la
+ubicación de superficie hasta el objetivo.
+•Ubicación del Objetivo: Es un punto definido en el espacio mediante
+coordenadas geográficas a una determinada profundidad vertical
+verdadera.
+
+Tasa de Caída (DOR, por sus siglas en inglés): Es la tasa a la
+cual disminuye la inclinación del pozo.
+❑ La tasa generalmente se expresa en grados por cada 100 pies
+o grados por cada 30 metros de longitud del trayecto.
+
+Términos de Pozos Direccionales
+Tasa de Aumento (BUR, por sus siglas en inglés): Es el cambio de inclinación de
+un pozo donde el ángulo aumenta.
+La tasa generalmente se expresa en grados por cada 100 pies o aumento angular por
+cada 30 metros de profundidad medida.
+
+•Tasa de Giro: Determina la tasa a la que un perfil de pozo gira en la dirección del
+azimut.
+Usualmente se expresa en grados por cada 100 pies o grados por cada 30 metros.
+•Profundidad Vertical Verdadera (TVD, por sus siglas en inglés): La
+profundidad vertical verdadera de cualquier punto o estación a lo largo de un pozo
+es la distancia vertical desde el punto de referencia de la superficie del pozo hasta la
+estación de interés.
+
+•Profundidad Medida (MD, por sus siglas en inglés): La profundidad medida de cualquier punto o estación a lo largo de un
+pozo es la distancia desde el punto de referencia de la superficie del pozo hasta la estación de interés a lo largo del trayecto real
+del pozo.
+•Desplazamiento Horizontal (HD, por sus siglas en inglés): Es la distancia entre dos puntos a lo largo de un pozo proyectada
+sobre un plano horizontal o vista en planta.
+
+Azimuth o Dirección
+
+Azimuth de un punto referido al Cuadrante
+
+Coordenadas Rectangulares
+
+Coordenadas Polares
+
+Dirección expresada como Azimuth (0º a 360º)
+y en forma del Cuadrante rectangular (N,S xxº E,W)
+
+Planificación de la Trayectoria Direccional
+
+Limitaciones de la Perforación Direccional
+
+• Doglegs (Máxima curvatura del pozo)
+– Establecido por el cliente, desempeño del motor, componentes del BHA
+• Torque Reactivo (rotación contraria al reloj de la sarta)
+– Dificultad para mantener/colocar el “tool face” con un ensamble direccionable
+• Drag “Arrastre” (Fricción entre el agujero y el BHA)
+– Aumenta con la profundidad y la inclinación del pozo
+• Hidráulica (Presión de Circulación)
+– Máxima presión operativa de perforación del equipo y taladro, ECD
+• Limpieza del Hoyo (Características del Fluido y Ambiente de Flujo)
+– Remoción de Recortes
+• Peso sobre la barrena “WOB”(Fuerza aplicada a la broca al perforar)
+– Regulación de la presión diferencial para una optima ROP y vida de la broca
+• Estabilidad del Agujero (habilidad fisica del hoyo para permanecer abierto)
+– Características físicas de la formación, fallas móviles
+
+Métodos para desviar un pozo
+
+• Operaciones con Whipstock
+
+– Todavía utilizados
+• Chorros a presión (Jetting)
+– Rara vez utilizado hoy en día, todavía válido y más económico.
+• Motores de fondo
+– Mayormente utilizado, rápido y más exacto
+• Sistemas Rotary Steerable “RSS”
+– Ultima tecnología, rápida, crea un perfil de hoyo más parejo
+
+Operaciones Whipstock
+
+Chorros a Presión (Jetting)
+
+Control direccional con ensamblajes rotatorios
+
+• Principios de diseño
+– Fuerza Lateral
+– Deflección de la barrena
+– Hidráulica
+– Combinación de ellos
+• Tipos de BHA de ensambles de rotación continua
+– Ensamblaje para construir.
+– Ensamblaje para caer.
+– Ensamblaje para mantener.
+
+Peso sobre la broca
+• Incrementando el Peso sobre la broca, incrementa la tendencia de desviación …. y vice-versa
+
+Principio de Estabilización
+
+• Los estabilizadores son colocados en puntos específicos para controlar la sarta de perforación y minimizar la
+desviación en el fondo.
+• Aumenta la rigidez del BHA al colocar estabilizadores y evita que la tubería se doble y ayuda a la broca a
+seguir perforando en línea recta.
+• Un BHA empacado se utiliza para mantener ángulo.
+
+Razones para el uso de estabilizadores
+• La posición y el calibre de los estabilizadores controlan la forma.
+• Los estabilizadores ayudan a concentrar peso sobre la broca.
+• Los estabilizadores minimizan doblamientos y vibraciones.
+• Los estabilizadores reducen el torque al perforar porque se tienen menos área de contacto.
+• Los estabilizadores ayudan a prevenir pegaduras por diferencial y “key seating”.
+
+Fuerzas Estabilizadoras
+
+Ensambles para construir
+
+Al colocar dos estabilizadores se incrementa el
+control de fuerza lateral y alivia otros problemas.
+"fulcrum" o fulcro se refiere a un punto de apoyo o pivote
+sobre el cual una herramienta o equipo realiza una acción de
+palanca. un punto estratégico que permite controlar y ajustar la
+trayectoria del pozo
+
+Ensambles para construir
+
+Ensambles para tumbar
+• Para aumentar la tasa de disminución/caer:
+– Incrementar longitud tangencial (distancia
+estabilizador-mecha).
+– Incrementar la rigidez.
+– Incrementar peso del drill collar.
+– Disminuir peso sobre la broca.
+– Incrementar la velocidad de la mesa rotaria.
+– Largo Tangente comunes:
+• 30 pies
+• 45 pies
+• 60 pies
+• 90 pies
+
+Ensambles para tumbar o caer
+
+Ensambles para mantener (Empacado)
+• Diseñado para minimizar fuerzas laterales y disminuir sensibilidad de cargas axiales.
+
+Ensambles Navegables
+
+Motores de Fondo
+
+Componentes de los Motores PDM
+
+• Ensamble Dump Sub
+• Sección de Potencia (Power Section).
+• Ensamble de transmision (Drive Assy).
+• Ensamble de ajuste (Adjustable Assly).
+• Sección Rodamientos (Bearing Assy)
+
+Ensamble Dump Sub
+
+• Es una válvula que se activa hidráulicamente localizada en la parte superior del motor de fondo.
+• Permite a la tubería de perforación llenarse de lodo cuando corre tubería en el pozo.
+• Drenarse cuando se saca tubería del pozo.
+• Cuando las bombas están operando, la válvula se cierra automáticamente y dirige el fluido de
+perforación a través del motor.
+• Esta válvula evita que al sacar tubería se derrame lodo en la mesa.
+
+Dump Sub
+• Permite el llenado y drenado de la tubería.
+• Operación
+- Bomba Apagada – Abierta.
+- Bomba Encendida – Cerrada.
+
+Rotor Catch
+– El mandril del catch esta conectado al rotor
+– El mandril se detendrá dentro del top sub
+– Con esto se asegura durante los viajes a superficie del
+BHA, que el motor de fondo permanecerá en una sola pieza
+– Si el rotor catch se activa, la presión del stand pipe se incrementara
+significativamente cuando se remueva el peso sobre la barrena.
+– Cuando se aplique peso a la barrena el incremento de presión disminuirá.
+
+Sección de Potencia (Power Section)
+• Convierte la energía hidráulica del fluido de perforación en energía mecánica para
+mover-girar la broca.
+– Estator – Es un tubo de acero que contiene un inserto de hule
+/eslastómero con un patrón lobular, helicoidal a lo largo del
+
+centro.
+
+– Rotor – Tubo de acero en forma lobular y helicoidal.
+• Cuando el fluido de perforación es forzado a pasar a través de las cavidades
+ocasionara que el rotor gire dentro del estator.
+
+Ensamble de Transmision/Drive
+• Convierte la rotación excéntrica del rotor en rotación concéntrica.
+
+Selección del motor
+Estas son las tres configuraciones de motores más comunes, las cuales proveen un rango amplio de
+velocidades de la broca y torque que se requieren para satisfacer una multitud de aplicaciones
+direccionales.
+
+Selección del motor
+• Alta Velocidad / Bajo Torque (1:2) motor típicamente utilizado:
+– Perforación con brocas de diamantes
+– Perforación con brocas tricónicas en formaciones suaves.
+– Perforación Direccional utilizando orientaciones con single shot.
+
+• Velocidad Media / Torque Medio (4:5) motor típicamente usado para:
+– Perforación Direccional y Convencional.
+– Brocas de Diamante y aplicaciones para núcleos.
+– Pozos Sidetrack (Desvios)
+
+• Baja Velocidad / Torque Alto (7:8) motor típicamente usado para:
+– La mayoría de los pozos direccionales y horizontales.
+– Perforación en formaciones de durezas medias a altas
+– Perforación con brocas PDC.
+
+Rotary Steerable System
+
+Rotary Steerable System
+El sistema rotatorio direccional (RSS) es un tipo de tecnología “inteligente” que brinda estabilidad y control en la
+trayectoria de un pozo. De manera general el sistema consta de dos partes (Chase & Hammad, 2010): una unidad de
+control, que es como el "cerebro" de la herramienta, y una unidad de polarización, que es la parte que ejecuta los cambios
+de dirección. La unidad de control recibe información sobre la posición y orientación del pozo a través de sensores y,
+utilizando esta información, envía señales o pulsos a través del lodo hacía la unidad de polarización para que ajuste la
+dirección de la broca mediante la activación de “aletas” (color rojo), las cuales se abren en una dirección en concreto
+tocando las parades del pozo para mantener la trayectoria. Las Revoluciones por minuto que pueden alcanzar estos
+sistemas es variable, pero puede superar los 200 RPM como (Omara, et al., 2021) indica en una aplicación de campo.
+
+En un motor de desplazamiento positivo (PDM) la sección de potencia del motor convierte la energía hidráulica del fluido
+de perforación en energía mecánica para hacer girar la broca a través del eje de transmisión en el extremo inferior (Alattar,
+et al., 2017). Si bien los motores PDM y RSS ofrecen velocidades máximas de 250 y 350 RPM, respectivamente, las
+condiciones de trabajo reales pueden requerir velocidades significativamente menores. En el caso de la perforación en el
+campo FR, por ejemplo, se utilizan rangos de 40-80 RPM para PDM y 35-125 RPM para RSS por lo que se es importante
+aclarar que los valores utilizados en campo dependen de las condiciones específicas de la operación y no necesariamente
+del máximo rendimiento del motor.
+
+Beneficios del Rotary Steerable
+• La rotación reduce el riesgo de buckling (encrespado / dobleces) en la tuberia lo que reduce la
+vibracion.
+• La rotación continua de la sarta de perforación reduce la probabilidad de pegamiento por diferencial.
+• Reduce torque y arrastre al generar una curvatura de pozo mas uniforme.
+• Permite pozos de alcance mas extendido.
+• Secciones horizontales y laterales más largas.
+
+• Mejora la evaluación de formaciones debido a que los “pads” de la herramienta wireline estan en
+mejor contacto.
+• Mejora la evaluación de la formación con herramientas LWD (igual que el anterior).
+• Control de la desviación en pozos verticales.
+
+Problemas en la perforación direccional
+• Aumentos de presión.
+• Decremento de presión.
+• Pérdida de tasa de penetración.
+
+- Incremento de presión:
+Motor represionado o acorralado (Stalled)
+Motor o Broca taponada.
+Pozo en bajo calibre / angostos (Undergauge -tight Hole)
+- Decrementos de presión
+Válvula Dump Sub abierta.
+Estator dañado o gastado.
+Lavado de tubería / quebrada Twist-off
+Perdida de circulación.
+Influjo de gas (Gas kick).
+
+Problemas en la perforación direccional
+- Perdida de la Tasa de penetración.
+Broca gastada o embolada.
+Estator gastado (Motor débil).
+Motor represionado/acorralado (Stalled).
+Cambio de formación.
+Estabilizador o tubería colgada.
+
+Restricciones de perforación
+Selección de la locación de superficie y diseño de pozo.
+
+Conocimiento previo de área perforada e identificación de áreas problemáticas.
+
+Planeamiento
+
+• Tasas de construcción (build rates)
+• El perfil construir y mantener debe ser de al menos 50 m.
+• La caída del ángulo en los pozos
+tipo “S” se planea preferentemente con 1.5° /30m.
+• El punto de arranque de la desviación (KOP) debe ser tan
+profundo como sea posible para reducir costos y desgaste en el
+revestimiento.
+• Planear una sección de aterrizaje suave en las secciones de
+construcción de
+pozos horizontales,.
+
+Planeamiento
+• Evitar altas inclinaciones a través de formaciones de fallas severas,
+quebradizas o muy buzadas.
+• En pozos horizontales se debe identificar contactos gas /agua.
+• Minimizar tasas de giro (Turn rates) en secciones laterales de pozos
+horizontales.
+• Verificar las tasas de construcción del motor con las exigidas en el
+Plan
+
+• Cuando sea posible iniciar un sidetrack (desvio) al menos con
+20m fuera del revestimiento.
+• Los doglegs podrían alcanzar 14 o /30m al salir del whipstock.
+• Identificar los pozos a 30m alrededor de la trayectoria del pozo,
+propuesto para evitar una colisión.
+
+Métodos de adquisición de datos
+• Existen dos métodos con los cuales se puede adquirir información LWD:
+– En Memoria
+– Tiempo Real
+
+Proceso de Medición de Datos en Memoria
+
+• Los datos en la memoria MWD/LWD se obtienen mediante el muestreo de los sensores en el fondo,
+almacenando los datos en la memoria, y recuperando los datos una vez que
+se saca la herramienta del pozo.
+• Se realiza un monitoreo de la profundidad vs. tiempo en la superficie durante la perforación.
+• Durante el proceso después de la corrida, los tiempos de los archivos de profundidad y datos de la
+herramienta se ajustan para crear un archivo que contiene datos vs profundidad utilizado para crear
+registros.
+
+Ventajas de la información en Memoria
+• Alta Resolución de Datos:
+• La resolución de datos es al menos tan buena o mejor que la data en tiempo real.
+• La resolución en tiempo real generalmente no es mayor a 8 bits (excepto data de surveys).
+• La resolución de data grabada es al menos 8-bits, y llegan hasta 16 -bits.
+• Típicamente reemplaza al tiempo real una vez que es extraída de la memoria de la herramienta.
+• Independiente de Problemas de transmisión.
+– No existe data perdida debido a problemas de detección o problemas de superficie.
+• Tasas de muestreo rápida.
+- Mas datos por intervalos de profundidad.
+- Puede almacenar datos mucho mas rápido que transmitirlos.
+- Puede registrar al agujero mas rápido que en tiempo real con la misma calidad en los datos.
+
+Desventajas de los Datos de memoria
+
+• No proporciona retroalimentación.
+–Datos de memoria no son de utilidad para la mecánica de perforación, datos tales como presión y
+vibración.
+–Es difícil de usar para predicción de “pore pressure” casing y puntos de muestras de core.
+–Impractico usar datos de memoria para perforación direccional y aplicaciones geosteering.
+
+Proceso de Medición de datos en tiempo real
+
+• Los Datos MWD/LWD en tiempo real se obtienen de sensores en el fondo, se codifica la información al
+formato binario, y se transmiten los datos a través de algún medio hacia la superficie.
+• La transmisión es decodificada en la superficie, los datos son procesados y se asocian con profundidad
+para crear registros en tiempo real.
+• El proceso parece simple, pero es extremadamente complejo y requiere una combinación de una
+sucesión de eventos para que un dato pueda ser procesado.
+
+Métodos de telemetría en tiempo real
+
+• En aplicaciones MWD/LWD en tiempo real existen 3 diferentes métodos de telemetría:
+– Pulso de lodo Positivo
+– Pulso de lodo Negativo
+– Electromagnético
+• “La Telemetría” básicamente esta relacionada a el acceso y transmisión de datos desde y hacia locaciones
+Remotas.
+
+• La industria MWD/LWD no creo la telemetría, pero la ha adaptado de otras disciplinas.
+
+Telemetría de Pulsos de Lodo
+• La telemetría de pulsos de lodo utiliza una trayectoria de
+transmisión no comprimible (columna de lodo en la tubería)
+para transportar las Ondas de presión de lodo creadas en el
+fondo por un pulsador.
+• La información del Sensor puede ser codificada de varias
+maneras (Manchester, modulación de posición del pulso, etc.),
+pero todos estos métodos requieren que los pulsos de presión
+sean detectados en la superficie para que la información pueda
+ser decodificada.
+
+Telemetría de Pulsos Positivos
+• La telemetría de pulsos positivos utiliza una válvula hidráulica para restringir por un momento el flujo de
+lodo a través de un orificio en el pulser.
+• Esto genera un aumento de presión en forma de un pulso positivo u onda de presión la cual viaja hasta la
+superficie y es detectada por un transductor sobre el piso de perforación y/o bombas.
+• El método de telemetría principal de Weatherford LWD y MWD es de Pulsos positivos.
+
+Telemetría de Pulsos Negativos
+
+• La telemetría de Pulsos Negativos utiliza una válvula controlada para liberar lodo por un momento
+desde el interior de la herramienta hacia el espacio anular.
+• Esto genera un decremento en presión en forma de un pulso negativo u onda de presión la cual viaja
+hasta superficie y es detectada por un transductor sobre el piso de perforación y/o bombas.
+
+Telemetría Electromagnética
+• Una Antena emisora EM inyecta una corriente eléctrica hacia la
+formación alrededor del agujero.
+• Se crea una onda electromagnética, la cual se propaga en la
+formación mientras es canalizada a lo largo de la tubería y el casing
+hasta superficie.
+• Los datos son transmitidos por modulación de corriente y
+descodificados en la superficie.
+• La propagación de las ondas EM por la tubería es mejorada por el
+efecto guiador de la tubería eléctricamente conductora.
+La señal es atenuada por efectos de la frecuencia de transmisión,
+la fuerza de la señal transmitida, y el nivel de interferencia.
+Trabaja bajo el principio de la ley de ohm (V = IR).
+
+• El Fluido de Perforación también puede crear alguno “efectos colaterales” no deseados:
+
+–Disminuye la ROP al aumentar la densidad del lodo.
+–Causa problemas en la detección de datos en Tiempo Real si la viscosidad del lodo es muy alta.
+–Puede causar daños irreversibles a la formación.
+–Son costosos – los lodos base aceite requieren contenedores y procesos para reciclar los recortes.
+
+–Se filtra hacia espacios porosos de formaciones permeables (en situaciones de sobre balance) haciendo
+que la interpretación de los registros sea más compleja y difícil.
+–Algunas herramientas de registros se vuelven inefectivas o inútiles (lodos base aceite, lodos saturados
+de sal) y pueden alterar severamente la respuesta del sensor (debido a aditivos en el lodo).
+
+Un survey es un conjunto de mediciones que describen la trayectoria y orientación de un pozo. Estas
+mediciones son esenciales para determinar la ubicación tridimensional del pozo a medida que se perfora.
+
+Componentes Clave de un Survey
+1.Inclinación (Inclination):
+El ángulo entre el eje del pozo y la vertical, medido en grados. Indica si el pozo está vertical, inclinado o
+desviado.
+2.Azimut (Azimuth):
+El ángulo medido en el plano horizontal con respecto al norte. Define la dirección hacia la cual el pozo
+está siendo perforado.
+3.Profundidad medida (Measured Depth, MD):
+La distancia total desde la superficie hasta el punto actual del pozo, siguiendo la trayectoria perforada.
+4.Profundidad verdadera vertical (True Vertical Depth, TVD):
+La distancia vertical directa desde la superficie hasta un punto específico del pozo.
+5.Desplazamiento lateral (Offset or Departure):
+La distancia horizontal entre el punto de inicio del pozo y su posición actual.
+
+Que es la Steering Data (Data de Direccionamiento)?
+• Steering, o toolface data, es la información dinámica y le comunica al perforador direccional la
+posición del ajuste del motor de fondo (herramienta deflectora).
+• El Toolface es medido por nuestro censor direccional y debe ser corregido para dar el toolface del
+motor, no del mwd
+– Esta correccion se llama: Toolface Offset
+• La orientación del ajuste del motor a la posición o direccion deseada le permite controlar la
+trayectoria que va a seguir el pozo.
+• Existen dos tipos de toolface data
+– Magnético
+– Highside (Gravitacional)
+
+Toolface Offset
+
+• Toolface Offset es la relación angular entre el highside del IDS o del CDS y el ajuste del motor de fondo.
+• Siempre se mide en sentido horario (mirando hacia abajo –la barrena) desde la línea escriba del LWD o MWD
+hacia la scribeline del motor de fondo.
+• El Offset es aplicado a los valores tanto del TF magnético como del gravitacional.
+• El CDS tiene un Offset Interno adicional debido a la forma fisica de su ensamblaje dentro del collar.
+
+Survey calculations
+MEDICIONES BÁSICAS:
+•Inclinación: Ángulo entre el pozo y la vertical.
+•Azimut: Ángulo entre el norte y la proyección horizontal del pozo.
+•Distancia: Longitud del trayecto entre estaciones de medición, medida como la longitud de tubería añadida en la
+superficie. Esto se utiliza para determinar la profundidad medida acumulada (MD).
+
+MÉTODOS DE CÁLCULO DE MEDICIONES:
+•Tangencial.
+•Ángulo promedio.
+•Radio de curvatura.
+•Curvatura mínima.
+
+MÉTODO TANGENCIAL
+
+•Supone que la inclinación es constante desde el
+punto de levantamiento actual hasta el último
+punto de levantamiento.
+•Puede ser preciso si el acimut y la inclinación no
+cambian mucho.
+•Puede ser preciso en distancias cortas.
+
+•Útil para cálculos rápidos de TVD (True Vertical
+Depth, o profundidad vertical verdadera).
+
+Método tangencial
+En este método la trayectoria del pozo se considera una línea recta definida por los ángulos de inclinación y azimut en la
+estación de medición que se encuentra a mayor profundidad. En la figura se puede apreciar que los ángulos medidos en la
+estación menos profunda de la sección de la trayectoria medida.
+
+Este método genera grandes errores en la posición,
+especialmente en trayectorias con cambios significativos entre
+estaciones. En pozos direccionales, donde inclinación y azimut
+varían en intervalos cortos, no se recomienda debido a su alto
+porcentaje de error acumulativo.
+
+Método del ángulo promedio
+Este método al igual que el método tangencial establece la longitud de la sección perforada como una línea recta la cual
+intercepta la estación superior y la estación inferior. Esta línea recta se define, obteniendo el promedio de los ángulos de
+inclinación y dirección de las dos estaciones superior e inferior.
+
+Este método es popular por su precisión y facilidad de
+uso con calculadoras manuales, siendo común durante
+la perforación si las estaciones de medición están
+cercanas. Sin embargo, es poco confiable en pozos
+verticales, ya que se basa en promedios de ángulos
+inexistentes en estos casos.
+
+MÉTODO DEL ÁNGULO PROMEDIO
+•Supone que la inclinación y el acimut son constantes y equivalen
+al promedio de los valores en dos puntos consecutivos de
+levantamiento.
+•Es más preciso que el método tangencial para trayectorias con
+cambios suaves.
+•Adecuado para cálculos de TVD y desplazamiento en trayectorias
+moderadamente curvadas.
+•Útil para obtener resultados razonables en distancias mayores que
+las del método tangencial.
+•Promedia la deriva (inclinación) y el acimut del punto de
+levantamiento anterior con los del punto de levantamiento actual.
+•Supone que los valores promedio son representativos del segmento entre los dos puntos.
+•Es útil para calcular TVD (profundidad vertical verdadera) y desplazamientos con mayor precisión que el método tangencial,
+especialmente en trayectorias con cambios suaves.
+
+Método de radio de curvatura
+Este método a diferencia de los anteriores que consideraban la trayectoria de la sección del pozo perforada como una línea recta,
+considera la sección como una línea circular tanto el plano vertical como en el plano horizontal. El arco formado por la línea
+circula es tangencial tanto a la inclinación como a la dirección en cada estación de medición de registro direccional (survey). Es
+por eso que la trayectoria del pozo puede ser descrita como un arco en el plano vertical, lo que hace que se asemeje a la cara de
+un cilindro vertical. El número π. Es el valor constante de la razón de la longitud de una circunferencia a su diámetro, se
+representa por la letra griega π (pi).
+
+Este método ofrece mejores resultados que el de ángulo
+promedio en trayectorias con forma de arco circular, como en la
+sección de construcción de ángulo. Sin embargo, al asumir un
+radio constante, genera errores en trayectorias largas donde la
+construcción del ángulo varía.
+
+Método de curvatura mínima
+Este método en realidad es una combinación del método tangencial balanceado y el método de radio de curvatura ya que asume,
+sin embargo en vez de asemejar la trayectoria del pozo entre dos secciones como dos líneas rectas, este método reemplaza a las
+líneas rectas por las de arcos circulares. Esto se hace mediante la aplicación de un factor de relación basado en la cantidad de
+flexión de la trayectoria del pozo entre las dos estaciones de la sección perforada (ángulo de la pata de perro).
+
+El método de curvatura mínima, ampliamente utilizado para
+calcular trayectorias de surveys direccionales, requiere
+operaciones matemáticas complejas, por lo que se emplea
+principalmente con computadoras en el equipo de perforación.
+
+MÉTODO DEL RADIO DE CURVATURA
+•Supone que la trayectoria del pozo es una curva suave que puede ajustarse a la
+superficie de un cilindro con un radio específico.
+•La tasa de cambio de la inclinación (DLS, Dogleg Severity) es variable, mientras
+que el radio de curvatura (BR, Build Rate) y el cambio de acimut (TR, Turn Rate)
+se mantienen constantes.
+
+•Es más preciso que el método del ángulo promedio, pero aún no lo
+suficientemente preciso para trayectorias complejas.
+
+CURVATURA MÍNIMA
+•Ajusta la trayectoria del pozo a la superficie de una esfera con
+un radio específico.
+•La severidad del Dogleg (DLS) se mantiene constante,
+mientras que la tasa de construcción (BR) y la tasa de giro (TR)
+son variables.
+
+•Emplea un método similar al de radio de curvatura, pero
+optimizado para mayor precisión.
+•Es el método más preciso y se utiliza como estándar en la
+industria.
+•Utiliza los vectores espaciales definidos por la inclinación y el acimut en los puntos de levantamiento.
+•Suaviza estos vectores sobre un arco esférico definido por la curvatura de la trayectoria del pozo.
+•Esta curvatura se denomina: DOGLEG (cambio angular entre dos puntos consecutivos de la trayectoria).
+
+CURVATURA MÍNIMA
+FACTOR DE RADIO (RATIO FACTOR - RF)
+•La inclinación y el acimut definen direcciones de líneas rectas en el espacio.
+•Los segmentos de línea se suavizan utilizando el Ratio Factor (RF) para ajustar
+la trayectoria.
+
+CÁLCULO DE LA POSICIÓN DE LA ESTACIÓN ACTUAL
+•Determina la posición de la estación actual en relación con la estación previa.
+•Se basa en la inclinación, el acimut y la distancia medida entre las estaciones para calcular las coordenadas relativas (Norte,
+Este y TVD).
+
+Trayectoria de pozos
+• Pozo Tipo I o "J": Tiene una sección vertical inicial, luego del KOP, una zona de construcción de ángulo de radio R y
+finalmente la zona de tangente que se mantiene hasta alcanzar el reservorio objetivo.
+• Pozo Tipo II o "S": Adopta una forma de "S”, con la sección vertical inicial seguida de la zona de construcción de ángulo
+de radio R1. Luego se perfora el pozo sin variar la inclinación en la zona de tangente. A diferencia del Pozo tipo J, el pozo
+tipo S, tiene una sección de tumbado de ángulo de radio R2, la sección finaliza cuando se alcanza la verticalidad es decir
+inclinación cero y se continúa perforando hasta alcanzar el reservorio objetivo.
+• Pozo Tipo III: A diferencia con los pozos tipo I y II este tipo de perfil solamente tiene dos secciones, la sección vertical
+inicial, y la sección de construcción de ángulo de radio R, nunca se crea una sección de pendiente ni de tumbado de ángulo.
+
+Trayectoria de pozos
+Además de estos tipos comunes de pozos, se tiene una variación del pozo Tipo I que es el "J modificado" su característica es
+que tiene una zona adicional donde se destruye o tumba el ángulo, parecido al pozo Tipo “S”, pero en este caso el pozo “J
+modificado” nunca llega a la verticalidad.
+
+La representación de un perfil de pozo J modificado real, donde el eje vertical representa la profundidad vertical verdadera o
+TVD,medida en pies y las siglas VS del eje horizontal significa la “sección vertical” o lo que es lo mismo, el desplazamiento
+horizontal, medido en pies.
+
+Trayectoria de pozos
+
+Trayectoria Incrementar-Mantener (Slant):
+La trayectoria tipo “Slant” consta de una sección vertical, seguida de una sección curva donde el ángulo de inclinación se
+incrementa hasta alcanzar el valor deseado, el cual es mantenido (sección tangente o sección de mantener) hasta alcanzar
+el objetivo.
+
+La trayectoria tipo “Slant”
+
+Trayectoria Incrementar-Mantener (Slant):
+Ángulo máximo de inclinación:
+
+Trayectoria Incrementar-Mantener (Slant):
+
+Trayectoria Incrementar-Mantener (Slant):
+
+Ejercicio
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+
+Desplazamiento horizontal al objetivo, DH. Grafique en las coordenadas dadas.
+Radio de curvatura, R1
+Ángulo máximo de inclinación, θ.
+Longitud de la curva, LC
+Ángulo formado por la sección tangente y la recta que une al objetivo con el vértice del máximo ángulo de inclinación, Ω.
+Longitud de la sección tangente, 𝑳tan.
+Cálculo de profundidades verticales, D; desplazamiento horizontales, X; y profundidades desarrolladas, Profdes.
+
+Ejercicio
+
+Ejercicio
+
+Trayectoria Incrementar-Mantener -Disminuir (Tipo S)
+La trayectoria tipo “S” esta formada por una sección vertical, seguida por un ángulo de inclinación que se incrementa
+hasta alcanzar el valor deseado, luego se tiene una sección recta (sección tangente o sección de mantener), y por último se
+tiene una sección en la que se disminuye el ángulo para entrar verticalmente al objetivo.
+
+Trayectoria Incrementar-Mantener -Disminuir (Tipo S)
+
+Trayectoria Incrementar-Mantener -Disminuir (Tipo S)
+
+Trayectoria Incrementar-Mantener -Disminuir (Tipo S)
+
+Trayectoria Incrementar-Mantener -Disminuir (Tipo S)
+
+Ejercicio
+
+Trayectoria Incrementar-MantenerDisminuir y/o Mantener (Tipo“S” modificada)
+
+La trayectoria tipo “S” modificada esta conformada por una sección vertical, unángulo de inclinación que se incrementa
+hasta alcanzar el valor deseado, a continuación se tiene una sección recta (sección tangente o sección de mantener), seguida
+de una sección en la que se disminuye el ángulo parcialmente (menor al ángulo de incrementar) y por último se tiene una
+sección tangente o sección de mantener con cual se logra entrar de forma inclinada al objetivo.
+
+Trayectoria Incrementar-MantenerDisminuir y/o Mantener (Tipo“S” modificada)
+
+Trayectoria Incrementar-MantenerDisminuir y/o Mantener (Tipo“S” modificada)
+
+Trayectoria Incrementar-MantenerDisminuir y/o Mantener (Tipo“S” modificada)
+
+Trayectoria Incrementar-MantenerDisminuir y/o Mantener (Tipo“S” modificada)
+
+Ejercicio
+
+Trayectoria Horizontal
+
+Ejercicio Deber
+Variables dadas:
+Coordenadas UTM (Terrestre):
+Equipo:
+X = 482,185.88 mts E (Long: 99°10'5.48" W)
+Y = 1,980,490.09 mts N (Lat: 17°54'48.14" N)
+Objetivo:
+X = 482,113.04 mts E (Long: 99°10'7.95" W)
+Y = 1,980,187.17 mts N (Lat: 17°54'38.28" N)
+Coordenadas Rectangulares:
+302.92 S y 72.84 W
+
+Profundidades:
+•Profundidad al inicio del desvío (KOP): 1600 mts
+•Punto de inicio de descenso de ángulo: 2385.14 mts
+•Profundidad del punto de disminución: 2706.56 mts
+•Profundidad vertical total (TVD): 4120 mts
+Tasas:
+•Tasa de incremento de ángulo: 2°/30
+•Tasa de disminución de ángulo: 2°/30
+
+•Grafique las coordenadas UTM y ubique la orientación del pozo.
+•Calcular el desplazamiento horizontal (Dh) y D4.
+•Calcular los radios de curvatura (R1 y R2).
+•Calcular el ángulo máximo (consideraciones para V2).
+•Obtener la profundidad vertical al ángulo máximo (V2).
+•Cálculo del desplazamiento horizontal al ángulo máximo (D2).
+•Calcular la profundidad medida al ángulo máximo (HC).
+•Desplazamiento al final de la sección tangencial (D'B).
+•Determinar la profundidad medida al final de la sección tangencial (HB).
+•Profundidad medida al final del descenso de ángulo (HF).
+•Obtener la profundidad medida total (HZ).
+
+GRACIAS
+
+
